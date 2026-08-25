@@ -1,0 +1,8 @@
+{
+  "name": "dsh-infinite-gen-2",
+  "version": "0.2.3",
+  "description": "DeepSeek Harness 破甲插件「无限二代」",
+  "main": "index.js",
+  "author": "MingLin",
+  "license": "MIT"
+}

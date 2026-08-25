@@ -1,0 +1,9 @@
+:root {
+  --whale-bg-base: #0f172a;
+  --whale-bg-surface: rgba(15, 23, 42, 0.85);
+  --whale-border: rgba(56, 189, 248, 0.25);
+  --whale-text-main: #f8fafc;
+  --whale-text-muted: #94a3b8;
+  --whale-accent: #38bdf8;
+  --whale-glow: 0 0 20px rgba(56, 189, 248, 0.35);
+}

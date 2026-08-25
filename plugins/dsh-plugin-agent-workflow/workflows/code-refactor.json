@@ -1,0 +1,17 @@
+{
+  "id": "code-refactor-workflow",
+  "name": "智能代码重构与质量提升",
+  "description": "自动化分析代码异味并执行重构建议输出",
+  "steps": [
+    {
+      "name": "代码语法与逻辑分析",
+      "type": "prompt_template",
+      "outputKey": "ast_analysis"
+    },
+    {
+      "name": "重构方案生成",
+      "type": "prompt_template",
+      "outputKey": "refactored_code"
+    }
+  ]
+}

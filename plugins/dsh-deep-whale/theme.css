@@ -1,0 +1,8 @@
+/* Deep Whale 鲸鱼娘主题皮肤样式 */
+:root {
+  --dsh-primary-color: #0284c7;
+  --dsh-accent-color: #38bdf8;
+  --dsh-bg-gradient: linear-gradient(135deg, #0f172a 0%, #0c4a6e 50%, #082f49 100%);
+  --dsh-panel-bg: rgba(15, 23, 42, 0.75);
+  --dsh-border-color: rgba(56, 189, 248, 0.2);
+}

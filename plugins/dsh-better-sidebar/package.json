@@ -1,0 +1,15 @@
+{
+  "name": "dsh-better-sidebar",
+  "version": "1.0.0",
+  "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "sidebar",
+    "tools"
+  ],
+  "author": "Minglink",
+  "license": "MIT"
+}

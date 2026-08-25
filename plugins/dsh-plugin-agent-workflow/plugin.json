@@ -1,0 +1,25 @@
+{
+  "id": "dsh-plugin-agent-workflow",
+  "name": "Plugin Agent Workflow",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness Agent Workflow 工作流引擎插件，支持多步骤推理、工具链编排与自动化任务执行",
+  "descriptionEn": "DeepSeek Harness Agent Workflow engine plugin, supporting multi-step reasoning, tool-chain orchestration, and automated task execution.",
+  "author": "MingLin",
+  "authorUrl": "https://github.com/Minglink",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-plugin-agent-workflow",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "filesystem",
+    "network",
+    "workflow"
+  ],
+  "tags": [
+    "workflow",
+    "agent",
+    "automation",
+    "dsh-plugin-agent-workflow"
+  ],
+  "category": "workflow"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dsh-infinite-gen-2",
+  "name": "dsh-infinite-gen-2",
+  "version": "0.2.3",
+  "description": "DeepSeek Harness 破甲插件「无限二代」: v5 稳定化破甲提示词（含拒绝对抗增强），客户端在对话框上方显示「破甲已开启」状态条。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-infinite-gen-2",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "prompt",
+    "ui",
+    "armor-breaking"
+  ],
+  "tags": [
+    "plugin",
+    "armor-breaking",
+    "infinite-gen"
+  ],
+  "category": "prompt"
+}

@@ -1,0 +1,13 @@
+/* Deep Whale 极光深海主题 */
+@import './tokens.css';
+
+body {
+  background: var(--whale-bg-base) !important;
+  color: var(--whale-text-main) !important;
+}
+
+.panel, .card {
+  background: var(--whale-bg-surface) !important;
+  border-color: var(--whale-border) !important;
+  box-shadow: var(--whale-glow) !important;
+}

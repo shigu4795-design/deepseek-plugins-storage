@@ -1,0 +1,15 @@
+{
+  "name": "dsh-deep-whale",
+  "version": "1.0.0",
+  "description": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的鲸鱼娘系列皮肤。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "theme",
+    "skin",
+    "deep-whale"
+  ],
+  "author": "Minglink",
+  "license": "MIT"
+}

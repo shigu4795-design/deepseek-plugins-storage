@@ -1,0 +1,16 @@
+{
+  "name": "modlens",
+  "version": "1.0.0",
+  "description": "全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "vision",
+    "ocr",
+    "multimodal"
+  ],
+  "author": "Minglink",
+  "license": "MIT"
+}
