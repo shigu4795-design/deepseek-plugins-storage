@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/shigu4795-design/deepseek-plugins-storage/main/logo.png" width="130" height="130" alt="DeepSeek Harness Official Logo" />
+
 # 📦 DeepSeek Plugins Official Storage
 ### ⚡ DeepSeek Harness Hub 官方统一插件托管与转制 Monorepo 仓库
 
