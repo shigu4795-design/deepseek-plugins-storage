@@ -1,0 +1,32 @@
+{
+  "name": "deepseek-harness-desktop",
+  "version": "1.0.0",
+  "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agent",
+    "ai-coding-assistant",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "desktop-app",
+    "dsh",
+    "dsh-plugin",
+    "electron",
+    "electron-app",
+    "gui",
+    "open-source",
+    "plugin-system",
+    "plugins",
+    "remote-access",
+    "skills",
+    "ssh-client",
+    "windows",
+    "windows-desktop"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

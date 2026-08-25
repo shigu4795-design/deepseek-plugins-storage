@@ -1,0 +1,32 @@
+{
+  "id": "dsh-tabbit",
+  "name": "Tabbit",
+  "version": "1.0.0",
+  "description": "Tabbit Browser plugins for Deepseek Harness",
+  "descriptionEn": "Tabbit Browser plugins for Deepseek Harness",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-tabbit",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "awesome-dsh-plugin",
+    "browser-automation",
+    "browser-use",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-desktop",
+    "dsh-plugin-market",
+    "dsh-plugin-verify",
+    "dsh-plugins",
+    "playwright",
+    "tabbit"
+  ],
+  "category": "tools"
+}

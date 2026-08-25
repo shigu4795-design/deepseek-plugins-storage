@@ -1,0 +1,14 @@
+{
+  "name": "dsh-file-review",
+  "version": "1.0.0",
+  "description": "dsh插件 - 立刻审查agent对文件的修改，查看diff。a dsh plugin - review  files that an agent just changed,you can see the diff",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

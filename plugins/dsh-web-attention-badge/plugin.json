@@ -1,0 +1,29 @@
+{
+  "id": "dsh-web-attention-badge",
+  "name": "Web Attention Badge",
+  "version": "1.0.0",
+  "description": "Attention reminders for the DeepSeek Harness Web UI: frame badge, (N) tab title and whale-favicon recolor for sessions waiting for input or finished unopened.",
+  "descriptionEn": "Attention reminders for the DeepSeek Harness Web UI: frame badge, (N) tab title and whale-favicon recolor for sessions waiting for input or finished unopened.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-web-attention-badge",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "badge",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "notification",
+    "web"
+  ],
+  "category": "ui"
+}

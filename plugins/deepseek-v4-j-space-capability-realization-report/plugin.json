@@ -1,0 +1,27 @@
+{
+  "id": "deepseek-v4-j-space-capability-realization-report",
+  "name": "DeepSeek V4 J Space Capability Realization Report",
+  "version": "1.0.0",
+  "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4.",
+  "descriptionEn": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseek-v4-j-space-capability-realization-report",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "benchmark",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "workflow"
+}

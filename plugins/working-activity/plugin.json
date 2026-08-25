@@ -1,0 +1,26 @@
+{
+  "id": "working-activity",
+  "name": "Working Activity",
+  "version": "1.0.0",
+  "description": "Lively Working-line extension for pi CLI and DSH",
+  "descriptionEn": "Lively Working-line extension for pi CLI and DSH",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/working-activity",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "dsh-plugin",
+    "pi-coding-agent",
+    "pi-plugin",
+    "statusline",
+    "working-line"
+  ],
+  "category": "workflow"
+}

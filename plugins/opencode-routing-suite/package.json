@@ -1,0 +1,18 @@
+{
+  "name": "opencode-routing-suite",
+  "version": "1.0.0",
+  "description": "Task-aware reasoning-mode routing for opencode: spec/react/weak three-band agent routing, ported from yjh051108/dsh-routing-suite",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agent",
+    "deepseek-harness",
+    "opencode",
+    "plugin",
+    "routing"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

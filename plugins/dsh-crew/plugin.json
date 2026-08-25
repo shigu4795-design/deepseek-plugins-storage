@@ -1,0 +1,33 @@
+{
+  "id": "dsh-crew",
+  "name": "Crew",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
+  "descriptionEn": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-crew",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "mcp",
+    "multimodal",
+    "orchestration",
+    "plugin",
+    "subagent",
+    "typescript"
+  ],
+  "category": "models"
+}

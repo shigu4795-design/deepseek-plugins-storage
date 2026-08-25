@@ -1,0 +1,30 @@
+{
+  "id": "reactive-resume",
+  "name": "Reactive Resume",
+  "version": "1.0.0",
+  "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+  "descriptionEn": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/reactive-resume",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai",
+    "dsh-plugin",
+    "hacktoberfest",
+    "javascript",
+    "mcp-server",
+    "react",
+    "resume-builder",
+    "self-hosted",
+    "typescript"
+  ],
+  "category": "ui"
+}

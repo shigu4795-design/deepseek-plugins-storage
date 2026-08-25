@@ -1,0 +1,27 @@
+{
+  "name": "ai-novel-writer",
+  "version": "1.0.0",
+  "description": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-writing",
+    "creative-writing",
+    "deepseek-harness",
+    "dsh-plugin",
+    "electron",
+    "fiction-writing",
+    "local-first",
+    "long-form-fiction",
+    "novel-writing",
+    "ollama",
+    "rag",
+    "web-novel",
+    "worldbuilding",
+    "writing-assistant"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

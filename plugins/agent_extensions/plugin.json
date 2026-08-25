@@ -1,0 +1,28 @@
+{
+  "id": "agent_extensions",
+  "name": "Agent Extensions",
+  "version": "1.0.0",
+  "description": "Agent Skills & DeepSeek Harness (DSH) 扩展库：通用智能体技能（General_skills）+ DSH 标准插件（dsh-plugin），开箱即用的 AI Agent 能力增强集合。",
+  "descriptionEn": "Agent Skills & DeepSeek Harness (DSH) 扩展库：通用智能体技能（General_skills）+ DSH 标准插件（dsh-plugin），开箱即用的 AI Agent 能力增强集合。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/agent_extensions",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "deepseek-harness",
+    "dsh-plugin",
+    "prompt-engineering",
+    "python",
+    "skills",
+    "translation"
+  ],
+  "category": "prompt"
+}

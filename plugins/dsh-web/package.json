@@ -1,0 +1,19 @@
+{
+  "name": "dsh-web",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "cordis",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-web",
+    "dsh-web-ui"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "dsh-plugin-pet",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 桌面电子宠物插件：跟随 agent 状态变换心情的内置/自定义/Codex 精灵图伙伴。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "codex",
+    "companion",
+    "cordis",
+    "deepseek",
+    "deepseek-ai",
+    "deepseek-harness",
+    "devtools",
+    "dsh",
+    "dsh-plugin",
+    "javascript",
+    "node",
+    "open-source",
+    "overlay",
+    "pet",
+    "plugin",
+    "react",
+    "sprite",
+    "spritesheet",
+    "ui-plugin",
+    "web-ui"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

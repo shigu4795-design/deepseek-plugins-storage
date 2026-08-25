@@ -1,0 +1,24 @@
+{
+  "id": "deepseek-harness",
+  "name": "Harness",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness: Everything is a Plugin.",
+  "descriptionEn": "DeepSeek Harness: Everything is a Plugin.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseek-harness",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agents",
+    "cordis",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "workflow"
+}

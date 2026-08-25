@@ -1,0 +1,15 @@
+{
+  "name": "dsh-raw-html",
+  "version": "1.0.0",
+  "description": "VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "ui"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

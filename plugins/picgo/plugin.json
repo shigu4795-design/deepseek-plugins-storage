@@ -1,0 +1,38 @@
+{
+  "id": "picgo",
+  "name": "PicGo",
+  "version": "1.0.0",
+  "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+  "descriptionEn": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/picgo",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "aliyun-oss",
+    "cloudflare-r2",
+    "dsh-plugin",
+    "electron",
+    "electron-app",
+    "electron-vue",
+    "github",
+    "image",
+    "imageuploader",
+    "imgur",
+    "imgur-uploader",
+    "qiniu",
+    "s3-uploader",
+    "smms",
+    "tencent-cos",
+    "upyun",
+    "vue",
+    "weibo"
+  ],
+  "category": "dev"
+}

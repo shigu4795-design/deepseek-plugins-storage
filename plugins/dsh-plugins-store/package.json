@@ -1,0 +1,19 @@
+{
+  "name": "dsh-plugins-store",
+  "version": "1.0.0",
+  "description": "自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-tools",
+    "awesome-list",
+    "community-project",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

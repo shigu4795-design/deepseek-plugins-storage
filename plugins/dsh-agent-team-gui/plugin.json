@@ -1,0 +1,36 @@
+{
+  "id": "dsh-agent-team-gui",
+  "name": "Agent Team Gui",
+  "version": "1.0.0",
+  "description": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+  "descriptionEn": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-agent-team-gui",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "agent-orchestration",
+    "ai-agents",
+    "dag",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "multi-agent",
+    "multi-model",
+    "orchestration",
+    "react",
+    "token-usage",
+    "typescript",
+    "workflow-engine"
+  ],
+  "category": "ui"
+}

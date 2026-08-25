@@ -1,0 +1,25 @@
+{
+  "id": "custom-first-control-prompt",
+  "name": "Custom First Control Prompt",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness plugin for insert custom prompt",
+  "descriptionEn": "DeepSeek Harness plugin for insert custom prompt",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/custom-first-control-prompt",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins"
+  ],
+  "category": "prompt"
+}

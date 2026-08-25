@@ -1,0 +1,27 @@
+{
+  "id": "dsh-personalize",
+  "name": "Personalize",
+  "version": "1.0.0",
+  "description": "Per-host personalization for DSH: custom instructions, local long-term memory, and reply-tone presets.",
+  "descriptionEn": "Per-host personalization for DSH: custom instructions, local long-term memory, and reply-tone presets.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-personalize",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "personalization",
+    "plugin"
+  ],
+  "category": "prompt"
+}

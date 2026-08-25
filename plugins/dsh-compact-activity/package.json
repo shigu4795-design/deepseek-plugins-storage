@@ -1,0 +1,18 @@
+{
+  "name": "dsh-compact-activity",
+  "version": "1.0.0",
+  "description": "compact reasoning and tool activity groups for DeepSeek Harness Web and DeepSeek Harness Desktop.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

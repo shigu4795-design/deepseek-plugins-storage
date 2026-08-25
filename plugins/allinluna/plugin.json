@@ -1,0 +1,33 @@
+{
+  "id": "allinluna",
+  "name": "Allinluna",
+  "version": "1.0.0",
+  "description": "Resource-aware multi-agent orchestration for Codex and DeepSeek Harness (All in Flash DSH plugin)",
+  "descriptionEn": "Resource-aware multi-agent orchestration for Codex and DeepSeek Harness (All in Flash DSH plugin)",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/allinluna",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-orchestration",
+    "agent-skills",
+    "ai-agents",
+    "allinflash",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "luna",
+    "multi-agent",
+    "orchestration"
+  ],
+  "category": "workflow"
+}

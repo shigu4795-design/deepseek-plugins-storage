@@ -1,15 +1,15 @@
 {
   "name": "dsh-plugin-agent-workflow",
   "version": "1.0.0",
-  "description": "DeepSeek Harness Agent Workflow 工作流引擎插件，支持多步骤推理、工具链编排与自动化任务执行",
+  "description": "DeepSeek Harness Agent Workflow",
   "main": "index.js",
   "keywords": [
     "dsh-plugin",
     "deepseek",
     "deepseek-harness",
-    "workflow",
-    "agent"
+    "dsh-plugin",
+    "workflow"
   ],
-  "author": "Minglink",
+  "author": "MingLin",
   "license": "MIT"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "treg",
+  "name": "Treg",
+  "version": "1.0.0",
+  "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+  "descriptionEn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/treg",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agents",
+    "api-keys",
+    "cli",
+    "credentials",
+    "developer-tools",
+    "dsh-plugin",
+    "mcp",
+    "proxy",
+    "python",
+    "registry",
+    "secrets"
+  ],
+  "category": "workflow"
+}

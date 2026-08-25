@@ -1,0 +1,19 @@
+{
+  "name": "dsh-ui",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness desktop",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek",
+    "deepseek-desktop",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dsh_creative_workshop",
+  "name": "DSH Creative Workshop",
+  "version": "1.0.0",
+  "description": "Steam-Workshop-inspired discovery, trust, graph search, collections, and transactional installation planning for DeepSeek Harness plugins",
+  "descriptionEn": "Steam-Workshop-inspired discovery, trust, graph search, collections, and transactional installation planning for DeepSeek Harness plugins",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh_creative_workshop",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "dsh-plugin",
+    "workflow"
+  ],
+  "category": "workflow"
+}

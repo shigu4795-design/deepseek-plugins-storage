@@ -1,0 +1,30 @@
+{
+  "id": "dsh-chinese-traditional-wisdom-skill",
+  "name": "Chinese Traditional Wisdom Skill",
+  "version": "1.0.0",
+  "description": "中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。",
+  "descriptionEn": "中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-chinese-traditional-wisdom-skill",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agent",
+    "bazi",
+    "chinese-traditional-wisdom",
+    "dashboard",
+    "deepseek-harness",
+    "dsh-plugin",
+    "fengshui",
+    "iching",
+    "tcm",
+    "ziwei-doushu"
+  ],
+  "category": "ui"
+}

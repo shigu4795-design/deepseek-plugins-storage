@@ -1,0 +1,40 @@
+{
+  "id": "memsearch",
+  "name": "Memsearch",
+  "version": "1.0.0",
+  "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.",
+  "descriptionEn": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/memsearch",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "agent-memory",
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "embeddings",
+    "hybrid-search",
+    "long-term-memory",
+    "memory",
+    "milvus",
+    "openclaw",
+    "opencode",
+    "rag",
+    "semantic-search",
+    "skills"
+  ],
+  "category": "models"
+}

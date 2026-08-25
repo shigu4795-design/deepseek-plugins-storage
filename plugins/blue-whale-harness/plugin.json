@@ -1,0 +1,27 @@
+{
+  "id": "blue-whale-harness",
+  "name": "Blue Whale Harness",
+  "version": "1.0.0",
+  "description": "DeepSeek-Harness-Plugins",
+  "descriptionEn": "DeepSeek-Harness-Plugins",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/blue-whale-harness",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-v4-pro",
+    "harness",
+    "harness-ai",
+    "plugin-marketplace",
+    "plugins"
+  ],
+  "category": "tools"
+}

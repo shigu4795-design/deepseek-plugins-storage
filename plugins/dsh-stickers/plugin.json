@@ -1,0 +1,22 @@
+{
+  "id": "dsh-stickers",
+  "name": "Stickers",
+  "version": "1.0.0",
+  "description": "DSH WebUI sticker plugin for bidirectional user and agent reactions",
+  "descriptionEn": "DSH WebUI sticker plugin for bidirectional user and agent reactions",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-stickers",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "ui"
+}

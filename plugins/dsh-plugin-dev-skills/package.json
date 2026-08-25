@@ -1,0 +1,28 @@
+{
+  "name": "dsh-plugin-dev-skills",
+  "version": "1.0.0",
+  "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "agent-skill",
+    "agent-skills",
+    "ai",
+    "ai-agent",
+    "awesome-dsh-plugin",
+    "claude-code",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "llm-agent",
+    "skill",
+    "skills"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

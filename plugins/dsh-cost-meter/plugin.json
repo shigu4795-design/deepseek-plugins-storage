@@ -1,0 +1,31 @@
+{
+  "id": "dsh-cost-meter",
+  "name": "Cost Meter",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
+  "descriptionEn": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-cost-meter",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "cost-tracking",
+    "deepseek",
+    "deepseek-api",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "harness",
+    "llm",
+    "plugins",
+    "token-usage"
+  ],
+  "category": "ui"
+}

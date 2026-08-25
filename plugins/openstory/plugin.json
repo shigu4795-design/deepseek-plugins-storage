@@ -1,0 +1,25 @@
+{
+  "id": "openstory",
+  "name": "OpenStory",
+  "version": "1.0.0",
+  "description": "An LLM-powered multi-agent framework for simulating interactive, evolving story worlds.",
+  "descriptionEn": "An LLM-powered multi-agent framework for simulating interactive, evolving story worlds.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/openstory",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "dsh-plugin",
+    "large-language-models",
+    "multi-agent-systems",
+    "social-simulation"
+  ],
+  "category": "models"
+}

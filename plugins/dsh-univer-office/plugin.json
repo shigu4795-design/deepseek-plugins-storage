@@ -1,0 +1,25 @@
+{
+  "id": "dsh-univer-office",
+  "name": "Univer Office",
+  "version": "1.0.0",
+  "description": "Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.",
+  "descriptionEn": "Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-univer-office",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "office",
+    "office-harness"
+  ],
+  "category": "tools"
+}

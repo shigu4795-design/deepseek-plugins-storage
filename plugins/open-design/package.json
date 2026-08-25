@@ -1,0 +1,33 @@
+{
+  "name": "open-design",
+  "version": "1.0.0",
+  "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skills",
+    "ai-design",
+    "byok",
+    "claude-code-for-design",
+    "claude-design",
+    "codex-design",
+    "coding-agents",
+    "cursor-design",
+    "deepseek",
+    "deepseek-harness",
+    "design-systems",
+    "desktop-app",
+    "dsh",
+    "dsh-plugin",
+    "figma-alternative",
+    "hermes-agent",
+    "local-first",
+    "prototyping",
+    "ui-generator",
+    "vibe-coding"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

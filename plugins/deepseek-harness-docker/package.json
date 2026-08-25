@@ -1,0 +1,19 @@
+{
+  "name": "deepseek-harness-docker",
+  "version": "1.0.0",
+  "description": "deepseek-harness docker部署",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-docker",
+    "deepseek-harness-plugin",
+    "docker",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

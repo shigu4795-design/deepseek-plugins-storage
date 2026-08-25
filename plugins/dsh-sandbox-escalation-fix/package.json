@@ -1,0 +1,19 @@
+{
+  "name": "dsh-sandbox-escalation-fix",
+  "version": "1.0.0",
+  "description": "Session-aware sandbox escalation compatibility plugin for DeepSeek Harness/DSH第三方模型会话沙箱升级兼容插件",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh-plugin",
+    "dsh-plugins",
+    "sandbox-escalation"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

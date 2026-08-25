@@ -1,0 +1,31 @@
+{
+  "name": "awesome-dsh-plugins",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agnet",
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "coding-agent",
+    "coding-agents",
+    "cordis",
+    "cordis-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "deepseek-v4-pro",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

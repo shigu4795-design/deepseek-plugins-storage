@@ -1,0 +1,25 @@
+{
+  "name": "learn-harness-engineering",
+  "version": "1.0.0",
+  "description": "Harness engineering beginner tutorial, from 0 to 1",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "dsh",
+    "dsh-plugin",
+    "harness",
+    "harness-engineering",
+    "harness-framework",
+    "llm"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

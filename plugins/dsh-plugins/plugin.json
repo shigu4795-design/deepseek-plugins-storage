@@ -1,0 +1,23 @@
+{
+  "id": "dsh-plugins",
+  "name": "Plugins",
+  "version": "1.0.0",
+  "description": "Make Deepseek Harness Great",
+  "descriptionEn": "Make Deepseek Harness Great",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-plugins",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins"
+  ],
+  "category": "tools"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "pi2dsh",
+  "version": "1.0.0",
+  "description": "Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agents",
+    "compatibility-layer",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "migration",
+    "pi",
+    "pi-agent",
+    "plugin-migration"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

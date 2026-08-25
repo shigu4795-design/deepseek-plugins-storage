@@ -1,0 +1,30 @@
+{
+  "name": "vox-director",
+  "version": "1.0.0",
+  "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai",
+    "ai-video",
+    "claude-code",
+    "claude-skill",
+    "collage-video",
+    "dsh-plugin",
+    "explainer-video",
+    "ffmpeg",
+    "generative-ai",
+    "llm",
+    "motion-graphics",
+    "python",
+    "text-to-video",
+    "tts",
+    "video",
+    "video-generation",
+    "vox"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

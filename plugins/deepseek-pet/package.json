@@ -1,0 +1,16 @@
+{
+  "name": "deepseek-pet",
+  "version": "1.0.0",
+  "description": "在你的deepseek-harness上养一只吃白饭的大蓝鲸",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

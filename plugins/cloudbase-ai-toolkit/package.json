@@ -1,0 +1,29 @@
+{
+  "name": "cloudbase-ai-toolkit",
+  "version": "1.0.0",
+  "description": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skills",
+    "ai",
+    "aicoding",
+    "claude-code",
+    "cloudbase",
+    "cursor",
+    "database",
+    "dsh-plugin",
+    "mcp",
+    "mcp-server",
+    "miniprogram",
+    "postgresql",
+    "supabase",
+    "tencent",
+    "vibe-coding",
+    "web"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "reme",
+  "version": "1.0.0",
+  "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "ai-agents",
+    "dsh-plugin",
+    "memory",
+    "memoryscope",
+    "rag",
+    "reme"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

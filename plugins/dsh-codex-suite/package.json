@@ -1,0 +1,15 @@
+{
+  "name": "dsh-codex-suite",
+  "version": "1.0.0",
+  "description": "OpenAI Codex provider for DeepSeek Harness with ChatGPT OAuth, native settings, and account usage.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

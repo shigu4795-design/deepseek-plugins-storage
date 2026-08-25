@@ -1,0 +1,32 @@
+{
+  "id": "dsh-plugin-cc",
+  "name": "Plugin Cc",
+  "version": "1.0.0",
+  "description": "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import.",
+  "descriptionEn": "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-plugin-cc",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agent",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-plugin",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "slash-commands"
+  ],
+  "category": "models"
+}

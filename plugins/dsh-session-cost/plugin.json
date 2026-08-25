@@ -1,0 +1,29 @@
+{
+  "id": "dsh-session-cost",
+  "name": "Session Cost",
+  "version": "1.0.0",
+  "description": "DSH plugin: estimated DeepSeek API cost per session in the web GUI stats strip",
+  "descriptionEn": "DSH plugin: estimated DeepSeek API cost per session in the web GUI stats strip",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-session-cost",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "cost",
+    "cost-tracking",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "token"
+  ],
+  "category": "ui"
+}

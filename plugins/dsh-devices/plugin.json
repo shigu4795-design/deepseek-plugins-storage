@@ -1,0 +1,28 @@
+{
+  "id": "dsh-devices",
+  "name": "Devices",
+  "version": "1.0.0",
+  "description": "Turn your devices into a fleet — dph plugin for decentralized multi-device collaboration: mDNS discovery, key pairing, SSH direct exec. Tools auto-register for dph agents.",
+  "descriptionEn": "Turn your devices into a fleet — dph plugin for decentralized multi-device collaboration: mDNS discovery, key pairing, SSH direct exec. Tools auto-register for dph agents.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-devices",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-harness",
+    "ai-agents",
+    "deepseek-harness",
+    "distributed-computing",
+    "dsh-plugin",
+    "fleet",
+    "multi-agent",
+    "multi-device"
+  ],
+  "category": "workflow"
+}

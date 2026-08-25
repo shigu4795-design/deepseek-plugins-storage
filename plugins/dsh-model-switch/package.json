@@ -1,0 +1,27 @@
+{
+  "name": "dsh-model-switch",
+  "version": "1.0.0",
+  "description": "dsh plugin: flexible model switch for sub‑agent & plan execution.  为子代理和计划执行选择更合适的模型。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agent",
+    "ai-agents",
+    "deepseek-harness",
+    "dsh-model-switch",
+    "dsh-plugin",
+    "dsh-plugin-desktop",
+    "dsh-plugins",
+    "model-switch",
+    "model-switcher",
+    "model-switching",
+    "plugin",
+    "plugins",
+    "subagent",
+    "subagents"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

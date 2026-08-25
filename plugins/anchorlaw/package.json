@@ -1,0 +1,33 @@
+{
+  "name": "anchorlaw",
+  "version": "1.0.0",
+  "description": "Code verification protocol for vibe coding — every claim must have a verifiable practice anchor.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-assisted-development",
+    "code-quality",
+    "code-verification",
+    "cpp",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "defensive-programming",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "llm",
+    "protocol",
+    "python",
+    "static-analysis",
+    "testing",
+    "typescript",
+    "verification",
+    "vibe-coded",
+    "vibe-coding"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

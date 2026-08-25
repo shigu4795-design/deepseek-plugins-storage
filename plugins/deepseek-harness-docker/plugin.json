@@ -1,0 +1,26 @@
+{
+  "id": "deepseek-harness-docker",
+  "name": "Docker",
+  "version": "1.0.0",
+  "description": "deepseek-harness docker部署",
+  "descriptionEn": "deepseek-harness docker部署",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseek-harness-docker",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-docker",
+    "deepseek-harness-plugin",
+    "docker",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "tools"
+}

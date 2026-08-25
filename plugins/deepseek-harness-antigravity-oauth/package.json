@@ -1,0 +1,22 @@
+{
+  "name": "deepseek-harness-antigravity-oauth",
+  "version": "1.0.0",
+  "description": "Google Antigravity OAuth Gemini provider for DeepSeek Harness",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "antigravity",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin",
+    "gemini",
+    "llm",
+    "typescript"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

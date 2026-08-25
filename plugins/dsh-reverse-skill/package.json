@@ -1,0 +1,19 @@
+{
+  "name": "dsh-reverse-skill",
+  "version": "1.0.0",
+  "description": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ctf",
+    "deepseek-harness",
+    "dsh-plugin",
+    "pentest",
+    "reverse-engineering",
+    "security"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

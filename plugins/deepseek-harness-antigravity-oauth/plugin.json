@@ -1,0 +1,29 @@
+{
+  "id": "deepseek-harness-antigravity-oauth",
+  "name": "Antigravity Oauth",
+  "version": "1.0.0",
+  "description": "Google Antigravity OAuth Gemini provider for DeepSeek Harness",
+  "descriptionEn": "Google Antigravity OAuth Gemini provider for DeepSeek Harness",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseek-harness-antigravity-oauth",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "antigravity",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin",
+    "gemini",
+    "llm",
+    "typescript"
+  ],
+  "category": "models"
+}

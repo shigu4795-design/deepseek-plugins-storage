@@ -1,4 +1,4 @@
-# DSH Better 侧边栏 (dsh-better-sidebar)
+# DSH Better Sidebar (dsh-better-sidebar)
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 <br />
 
 <!-- DeepSeek Harness 桌面端一键安装徽章 -->
-<a href="dsh://plugin/install?id=dsh-better-sidebar&name=DSH%20Better%20%E4%BE%A7%E8%BE%B9%E6%A0%8F&version=1.0.0&repo=Minglink%2Fdsh-better-sidebar&permissions=%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%2C%E7%BB%88%E7%AB%AF%2CWebview">
+<a href="dsh://plugin/install?id=dsh-better-sidebar&name=DSH%20Better%20Sidebar&version=1.0.0&repo=shigu4795-design%2Fdeepseek-plugins-storage&permissions=network%2Cfilesystem">
   <img src="https://img.shields.io/badge/Install%20in-DeepSeek%20Harness-0ea5e9?style=for-the-badge&logo=deepseek" alt="一键安装到 DeepSeek Harness 桌面端" />
 </a>
 
@@ -17,10 +17,9 @@
 
 ---
 
-## 📖 简介
+## 📖 插件介绍
 
-**DSH Better 侧边栏** 是适用于 DeepSeek Harness 的开放式侧边栏底座，支持三方拓展注册新侧边栏页面。
-内置文件渲染编辑、终端、侧边快捷对话、Git 管理及子代理交互页面。
+开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.
 
 ---
 
@@ -31,7 +30,7 @@
 
 ### 方法二：终端命令行安装
 ```bash
-dsh plugin --profile web add "github:Minglink/dsh-better-sidebar"
+dsh plugin add "https://deepseek.stream/api/plugins/download?id=dsh-better-sidebar"
 ```
 
 ---

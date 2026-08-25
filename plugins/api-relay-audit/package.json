@@ -1,0 +1,33 @@
+{
+  "name": "api-relay-audit",
+  "version": "1.0.0",
+  "description": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agents",
+    "ai-audit",
+    "ai-security",
+    "anthropic",
+    "api-gateway",
+    "claude",
+    "dsh-plugin",
+    "llm-audit",
+    "llm-proxy",
+    "llm-security",
+    "model-substitution",
+    "openai-api",
+    "prompt-injection",
+    "python",
+    "security-audit",
+    "security-scanner",
+    "supply-chain-security",
+    "tool-call-rewriting",
+    "web3-security",
+    "web3-wallet"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

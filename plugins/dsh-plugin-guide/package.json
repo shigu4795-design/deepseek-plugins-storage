@@ -1,0 +1,24 @@
+{
+  "name": "dsh-plugin-guide",
+  "version": "1.0.0",
+  "description": "Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skill",
+    "checker",
+    "cli",
+    "cordis",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "knowledge-base",
+    "plugin-development",
+    "scaffold"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

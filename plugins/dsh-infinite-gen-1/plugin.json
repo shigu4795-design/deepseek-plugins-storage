@@ -1,0 +1,21 @@
+{
+  "id": "dsh-infinite-gen-1",
+  "name": "dsh-infinite-gen-1",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness 破甲插件「无限一代」：v4 系全局破甲提示词与工具。",
+  "descriptionEn": "DeepSeek Harness 破甲插件「无限一代」：v4 系全局破甲提示词与工具。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-infinite-gen-1",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network"
+  ],
+  "tags": [
+    "dsh",
+    "plugin"
+  ],
+  "category": "tools"
+}

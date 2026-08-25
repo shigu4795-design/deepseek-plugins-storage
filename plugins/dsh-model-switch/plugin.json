@@ -1,0 +1,34 @@
+{
+  "id": "dsh-model-switch",
+  "name": "Model Switch",
+  "version": "1.0.0",
+  "description": "dsh plugin: flexible model switch for sub‑agent & plan execution.  为子代理和计划执行选择更合适的模型。",
+  "descriptionEn": "dsh plugin: flexible model switch for sub‑agent & plan execution.  为子代理和计划执行选择更合适的模型。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-model-switch",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "deepseek-harness",
+    "dsh-model-switch",
+    "dsh-plugin",
+    "dsh-plugin-desktop",
+    "dsh-plugins",
+    "model-switch",
+    "model-switcher",
+    "model-switching",
+    "plugin",
+    "plugins",
+    "subagent",
+    "subagents"
+  ],
+  "category": "models"
+}

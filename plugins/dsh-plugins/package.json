@@ -1,0 +1,16 @@
+{
+  "name": "dsh-plugins",
+  "version": "1.0.0",
+  "description": "Make Deepseek Harness Great",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

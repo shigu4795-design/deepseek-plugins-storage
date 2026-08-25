@@ -1,0 +1,25 @@
+{
+  "name": "dsh-plugins-marketplace",
+  "version": "1.0.0",
+  "description": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "ai-agents",
+    "cordis",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "javascript",
+    "llm",
+    "marketplace",
+    "nodejs",
+    "plugin",
+    "plugin-marketplace"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

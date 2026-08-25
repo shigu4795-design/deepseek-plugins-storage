@@ -1,0 +1,33 @@
+{
+  "id": "dsh-agent-messaging",
+  "name": "Agent Messaging",
+  "version": "1.0.0",
+  "description": "Cross-session verification, claims and a decision ledger for DeepSeek Harness — so two agent sessions don't repeat, contradict or deadlock each other.",
+  "descriptionEn": "Cross-session verification, claims and a decision ledger for DeepSeek Harness — so two agent sessions don't repeat, contradict or deadlock each other.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-agent-messaging",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-communication",
+    "agent-coordination",
+    "agent-verification",
+    "ai-agents",
+    "cordis",
+    "cross-session-messaging",
+    "decision-ledger",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "multi-agent",
+    "plugin",
+    "typescript"
+  ],
+  "category": "workflow"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "dsh-im-gateway",
+  "version": "1.0.0",
+  "description": "把 dsh agent 接入微信、飞书等 20+ 聊天平台的聚合网关插件 | Aggregate IM gateway for DeepSeek Harness (dsh): connect your agents to WeChat, Feishu, Telegram, Discord & 20+ chat platforms",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins",
+    "gateway",
+    "im-gateway"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

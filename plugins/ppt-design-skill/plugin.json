@@ -1,0 +1,32 @@
+{
+  "id": "ppt-design-skill",
+  "name": "PPT Design Skill",
+  "version": "1.0.0",
+  "description": "Precision PPT design  skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect build-mode control, and AI image generation",
+  "descriptionEn": "Precision PPT design  skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect build-mode control, and AI image generation",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/ppt-design-skill",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-coding-tools",
+    "claude-code-skills",
+    "codex",
+    "codex-skill",
+    "codex-skills",
+    "dsh-plugin",
+    "opencode-skills",
+    "ppt",
+    "pptx",
+    "pptx-generator",
+    "presentation-design",
+    "skill"
+  ],
+  "category": "ui"
+}

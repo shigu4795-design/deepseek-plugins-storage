@@ -1,0 +1,24 @@
+{
+  "id": "dsh-kuikly-expert",
+  "name": "Kuikly Expert",
+  "version": "1.0.0",
+  "description": "Kuikly DeepSeek Harness plugin that turns your AI agent into a Kuikly cross-platform app development expert.",
+  "descriptionEn": "Kuikly DeepSeek Harness plugin that turns your AI agent into a Kuikly cross-platform app development expert.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-kuikly-expert",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "app",
+    "cross-platform",
+    "dsh-plugin",
+    "kuikly"
+  ],
+  "category": "ui"
+}

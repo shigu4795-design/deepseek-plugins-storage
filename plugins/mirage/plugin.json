@@ -1,0 +1,34 @@
+{
+  "id": "mirage",
+  "name": "Mirage",
+  "version": "1.0.0",
+  "description": "The World's First Unified Virtual Filesystem For AI Agents",
+  "descriptionEn": "The World's First Unified Virtual Filesystem For AI Agents",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/mirage",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-sandbox",
+    "agent-tools",
+    "ai-agents",
+    "bash",
+    "claude-code",
+    "dsh",
+    "dsh-plugin",
+    "fuse",
+    "llm-agents",
+    "openai-agents",
+    "python",
+    "typescript",
+    "vfs",
+    "virtual-filesystem"
+  ],
+  "category": "models"
+}

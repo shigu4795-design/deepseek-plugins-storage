@@ -1,0 +1,25 @@
+{
+  "id": "dockyard-dsh",
+  "name": "Dockyard Dsh",
+  "version": "1.0.0",
+  "description": "A macOS-only native account-pool and provider plugin for DeepSeek Harness.",
+  "descriptionEn": "A macOS-only native account-pool and provider plugin for DeepSeek Harness.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dockyard-dsh",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "account-pool",
+    "deepseek-harness",
+    "dsh-plugin",
+    "macos",
+    "oauth"
+  ],
+  "category": "tools"
+}

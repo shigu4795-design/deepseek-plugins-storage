@@ -1,0 +1,19 @@
+{
+  "name": "dsh-pet-ronaldo",
+  "version": "1.0.0",
+  "description": "C罗桌宠 · DeepSeek Harness 桌面宠物插件：葡萄牙 7 号 chibi 吉祥物，随 Agent 状态切换动画，对话完成 SIU 庆祝 + 提示音，支持导入自定义 spritesheet 统一管理",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "cordis",
+    "desktop-pet",
+    "dsh",
+    "plugin",
+    "ronaldo",
+    "spritesheet"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

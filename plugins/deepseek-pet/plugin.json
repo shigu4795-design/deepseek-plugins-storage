@@ -1,0 +1,23 @@
+{
+  "id": "deepseek-pet",
+  "name": "Pet",
+  "version": "1.0.0",
+  "description": "在你的deepseek-harness上养一只吃白饭的大蓝鲸",
+  "descriptionEn": "在你的deepseek-harness上养一只吃白饭的大蓝鲸",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseek-pet",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin"
+  ],
+  "category": "ui"
+}

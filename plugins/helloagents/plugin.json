@@ -1,0 +1,22 @@
+{
+  "id": "helloagents",
+  "name": "Helloagents",
+  "version": "1.0.0",
+  "description": "一个自主的高级智能伙伴，不仅分析问题，更持续工作直到完成实现和验证。",
+  "descriptionEn": "一个自主的高级智能伙伴，不仅分析问题，更持续工作直到完成实现和验证。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/helloagents",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "workflow"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "deepseekharness-mcp-manager",
+  "name": "DeepSeekHarness MCP Manager",
+  "version": "1.0.0",
+  "description": "DSH durable MCP server manager plugin — Settings UI + HTTP API + mcp_manager_* model tools, cross-platform installers",
+  "descriptionEn": "DSH durable MCP server manager plugin — Settings UI + HTTP API + mcp_manager_* model tools, cross-platform installers",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseekharness-mcp-manager",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh-mcp-manager",
+    "dsh-plugin",
+    "dsh-plugins"
+  ],
+  "category": "ui"
+}

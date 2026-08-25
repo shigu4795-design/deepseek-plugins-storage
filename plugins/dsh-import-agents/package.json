@@ -1,0 +1,25 @@
+{
+  "name": "dsh-import-agents",
+  "version": "1.0.0",
+  "description": "Import pi / opencode / codex / claude-code sessions, chat history, and agents into DeepSeek Harness — one-click Sync button, slash commands, session-start migration prompt",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "opencode",
+    "pi-coding-agent",
+    "plugin",
+    "session-import",
+    "session-migration"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

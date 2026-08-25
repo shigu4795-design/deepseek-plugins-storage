@@ -1,0 +1,21 @@
+{
+  "name": "dsh-compaction-instant",
+  "version": "1.0.0",
+  "description": "LLM-free lossless* compaction engine for DeepSeek Harness",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "compaction",
+    "context-compression",
+    "cordis",
+    "dsh",
+    "dsh-plugin",
+    "llm",
+    "plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

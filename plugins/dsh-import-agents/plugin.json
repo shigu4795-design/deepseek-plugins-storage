@@ -1,0 +1,32 @@
+{
+  "id": "dsh-import-agents",
+  "name": "Import Agents",
+  "version": "1.0.0",
+  "description": "Import pi / opencode / codex / claude-code sessions, chat history, and agents into DeepSeek Harness — one-click Sync button, slash commands, session-start migration prompt",
+  "descriptionEn": "Import pi / opencode / codex / claude-code sessions, chat history, and agents into DeepSeek Harness — one-click Sync button, slash commands, session-start migration prompt",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-import-agents",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "opencode",
+    "pi-coding-agent",
+    "plugin",
+    "session-import",
+    "session-migration"
+  ],
+  "category": "models"
+}

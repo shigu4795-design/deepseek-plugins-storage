@@ -1,0 +1,28 @@
+{
+  "id": "dsh-github-connector",
+  "name": "Github Connector",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness (dsh) 的 GitHub 连接器：一键授权，对话内创建/AI 审查/合并 PR | GitHub connector for dsh: one-click connect, create/review/merge PRs from the conversation",
+  "descriptionEn": "DeepSeek Harness (dsh) 的 GitHub 连接器：一键授权，对话内创建/AI 审查/合并 PR | GitHub connector for dsh: one-click connect, create/review/merge PRs from the conversation",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-github-connector",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "connector",
+    "deepseek",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "github",
+    "plugin"
+  ],
+  "category": "workflow"
+}

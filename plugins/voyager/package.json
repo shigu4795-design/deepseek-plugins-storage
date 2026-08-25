@@ -1,0 +1,26 @@
+{
+  "name": "voyager",
+  "version": "1.0.0",
+  "description": "Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-studio",
+    "browser-extension",
+    "bun",
+    "chat-management",
+    "chatgpt",
+    "chrome-extension",
+    "claude-ai",
+    "dsh",
+    "dsh-plugin",
+    "edge-addon",
+    "firefox-addons",
+    "gemini",
+    "safari-extension"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

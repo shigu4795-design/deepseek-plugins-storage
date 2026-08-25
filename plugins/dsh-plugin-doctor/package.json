@@ -1,0 +1,22 @@
+{
+  "name": "dsh-plugin-doctor",
+  "version": "1.0.0",
+  "description": "致力于解决各插件之间也与版本之间可能存在的冲突问题并提供解决方案",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "awesome",
+    "awesome-dsh",
+    "awesome-dsh-plugin",
+    "deepseek",
+    "deepseek-ai",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-v4",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

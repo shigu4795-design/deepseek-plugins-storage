@@ -1,0 +1,23 @@
+{
+  "name": "oh-my-dsh",
+  "version": "1.0.0",
+  "description": "A focused, keyboard-first DeepSeek coding agent built on the plugin architecture of DeepSeek Harness and inspired by the interaction quality of oh-my-pi.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "harness",
+    "oh-my-pi",
+    "omdsh",
+    "tui"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

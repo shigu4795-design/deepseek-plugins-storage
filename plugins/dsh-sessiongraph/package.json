@@ -1,0 +1,19 @@
+{
+  "name": "dsh-sessiongraph",
+  "version": "1.0.0",
+  "description": "A DSH Web plugin that turns chat sessions into editable mind maps, with Markdown, Mermaid, PlantUML, XMind text, and TODO exports.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

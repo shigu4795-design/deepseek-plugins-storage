@@ -1,0 +1,26 @@
+{
+  "name": "awesome-deepseek-harness-plugins",
+  "version": "1.0.0",
+  "description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-harness",
+    "ai-agents",
+    "awesome-list",
+    "bilingual",
+    "curated-list",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "extensions",
+    "llm-tools",
+    "plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

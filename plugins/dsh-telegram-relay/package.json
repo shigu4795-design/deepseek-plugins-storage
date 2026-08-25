@@ -1,0 +1,25 @@
+{
+  "name": "dsh-telegram-relay",
+  "version": "1.0.0",
+  "description": "DSH Relay 让你可以通过 Telegram 远程与 DeepSeek Harness 对话，并接收通知。DSH Relay turns Telegram into a remote conversation and notification channel for DeepSeek Harness.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "automation",
+    "automation-highway",
+    "automotive",
+    "autonomous-agents",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "text-only-llm",
+    "typescript"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

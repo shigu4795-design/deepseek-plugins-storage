@@ -1,0 +1,17 @@
+{
+  "name": "dsh-skin-claude-code",
+  "version": "1.0.0",
+  "description": "Claude Code-inspired skin for the DeepSeek Harness web GUI",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugin-dev",
+    "deepseek-harness-plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

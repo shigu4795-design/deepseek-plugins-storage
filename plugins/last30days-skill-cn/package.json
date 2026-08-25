@@ -1,0 +1,21 @@
+{
+  "name": "last30days-skill-cn",
+  "version": "1.0.0",
+  "description": "last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "claude-code",
+    "dsh-plugin",
+    "openclaw",
+    "openclaw-skills",
+    "rednotebook",
+    "research",
+    "tiktok",
+    "web-search"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

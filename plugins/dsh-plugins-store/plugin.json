@@ -1,0 +1,26 @@
+{
+  "id": "dsh-plugins-store",
+  "name": "Plugins Store",
+  "version": "1.0.0",
+  "description": "自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace.",
+  "descriptionEn": "自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-plugins-store",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-tools",
+    "awesome-list",
+    "community-project",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "workflow"
+}

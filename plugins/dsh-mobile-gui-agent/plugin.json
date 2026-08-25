@@ -1,0 +1,28 @@
+{
+  "id": "dsh-mobile-gui-agent",
+  "name": "Mobile Gui Agent",
+  "version": "1.0.0",
+  "description": "Android Mobile GUI Agent plugin for DeepSeek Harness with ADB control, iterative verification, approvals, and a Web mobile view",
+  "descriptionEn": "Android Mobile GUI Agent plugin for DeepSeek Harness with ADB control, iterative verification, approvals, and a Web mobile view",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-mobile-gui-agent",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "adb",
+    "android",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "gui-agent",
+    "mobile-automation",
+    "typescript"
+  ],
+  "category": "ui"
+}

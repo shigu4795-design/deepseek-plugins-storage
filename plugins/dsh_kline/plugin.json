@@ -1,0 +1,30 @@
+{
+  "id": "dsh_kline",
+  "name": "Dsh Kline",
+  "version": "1.0.0",
+  "description": "面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。",
+  "descriptionEn": "面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh_kline",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "awesome-deepseek-harness",
+    "awesome-dsh-plugin",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugin-dev",
+    "deepseek-harness-plugins",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins",
+    "ftshare"
+  ],
+  "category": "dev"
+}

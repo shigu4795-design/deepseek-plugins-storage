@@ -1,0 +1,21 @@
+{
+  "name": "dsh-devices",
+  "version": "1.0.0",
+  "description": "Turn your devices into a fleet — dph plugin for decentralized multi-device collaboration: mDNS discovery, key pairing, SSH direct exec. Tools auto-register for dph agents.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-harness",
+    "ai-agents",
+    "deepseek-harness",
+    "distributed-computing",
+    "dsh-plugin",
+    "fleet",
+    "multi-agent",
+    "multi-device"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

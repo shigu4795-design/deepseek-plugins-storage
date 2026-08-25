@@ -1,0 +1,30 @@
+{
+  "id": "dsh-undo-savepoint",
+  "name": "Undo Savepoint",
+  "version": "1.0.0",
+  "description": "DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.",
+  "descriptionEn": "DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-undo-savepoint",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "backup",
+    "crash-recovery",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "powershell",
+    "rollback",
+    "snapshot",
+    "undo",
+    "windows"
+  ],
+  "category": "ui"
+}

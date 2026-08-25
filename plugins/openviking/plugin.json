@@ -1,0 +1,26 @@
+{
+  "id": "openviking",
+  "name": "OpenViking",
+  "version": "1.0.0",
+  "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "descriptionEn": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/openviking",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-memory",
+    "agent-plugins",
+    "agentic-rag",
+    "context-database",
+    "dsh-plugin",
+    "self-evolving"
+  ],
+  "category": "workflow"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dsh-landscape",
+  "name": "Landscape",
+  "version": "1.0.0",
+  "description": "Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate build-ready briefs.",
+  "descriptionEn": "Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate build-ready briefs.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-landscape",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-skills",
+    "codex",
+    "deepseek-harness",
+    "dsh-plugin",
+    "ecosystem",
+    "gap-analysis",
+    "plugin-discovery"
+  ],
+  "category": "ui"
+}

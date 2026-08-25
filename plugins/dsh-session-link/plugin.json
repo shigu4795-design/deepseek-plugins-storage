@@ -1,0 +1,29 @@
+{
+  "id": "dsh-session-link",
+  "name": "Session Link",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 的 Codex 式会话深度链接插件：dsh:// 深链，跨对话读取上下文",
+  "descriptionEn": "DeepSeek Harness 的 Codex 式会话深度链接插件：dsh:// 深链，跨对话读取上下文",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-session-link",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "codex",
+    "deep-link",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "plugin",
+    "session"
+  ],
+  "category": "workflow"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dsh-ankh-guard",
+  "version": "1.0.0",
+  "description": "dsh 自托管运维守护：agent 改完代码先验证构建测试再重启，起不来自动回滚。镜像仓，与 Khorsheed/dsh-plugins 的 packages/ankh-guard 自动同步。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agent",
+    "dsh",
+    "dsh-plugin",
+    "self-modification",
+    "watchdog"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

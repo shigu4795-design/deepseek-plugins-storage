@@ -1,0 +1,39 @@
+{
+  "id": "tongflow",
+  "name": "Tongflow",
+  "version": "1.0.0",
+  "description": "TongFlow — Multimodal GenAI Studio",
+  "descriptionEn": "TongFlow — Multimodal GenAI Studio",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/tongflow",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "3d",
+    "agent",
+    "ai",
+    "ai-tools",
+    "aigc",
+    "canvas",
+    "deepseek-harness",
+    "document",
+    "dsh-plugin",
+    "genai",
+    "generative-ai",
+    "image",
+    "link",
+    "multimodal",
+    "studio",
+    "tongflow",
+    "video",
+    "voice",
+    "workflow"
+  ],
+  "category": "workflow"
+}

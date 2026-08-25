@@ -1,0 +1,21 @@
+{
+  "name": "agent_extensions",
+  "version": "1.0.0",
+  "description": "Agent Skills & DeepSeek Harness (DSH) 扩展库：通用智能体技能（General_skills）+ DSH 标准插件（dsh-plugin），开箱即用的 AI Agent 能力增强集合。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skills",
+    "ai-agent",
+    "deepseek-harness",
+    "dsh-plugin",
+    "prompt-engineering",
+    "python",
+    "skills",
+    "translation"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

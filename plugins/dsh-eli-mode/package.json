@@ -1,0 +1,19 @@
+{
+  "name": "dsh-eli-mode",
+  "version": "1.0.0",
+  "description": "Eli Mode is an agent preset for DeepSeek Harness built around wiki-driven long-term memory and skills, on an extremely minimal Harness setup.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

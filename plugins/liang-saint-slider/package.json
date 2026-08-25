@@ -1,0 +1,16 @@
+{
+  "name": "liang-saint-slider",
+  "version": "1.0.0",
+  "description": "Liang Saint Slider as the DeepSeek Harness model + thinking-effort selector.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

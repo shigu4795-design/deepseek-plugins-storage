@@ -1,0 +1,23 @@
+{
+  "id": "garmin-connect-plugin-for-dsh",
+  "name": "Garmin Connect Plugin For Dsh",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness plugin for Garmin Connect — AI-powered fitness data access",
+  "descriptionEn": "DeepSeek Harness plugin for Garmin Connect — AI-powered fitness data access",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/garmin-connect-plugin-for-dsh",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin"
+  ],
+  "category": "tools"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "awesome-deepseek-harness-plugins",
+  "name": "Awesome DeepSeek Harness Plugins",
+  "version": "1.0.0",
+  "description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
+  "descriptionEn": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/awesome-deepseek-harness-plugins",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-harness",
+    "ai-agents",
+    "awesome-list",
+    "bilingual",
+    "curated-list",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "extensions",
+    "llm-tools",
+    "plugins"
+  ],
+  "category": "models"
+}

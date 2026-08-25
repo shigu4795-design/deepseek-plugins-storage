@@ -9,7 +9,7 @@
 <br />
 
 <!-- DeepSeek Harness 桌面端一键安装徽章 -->
-<a href="dsh://plugin/install?id=modlens&name=Modlens&version=1.0.0&repo=Minglink%2Fmodlens&permissions=%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%2C%E7%BD%91%E7%BB%9C%2C%E5%89%AA%E8%B4%B4%E6%9D%BF%2C%E8%A7%86%E8%A7%89%E5%BC%95%E6%93%8E">
+<a href="dsh://plugin/install?id=modlens&name=Modlens&version=1.0.0&repo=shigu4795-design%2Fdeepseek-plugins-storage&permissions=network%2Cfilesystem">
   <img src="https://img.shields.io/badge/Install%20in-DeepSeek%20Harness-0ea5e9?style=for-the-badge&logo=deepseek" alt="一键安装到 DeepSeek Harness 桌面端" />
 </a>
 
@@ -17,10 +17,9 @@
 
 ---
 
-## 📖 简介
+## 📖 插件介绍
 
-**Modlens** 是 DeepSeek Harness 首屈一指的视觉外挂桥接插件。
-为纯文本模型赋予视觉多模态能力，在客户端直接粘贴截图或图片，即可实时解析获得高精度的结构化 JSON、OCR 文本与版面语义。
+The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
 
 ---
 
@@ -31,7 +30,7 @@
 
 ### 方法二：终端命令行安装
 ```bash
-dsh plugin --profile web add "github:Minglink/modlens"
+dsh plugin add "https://deepseek.stream/api/plugins/download?id=modlens"
 ```
 
 ---

@@ -1,0 +1,33 @@
+{
+  "id": "deepeseek-harness-guide",
+  "name": "Deepeseek Harness Guide",
+  "version": "1.0.0",
+  "description": "Guide for development with DeepSeek Harness. Building plugin for DeepSeek Harness Project.",
+  "descriptionEn": "Guide for development with DeepSeek Harness. Building plugin for DeepSeek Harness Project.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepeseek-harness-guide",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek",
+    "deepseek-api",
+    "deepseek-harness",
+    "deepseek-harness-guide",
+    "deepseek-harness-plugin",
+    "deepseek-harness-skills",
+    "deepseek-v4",
+    "deepseek-v4-flash",
+    "deepseek-v4-flash-api",
+    "deepseek-v4-pro",
+    "deepseek-v4-pro-api",
+    "flaq-skills",
+    "flaqai"
+  ],
+  "category": "ui"
+}

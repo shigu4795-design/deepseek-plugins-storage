@@ -1,0 +1,22 @@
+{
+  "id": "dsh-everything",
+  "name": "Everything",
+  "version": "1.0.0",
+  "description": "A coding-agent protocol and examples for evolving Agent Harnesses into Everything Is Plugin architectures.",
+  "descriptionEn": "A coding-agent protocol and examples for evolving Agent Harnesses into Everything Is Plugin architectures.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-everything",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "dsh-plugin",
+    "workflow"
+  ],
+  "category": "workflow"
+}

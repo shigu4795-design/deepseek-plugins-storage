@@ -1,0 +1,28 @@
+{
+  "name": "dsh-plugin-call-me",
+  "version": "1.0.0",
+  "description": "Your DeepSeek Harness agent rings your actual phone: it asks out loud, you answer out loud, and what you said steers the run.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "ai-agent",
+    "callkit",
+    "cordis",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-external",
+    "dsh-plugin",
+    "human-in-the-loop",
+    "ios",
+    "notifications",
+    "phone-call",
+    "plugin",
+    "voice"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

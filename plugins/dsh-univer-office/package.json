@@ -1,0 +1,18 @@
+{
+  "name": "dsh-univer-office",
+  "version": "1.0.0",
+  "description": "Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "office",
+    "office-harness"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dsh-plugin",
+  "name": "Plugin",
+  "version": "1.0.0",
+  "description": "OpenTelemetry tracing for DeepSeek Harness (dsh): turns each agent turn into a GenAI span tree — steps, LLM calls with TTFT, tool executions, token usage — exported over standard OTLP to Jaeger, Grafana Tempo, SigNoz, Langfuse, or any compatible backend.",
+  "descriptionEn": "OpenTelemetry tracing for DeepSeek Harness (dsh): turns each agent turn into a GenAI span tree — steps, LLM calls with TTFT, tool executions, token usage — exported over standard OTLP to Jaeger, Grafana Tempo, SigNoz, Langfuse, or any compatible backend.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-plugin",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-observability",
+    "ai-coding",
+    "deepseek-harness",
+    "distributed-tracing",
+    "dsh",
+    "dsh-plugin",
+    "genai",
+    "grafana-tempo",
+    "jaeger",
+    "llm-observability",
+    "loongsuite",
+    "observability",
+    "opentelemetry",
+    "otel",
+    "otlp",
+    "telemetry",
+    "tracing"
+  ],
+  "category": "ui"
+}

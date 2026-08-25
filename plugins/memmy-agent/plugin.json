@@ -1,0 +1,40 @@
+{
+  "id": "memmy-agent",
+  "name": "Memmy Agent",
+  "version": "1.0.0",
+  "description": "🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.",
+  "descriptionEn": "🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/memmy-agent",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "ai-agents",
+    "chatgpt",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "desktop-app",
+    "desktop-pet",
+    "dsh-plugin",
+    "hermes-agent",
+    "llm",
+    "long-term-memory",
+    "mcp",
+    "memory",
+    "openai-api",
+    "openclaw",
+    "personal-ai",
+    "tui"
+  ],
+  "category": "ui"
+}

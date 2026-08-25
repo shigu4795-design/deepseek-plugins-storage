@@ -1,0 +1,32 @@
+{
+  "id": "dshmath-manim",
+  "name": "Dshmath Manim",
+  "version": "1.0.0",
+  "description": "deepseek harness manim数学插件",
+  "descriptionEn": "deepseek harness manim数学插件",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dshmath-manim",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-coding",
+    "ai-model",
+    "deepsee",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "harness",
+    "manim",
+    "math",
+    "math-animation"
+  ],
+  "category": "models"
+}

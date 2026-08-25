@@ -1,0 +1,37 @@
+{
+  "id": "everos",
+  "name": "EverOS",
+  "version": "1.0.0",
+  "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+  "descriptionEn": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/everos",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-memory",
+    "agentic-ai",
+    "ai",
+    "chats",
+    "clawdbot",
+    "clawdbot-skill",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "llm",
+    "long-term-memory",
+    "mcp",
+    "memory",
+    "memory-management",
+    "python3",
+    "rag",
+    "skills"
+  ],
+  "category": "models"
+}

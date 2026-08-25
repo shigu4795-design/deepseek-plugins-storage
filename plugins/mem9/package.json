@@ -1,0 +1,14 @@
+{
+  "name": "mem9",
+  "version": "1.0.0",
+  "description": "Unlimited memory for OpenClaw",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

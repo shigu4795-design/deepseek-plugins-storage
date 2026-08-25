@@ -1,0 +1,37 @@
+{
+  "id": "vox-director",
+  "name": "Vox Director",
+  "version": "1.0.0",
+  "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+  "descriptionEn": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/vox-director",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai",
+    "ai-video",
+    "claude-code",
+    "claude-skill",
+    "collage-video",
+    "dsh-plugin",
+    "explainer-video",
+    "ffmpeg",
+    "generative-ai",
+    "llm",
+    "motion-graphics",
+    "python",
+    "text-to-video",
+    "tts",
+    "video",
+    "video-generation",
+    "vox"
+  ],
+  "category": "models"
+}

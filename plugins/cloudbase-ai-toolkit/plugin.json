@@ -1,0 +1,36 @@
+{
+  "id": "cloudbase-ai-toolkit",
+  "name": "CloudBase AI Toolkit",
+  "version": "1.0.0",
+  "description": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+  "descriptionEn": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/cloudbase-ai-toolkit",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai",
+    "aicoding",
+    "claude-code",
+    "cloudbase",
+    "cursor",
+    "database",
+    "dsh-plugin",
+    "mcp",
+    "mcp-server",
+    "miniprogram",
+    "postgresql",
+    "supabase",
+    "tencent",
+    "vibe-coding",
+    "web"
+  ],
+  "category": "models"
+}

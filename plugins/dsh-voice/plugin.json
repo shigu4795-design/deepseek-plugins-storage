@@ -1,0 +1,33 @@
+{
+  "id": "dsh-voice",
+  "name": "Voice",
+  "version": "1.0.0",
+  "description": "Voice for DeepSeek Harness（dsh） —  speech-to-text input +  read-aloud TTS for text-only DeepSeek, zero API key.",
+  "descriptionEn": "Voice for DeepSeek Harness（dsh） —  speech-to-text input +  read-aloud TTS for text-only DeepSeek, zero API key.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-voice",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "multimodal",
+    "speech-to-text",
+    "stt",
+    "text-to-speech",
+    "tts",
+    "voice",
+    "web-speech-api",
+    "whisper"
+  ],
+  "category": "workflow"
+}

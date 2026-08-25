@@ -1,0 +1,21 @@
+{
+  "name": "dsh-web-mobile",
+  "version": "1.0.0",
+  "description": "DSH Web UI 移动端适配：窄屏好用，宽屏适用",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "mobile",
+    "mobile-ui",
+    "plugin",
+    "responsive",
+    "web-ui"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

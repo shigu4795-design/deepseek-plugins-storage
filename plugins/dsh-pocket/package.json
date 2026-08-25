@@ -1,0 +1,24 @@
+{
+  "name": "dsh-pocket",
+  "version": "1.0.0",
+  "description": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins",
+    "mobile",
+    "qr",
+    "remote",
+    "tunnel"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

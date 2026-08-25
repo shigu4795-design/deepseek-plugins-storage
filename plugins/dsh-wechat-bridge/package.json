@@ -1,0 +1,20 @@
+{
+  "name": "dsh-wechat-bridge",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness (dsh) transport plugin: chat with your agents on WeChat via official Tencent iLink bot API — zero runtime deps, no OpenClaw, QR-code login, one friend = one persistent agent session.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "ilink",
+    "wechat",
+    "wechat-bot",
+    "weixin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

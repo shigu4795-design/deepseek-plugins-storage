@@ -1,0 +1,32 @@
+{
+  "id": "learn-harness-engineering",
+  "name": "Learn Harness Engineering",
+  "version": "1.0.0",
+  "description": "Harness engineering beginner tutorial, from 0 to 1",
+  "descriptionEn": "Harness engineering beginner tutorial, from 0 to 1",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/learn-harness-engineering",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "dsh",
+    "dsh-plugin",
+    "harness",
+    "harness-engineering",
+    "harness-framework",
+    "llm"
+  ],
+  "category": "models"
+}

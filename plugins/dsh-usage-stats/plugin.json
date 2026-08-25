@@ -1,0 +1,28 @@
+{
+  "id": "dsh-usage-stats",
+  "name": "Usage Stats",
+  "version": "1.0.0",
+  "description": "Provider balances, subscription quotas, and token-usage analytics for the DeepSeek Harness Web GUI (dsh web).",
+  "descriptionEn": "Provider balances, subscription quotas, and token-usage analytics for the DeepSeek Harness Web GUI (dsh web).",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-usage-stats",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugin-dev",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins"
+  ],
+  "category": "ui"
+}

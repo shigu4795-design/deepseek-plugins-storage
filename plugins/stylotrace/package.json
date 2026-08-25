@@ -1,0 +1,23 @@
+{
+  "name": "stylotrace",
+  "version": "1.0.0",
+  "description": "越写越像你：学会同事/领导/偶像的写作风格，AI 替你写但像你写的。DeepSeek Harness 写作插件：41 个 MCP 工具 + 项目自动提炼 + 去 AI 味 + 文件预览",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "ai-writing",
+    "chinese-writing",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "style",
+    "style-transfer",
+    "writing",
+    "writing-assistant"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

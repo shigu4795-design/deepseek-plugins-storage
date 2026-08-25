@@ -1,0 +1,22 @@
+{
+  "id": "dsh-codex-suite",
+  "name": "Codex Suite",
+  "version": "1.0.0",
+  "description": "OpenAI Codex provider for DeepSeek Harness with ChatGPT OAuth, native settings, and account usage.",
+  "descriptionEn": "OpenAI Codex provider for DeepSeek Harness with ChatGPT OAuth, native settings, and account usage.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-codex-suite",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness-plugin",
+    "dsh-plugin"
+  ],
+  "category": "ui"
+}

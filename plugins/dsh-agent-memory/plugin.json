@@ -1,0 +1,24 @@
+{
+  "id": "dsh-agent-memory",
+  "name": "Agent Memory",
+  "version": "1.0.0",
+  "description": "Cross-session long-term memory plugin for DeepSeek Harness (DSH)",
+  "descriptionEn": "Cross-session long-term memory plugin for DeepSeek Harness (DSH)",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-agent-memory",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "memory"
+  ],
+  "category": "workflow"
+}

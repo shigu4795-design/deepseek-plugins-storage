@@ -1,0 +1,31 @@
+{
+  "id": "dsh-think-any-lang",
+  "name": "Think Any Lang",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness (DSH) plugin: a \"Thinking Language\" selector under Settings → General that tells the model which language to reason in (chain of thought) via a system-prompt section. Zero extra calls, zero latency, 12 languages.",
+  "descriptionEn": "DeepSeek Harness (DSH) plugin: a \"Thinking Language\" selector under Settings → General that tells the model which language to reason in (chain of thought) via a system-prompt section. Zero extra calls, zero latency, 12 languages.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-think-any-lang",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "cot",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-bundle",
+    "dsh-plugin",
+    "dsh-plugins",
+    "llm",
+    "plugin",
+    "reasoning"
+  ],
+  "category": "models"
+}

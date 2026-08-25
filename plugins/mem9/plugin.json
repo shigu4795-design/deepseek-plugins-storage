@@ -1,0 +1,21 @@
+{
+  "id": "mem9",
+  "name": "Mem9",
+  "version": "1.0.0",
+  "description": "Unlimited memory for OpenClaw",
+  "descriptionEn": "Unlimited memory for OpenClaw",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/mem9",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "dsh-plugin"
+  ],
+  "category": "tools"
+}

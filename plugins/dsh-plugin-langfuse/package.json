@@ -1,0 +1,19 @@
+{
+  "name": "dsh-plugin-langfuse",
+  "version": "1.0.0",
+  "description": "Langfuse observability for DeepSeek Harness (dsh): exports agent sessions as OpenTelemetry trace trees (GenAI semconv) to Langfuse's OTLP endpoint",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-tracing",
+    "deepseek-harness",
+    "dsh-plugin",
+    "langfuse",
+    "llm-observability",
+    "opentelemetry"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

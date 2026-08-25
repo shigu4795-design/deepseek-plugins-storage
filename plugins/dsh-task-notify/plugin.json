@@ -1,0 +1,29 @@
+{
+  "id": "dsh-task-notify",
+  "name": "Task Notify",
+  "version": "1.0.0",
+  "description": "Lifecycle notification layer for AI coding agents — DeepSeek Harness plugin for turn, job, review & failure notifications",
+  "descriptionEn": "Lifecycle notification layer for AI coding agents — DeepSeek Harness plugin for turn, job, review & failure notifications",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-task-notify",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai",
+    "ai-coding",
+    "automation",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "notifications",
+    "typescript"
+  ],
+  "category": "workflow"
+}

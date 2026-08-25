@@ -1,0 +1,32 @@
+{
+  "name": "tongflow",
+  "version": "1.0.0",
+  "description": "TongFlow — Multimodal GenAI Studio",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "3d",
+    "agent",
+    "ai",
+    "ai-tools",
+    "aigc",
+    "canvas",
+    "deepseek-harness",
+    "document",
+    "dsh-plugin",
+    "genai",
+    "generative-ai",
+    "image",
+    "link",
+    "multimodal",
+    "studio",
+    "tongflow",
+    "video",
+    "voice",
+    "workflow"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

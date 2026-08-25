@@ -1,0 +1,21 @@
+{
+  "name": "dsh-minecraft-theme",
+  "version": "1.0.0",
+  "description": "Minecraft Launcher 风格的 DeepSeek Harness WebUI 皮肤插件",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-theme",
+    "dsh-plugins",
+    "web-ui"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

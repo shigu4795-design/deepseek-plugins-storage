@@ -1,0 +1,19 @@
+{
+  "name": "dsh-plugin-development",
+  "version": "1.0.0",
+  "description": "Portable Agent Skill for developing and auditing DeepSeek Harness plugins, with an optional profile-installable DSH bundle adapter.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skills",
+    "cordis",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "plugin-development"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

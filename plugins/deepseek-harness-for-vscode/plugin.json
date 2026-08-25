@@ -1,0 +1,30 @@
+{
+  "id": "deepseek-harness-for-vscode",
+  "name": "For Vscode",
+  "version": "1.0.0",
+  "description": "deepseek-harness for vscode .This is a community project, and we welcome your valuable feedback!",
+  "descriptionEn": "deepseek-harness for vscode .This is a community project, and we welcome your valuable feedback!",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseek-harness-for-vscode",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins",
+    "vscode",
+    "vscode-extension",
+    "vscode-extensions",
+    "vscode-plugin"
+  ],
+  "category": "dev"
+}

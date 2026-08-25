@@ -1,0 +1,37 @@
+{
+  "id": "anolisa",
+  "name": "Anolisa",
+  "version": "1.0.0",
+  "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+  "descriptionEn": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/anolisa",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-infrastructure",
+    "agent-memory",
+    "agent-runtime",
+    "agent-security",
+    "agentic-ai",
+    "agentic-os",
+    "ai-agents",
+    "context-engineering",
+    "developer-tools",
+    "dsh-plugin",
+    "linux",
+    "observability",
+    "runtime-security",
+    "rust",
+    "sandbox",
+    "skill",
+    "token-optimization"
+  ],
+  "category": "workflow"
+}

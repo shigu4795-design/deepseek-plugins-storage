@@ -1,0 +1,35 @@
+{
+  "id": "chatgpt-gemini-timeline",
+  "name": "Chatgpt Gemini Timeline",
+  "version": "1.0.0",
+  "description": "ChatGPT & Gemini：Add Folders, Timeline & Prompts. - 为 ChatGPT & Gemini 添加文件夹、提示词库和时间轴。",
+  "descriptionEn": "ChatGPT & Gemini：Add Folders, Timeline & Prompts. - 为 ChatGPT & Gemini 添加文件夹、提示词库和时间轴。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/chatgpt-gemini-timeline",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "chatgpt",
+    "chrome",
+    "chrome-extension",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "gemini",
+    "kimi",
+    "qwen",
+    "vibe",
+    "vibe-coding",
+    "vibecoding"
+  ],
+  "category": "prompt"
+}

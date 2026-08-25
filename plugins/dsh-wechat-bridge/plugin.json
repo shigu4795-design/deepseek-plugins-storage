@@ -1,0 +1,27 @@
+{
+  "id": "dsh-wechat-bridge",
+  "name": "Wechat Bridge",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness (dsh) transport plugin: chat with your agents on WeChat via official Tencent iLink bot API — zero runtime deps, no OpenClaw, QR-code login, one friend = one persistent agent session.",
+  "descriptionEn": "DeepSeek Harness (dsh) transport plugin: chat with your agents on WeChat via official Tencent iLink bot API — zero runtime deps, no OpenClaw, QR-code login, one friend = one persistent agent session.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-wechat-bridge",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "ilink",
+    "wechat",
+    "wechat-bot",
+    "weixin"
+  ],
+  "category": "workflow"
+}

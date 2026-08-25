@@ -1,0 +1,18 @@
+{
+  "name": "dsh-session-delete",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 会话删除插件：设置页管理归档会话，真正删除磁盘日志（回收站可还原）+ 批量清理——官方归档只隐藏不删盘，这里补上。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-delete",
+    "dsh-plugin",
+    "dsh-session-delete"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dsh-claude-ux",
+  "version": "1.0.0",
+  "description": "DSH plugin: Claude-style Chinese risk control & conversation autonomy for DeepSeek Harness web",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "dsh-find-plugins",
+  "version": "1.0.0",
+  "description": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skills",
+    "deepseek-harness",
+    "dsh-plugin",
+    "plugin-discovery"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

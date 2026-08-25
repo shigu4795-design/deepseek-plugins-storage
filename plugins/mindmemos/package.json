@@ -1,0 +1,24 @@
+{
+  "name": "mindmemos",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 官方与社区开源扩展 (mindscale-noah/MindMemOS)",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "agent-memory",
+    "agent-skills",
+    "agentic",
+    "dsh-plugin",
+    "dsh-plugins",
+    "openclaw",
+    "openclaw-agent",
+    "openclaw-plugin",
+    "rag",
+    "skills"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

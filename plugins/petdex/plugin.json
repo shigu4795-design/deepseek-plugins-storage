@@ -1,0 +1,36 @@
+{
+  "id": "petdex",
+  "name": "Petdex",
+  "version": "1.0.0",
+  "description": "A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.",
+  "descriptionEn": "A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/petdex",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "claude-code",
+    "clerk",
+    "cli",
+    "codex",
+    "developer-tools",
+    "drizzle-orm",
+    "dsh-plugin",
+    "mascot",
+    "neon",
+    "nextjs",
+    "pixel-art",
+    "postgres",
+    "react",
+    "sprites",
+    "tailwindcss",
+    "vercel"
+  ],
+  "category": "ui"
+}

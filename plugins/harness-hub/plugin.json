@@ -1,0 +1,27 @@
+{
+  "id": "harness-hub",
+  "name": "Harness Hub",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness（dsh）桌面客户端：免命令行免环境配置，双击即用，无需任何依赖，内置插件管理器与 dsh 服务托管。A native desktop client for DeepSeek Harness with built-in plugin manager.",
+  "descriptionEn": "DeepSeek Harness（dsh）桌面客户端：免命令行免环境配置，双击即用，无需任何依赖，内置插件管理器与 dsh 服务托管。A native desktop client for DeepSeek Harness with built-in plugin manager.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/harness-hub",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-desktop",
+    "deepseek-harness-plugin",
+    "desktop-app",
+    "dsh",
+    "electron",
+    "plugin-manager"
+  ],
+  "category": "ui"
+}

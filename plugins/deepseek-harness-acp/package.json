@@ -1,0 +1,20 @@
+{
+  "name": "deepseek-harness-acp",
+  "version": "1.0.0",
+  "description": "ACP server implementation for DeepSeek harness. dsh-acp",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "acp",
+    "agent-client-protocol",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "dsh-plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

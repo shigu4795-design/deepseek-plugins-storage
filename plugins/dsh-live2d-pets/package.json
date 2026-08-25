@@ -1,0 +1,22 @@
+{
+  "name": "dsh-live2d-pets",
+  "version": "1.0.0",
+  "description": "Live2D 桌宠插件 for DeepSeek Harness：Agent 状态镜像 + 互动陪伴，内置宽松许可预设模型 / Live2D pet plugin: agent state mirror + interactive companion with curated permissive-license presets",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "cubism",
+    "deepseek-harness",
+    "desktop-pet",
+    "dsh",
+    "dsh-plugin",
+    "live2d",
+    "mascot",
+    "plugin",
+    "webgl"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "querit-plugins",
+  "name": "Querit Plugins",
+  "version": "1.0.0",
+  "description": "Official Querit search plugins for AI agent harnesses: pi-querit (Pi extension), dsh-querit (DeepSeek Harness web seam), opencode-querit (OpenCode plugin)",
+  "descriptionEn": "Official Querit search plugins for AI agent harnesses: pi-querit (Pi extension), dsh-querit (DeepSeek Harness web seam), opencode-querit (OpenCode plugin)",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/querit-plugins",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-harness",
+    "ai",
+    "dsh-plugin",
+    "llm",
+    "opencode-plugin",
+    "pi-extension",
+    "pi-package",
+    "plugins",
+    "querit",
+    "search-api",
+    "web-fetch",
+    "web-search"
+  ],
+  "category": "models"
+}

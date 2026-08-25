@@ -1,0 +1,17 @@
+{
+  "name": "dsh-agent-memory",
+  "version": "1.0.0",
+  "description": "Cross-session long-term memory plugin for DeepSeek Harness (DSH)",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "memory"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

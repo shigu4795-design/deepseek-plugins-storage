@@ -1,0 +1,27 @@
+{
+  "id": "deeptide",
+  "name": "Deeptide",
+  "version": "1.0.0",
+  "description": "Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent",
+  "descriptionEn": "Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deeptide",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "codex-harness",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "macos",
+    "swift"
+  ],
+  "category": "ui"
+}

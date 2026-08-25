@@ -1,0 +1,19 @@
+{
+  "name": "dsh-stock-watch",
+  "version": "1.0.0",
+  "description": "A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins",
+    "plugin",
+    "stock",
+    "stock-market"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

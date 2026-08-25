@@ -1,0 +1,33 @@
+{
+  "name": "dsh-authinone",
+  "version": "1.0.0",
+  "description": "Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-port Web restart. Useful? A star helps.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "cost-attribution",
+    "cost-tracking",
+    "custom-api",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "image-understanding",
+    "llm-provider",
+    "model-switching",
+    "multimodal",
+    "oauth",
+    "openai-codex",
+    "openai-compatible",
+    "provider-management",
+    "same-port-restart",
+    "self-contained-installer",
+    "text-only-model",
+    "token-usage",
+    "usage-attribution",
+    "vision-fallback"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

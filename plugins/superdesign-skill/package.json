@@ -1,0 +1,26 @@
+{
+  "name": "superdesign-skill",
+  "version": "1.0.0",
+  "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skills",
+    "ai-design",
+    "claude-code",
+    "claude-skill",
+    "claude-skills",
+    "coding-agent",
+    "cursor",
+    "design-agent",
+    "dsh-plugin",
+    "frontend",
+    "superdesign",
+    "ui-design",
+    "ux-design"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

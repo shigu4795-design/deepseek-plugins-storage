@@ -1,0 +1,26 @@
+{
+  "id": "dsh-worktree",
+  "name": "Worktree",
+  "version": "1.0.0",
+  "description": "Codex-style permanent git worktrees for DeepSeek Harness: worktree_create/list/remove agent tools, a /worktree chat command, and durable per-repo manifests.",
+  "descriptionEn": "Codex-style permanent git worktrees for DeepSeek Harness: worktree_create/list/remove agent tools, a /worktree chat command, and durable per-repo manifests.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-worktree",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "git",
+    "plugin",
+    "worktree"
+  ],
+  "category": "workflow"
+}

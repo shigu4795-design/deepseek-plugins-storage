@@ -1,0 +1,25 @@
+{
+  "name": "dsh-telegram-channel",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness Telegram mobile remote: bind live Web sessions (Codex-style). Install: dsh plugin add github:hi-wenw/dsh-telegram-channel",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "bot",
+    "channel",
+    "cordis",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "mobile",
+    "remote",
+    "sessions",
+    "telegram"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

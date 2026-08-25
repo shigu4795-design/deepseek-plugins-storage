@@ -1,0 +1,25 @@
+{
+  "name": "dsh-computer-use",
+  "version": "1.0.0",
+  "description": "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "accessibility",
+    "agent-tools",
+    "ai-agents",
+    "browser-automation",
+    "computer-use",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "desktop-automation",
+    "dsh",
+    "dsh-plugin",
+    "macos"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

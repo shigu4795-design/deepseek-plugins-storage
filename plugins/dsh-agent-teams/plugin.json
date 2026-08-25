@@ -1,0 +1,25 @@
+{
+  "id": "dsh-agent-teams",
+  "name": "Agent Teams",
+  "version": "1.0.0",
+  "description": "AgentTeams plugin for DeepSeek Harness",
+  "descriptionEn": "AgentTeams plugin for DeepSeek Harness",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-agent-teams",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agentteams",
+    "deepseekharness",
+    "dsh",
+    "dsh-agent-teams",
+    "dsh-plugin"
+  ],
+  "category": "workflow"
+}

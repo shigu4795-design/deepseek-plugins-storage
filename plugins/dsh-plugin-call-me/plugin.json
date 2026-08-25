@@ -1,0 +1,35 @@
+{
+  "id": "dsh-plugin-call-me",
+  "name": "Plugin Call Me",
+  "version": "1.0.0",
+  "description": "Your DeepSeek Harness agent rings your actual phone: it asks out loud, you answer out loud, and what you said steers the run.",
+  "descriptionEn": "Your DeepSeek Harness agent rings your actual phone: it asks out loud, you answer out loud, and what you said steers the run.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-plugin-call-me",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "ai-agent",
+    "callkit",
+    "cordis",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-external",
+    "dsh-plugin",
+    "human-in-the-loop",
+    "ios",
+    "notifications",
+    "phone-call",
+    "plugin",
+    "voice"
+  ],
+  "category": "workflow"
+}

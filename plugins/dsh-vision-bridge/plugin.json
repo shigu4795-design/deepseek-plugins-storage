@@ -1,0 +1,40 @@
+{
+  "id": "dsh-vision-bridge",
+  "name": "Vision Bridge",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness plugin that bridges session images to pluggable vision APIs while keeping DeepSeek as the primary model.",
+  "descriptionEn": "DeepSeek Harness plugin that bridges session images to pluggable vision APIs while keeping DeepSeek as the primary model.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-vision-bridge",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek",
+    "deepseek-ai",
+    "deepseek-harness",
+    "deepseek-harness-desktop",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugin-dev",
+    "deepseek-harness-plugins",
+    "deepseek-v4",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins",
+    "gemini",
+    "gemini-api",
+    "vision",
+    "vision-ai",
+    "vision-api",
+    "vision-language",
+    "vision-language-model",
+    "vision-language-models",
+    "visionos"
+  ],
+  "category": "models"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "blue-whale-harness",
+  "version": "1.0.0",
+  "description": "DeepSeek-Harness-Plugins",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-v4-pro",
+    "harness",
+    "harness-ai",
+    "plugin-marketplace",
+    "plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

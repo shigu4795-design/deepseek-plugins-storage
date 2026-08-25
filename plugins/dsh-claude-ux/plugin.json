@@ -1,0 +1,23 @@
+{
+  "id": "dsh-claude-ux",
+  "name": "Claude Ux",
+  "version": "1.0.0",
+  "description": "DSH plugin: Claude-style Chinese risk control & conversation autonomy for DeepSeek Harness web",
+  "descriptionEn": "DSH plugin: Claude-style Chinese risk control & conversation autonomy for DeepSeek Harness web",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-claude-ux",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "models"
+}

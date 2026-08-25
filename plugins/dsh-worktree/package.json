@@ -1,0 +1,19 @@
+{
+  "name": "dsh-worktree",
+  "version": "1.0.0",
+  "description": "Codex-style permanent git worktrees for DeepSeek Harness: worktree_create/list/remove agent tools, a /worktree chat command, and durable per-repo manifests.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "git",
+    "plugin",
+    "worktree"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

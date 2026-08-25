@@ -1,0 +1,40 @@
+{
+  "id": "memos",
+  "name": "MemOS",
+  "version": "1.0.0",
+  "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+  "descriptionEn": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/memos",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "chatgpt",
+    "claude",
+    "deepseek-harness",
+    "dsh-plugin",
+    "hermes",
+    "llm",
+    "long-term-memory",
+    "mcp",
+    "memory",
+    "memory-management",
+    "openclaw",
+    "rag",
+    "self-evolving",
+    "self-hosted",
+    "skills",
+    "token-savings"
+  ],
+  "category": "models"
+}

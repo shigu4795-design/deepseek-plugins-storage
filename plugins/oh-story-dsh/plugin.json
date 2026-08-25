@@ -1,0 +1,30 @@
+{
+  "id": "oh-story-dsh",
+  "name": "Oh Story Dsh",
+  "version": "1.0.0",
+  "description": "A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.",
+  "descriptionEn": "A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/oh-story-dsh",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agents",
+    "creative-writing",
+    "deepseek-harness",
+    "drama-skills",
+    "dsh-plugin",
+    "fiction-writing",
+    "novel-writing",
+    "oh-story",
+    "screenwriting",
+    "short-drama"
+  ],
+  "category": "workflow"
+}

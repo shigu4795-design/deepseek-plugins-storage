@@ -1,0 +1,27 @@
+{
+  "id": "reme",
+  "name": "ReMe",
+  "version": "1.0.0",
+  "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+  "descriptionEn": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/reme",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "ai-agents",
+    "dsh-plugin",
+    "memory",
+    "memoryscope",
+    "rag",
+    "reme"
+  ],
+  "category": "workflow"
+}

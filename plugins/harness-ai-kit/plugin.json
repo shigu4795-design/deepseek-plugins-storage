@@ -1,0 +1,40 @@
+{
+  "id": "harness-ai-kit",
+  "name": "Harness Ai Kit",
+  "version": "1.0.0",
+  "description": "Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (MySQL/PG/Redis/Kafka/Mongo/Oracle/NL2SQL), K8s/Docker diagnostics, infra ops (Dify/Nexus/Harbor/SonarQube) & docs/patent. Runtimes: Codex, Claude Code, Cursor, Kiro, DSH.",
+  "descriptionEn": "Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (MySQL/PG/Redis/Kafka/Mongo/Oracle/NL2SQL), K8s/Docker diagnostics, infra ops (Dify/Nexus/Harbor/SonarQube) & docs/patent. Runtimes: Codex, Claude Code, Cursor, Kiro, DSH.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/harness-ai-kit",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-framework",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "database",
+    "dify",
+    "docker",
+    "dsh",
+    "dsh-plugin",
+    "kiro",
+    "kubernetes",
+    "llm",
+    "mcp",
+    "mysql",
+    "nexus",
+    "python",
+    "sonarqube"
+  ],
+  "category": "models"
+}

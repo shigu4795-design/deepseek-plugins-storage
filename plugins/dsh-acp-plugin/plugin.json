@@ -1,0 +1,23 @@
+{
+  "id": "dsh-acp-plugin",
+  "name": "Acp Plugin",
+  "version": "1.0.0",
+  "description": "Agentic Control Plane for DeepSeek Harness — policy-check every tool call before it runs",
+  "descriptionEn": "Agentic Control Plane for DeepSeek Harness — policy-check every tool call before it runs",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-acp-plugin",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-security",
+    "deepseek-harness",
+    "dsh-plugin"
+  ],
+  "category": "workflow"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dsh-tui",
+  "name": "Tui",
+  "version": "1.0.0",
+  "description": "An open-source terminal front door for DeepSeek Harness (dsh).",
+  "descriptionEn": "An open-source terminal front door for DeepSeek Harness (dsh).",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-tui",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "tui"
+  ],
+  "category": "ui"
+}

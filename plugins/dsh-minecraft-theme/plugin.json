@@ -1,0 +1,28 @@
+{
+  "id": "dsh-minecraft-theme",
+  "name": "Minecraft Theme",
+  "version": "1.0.0",
+  "description": "Minecraft Launcher 风格的 DeepSeek Harness WebUI 皮肤插件",
+  "descriptionEn": "Minecraft Launcher 风格的 DeepSeek Harness WebUI 皮肤插件",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-minecraft-theme",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-theme",
+    "dsh-plugins",
+    "web-ui"
+  ],
+  "category": "ui"
+}

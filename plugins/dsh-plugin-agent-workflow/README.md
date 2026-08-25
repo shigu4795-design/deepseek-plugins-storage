@@ -9,7 +9,7 @@
 <br />
 
 <!-- DeepSeek Harness 桌面端一键安装徽章 -->
-<a href="dsh://plugin/install?id=dsh-plugin-agent-workflow&name=Plugin%20Agent%20Workflow&version=1.0.0&repo=Minglink%2Fdsh-plugin-agent-workflow&permissions=%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%2C%E7%BD%91%E7%BB%9C%2C%E5%B7%A5%E4%BD%9C%E6%B5%81">
+<a href="dsh://plugin/install?id=dsh-plugin-agent-workflow&name=Plugin%20Agent%20Workflow&version=1.0.0&repo=shigu4795-design%2Fdeepseek-plugins-storage&permissions=network%2Cfilesystem">
   <img src="https://img.shields.io/badge/Install%20in-DeepSeek%20Harness-0ea5e9?style=for-the-badge&logo=deepseek" alt="一键安装到 DeepSeek Harness 桌面端" />
 </a>
 
@@ -17,10 +17,9 @@
 
 ---
 
-## 📖 简介
+## 📖 插件介绍
 
-**Plugin Agent Workflow** 是适用于 DeepSeek Harness 的工作流编排引擎插件。
-支持多步骤链式调用、Prompt 模板动态注入与复杂任务自动化。
+DeepSeek Harness Agent Workflow
 
 ---
 
@@ -31,7 +30,7 @@
 
 ### 方法二：终端命令行安装
 ```bash
-dsh plugin --profile web add "github:Minglink/dsh-plugin-agent-workflow"
+dsh plugin add "https://deepseek.stream/api/plugins/download?id=dsh-plugin-agent-workflow"
 ```
 
 ---

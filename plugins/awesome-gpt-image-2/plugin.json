@@ -1,0 +1,30 @@
+{
+  "id": "awesome-gpt-image-2",
+  "name": "Awesome Gpt Image 2",
+  "version": "1.0.0",
+  "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+  "descriptionEn": "Prompt as Code | GPT-Image2 工业级提示���引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/awesome-gpt-image-2",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agents",
+    "ai-image-generation",
+    "chatgpt",
+    "dsh-plugin",
+    "gpt-image-2",
+    "image-prompts",
+    "prompt-as-code",
+    "prompt-engineering",
+    "skills",
+    "workflow-automation"
+  ],
+  "category": "prompt"
+}

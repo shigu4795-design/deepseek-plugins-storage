@@ -1,0 +1,29 @@
+{
+  "id": "dsh-skin20260814",
+  "name": "Skin20260814",
+  "version": "1.0.0",
+  "description": "dsh-skin 增强版：为 DeepSeek Harness 提供皮肤切换与自定义背景壁纸。在原版基础上修复了两处问题——① 大图/特殊格式上传无响应（改用 createImageBitmap 直接解码、增加处理中与错误提示）；② 主题切换时 overrideTokens 触发 theme/change 导致无限递归栈溢出（加皮肤/明��守卫断开循环）。壁纸存储从 localStorage 压缩方案改为 IndexedDB 原文件直存，全画质显示、零压缩，并自动迁移旧数据。",
+  "descriptionEn": "dsh-skin 增强版：为 DeepSeek Harness 提供皮肤切换与自定义背景壁纸。在原版基础上修复了两处问题——① 大图/特殊格式上传无响应（改用 createImageBitmap 直接解码、增加处理中与错误提示）；② 主题切换时 overrideTokens 触发 theme/change 导致无限递归栈溢出（加皮肤/明��守卫断开循环）。壁纸存储从 localStorage 压缩方案改为 IndexedDB 原文件直存，全画质显示、零压缩，并自动迁移旧数据。",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-skin20260814",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "indexeddb",
+    "plugin",
+    "skin",
+    "theme",
+    "wallpaper",
+    "web-ui"
+  ],
+  "category": "ui"
+}

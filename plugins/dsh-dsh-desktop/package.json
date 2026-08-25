@@ -1,0 +1,21 @@
+{
+  "name": "dsh-dsh-desktop",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "cordis",
+    "cordis-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "desktop",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-desktop"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "martty",
+  "version": "1.0.0",
+  "description": "deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin.  Martty is a ACP client.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "acp",
+    "acp-protocol",
+    "agent",
+    "agent-client-protocol",
+    "agents",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugin-dev",
+    "deepseek-harness-plugins",
+    "dsh-plugin",
+    "dsh-plugins",
+    "tui",
+    "tui-rs"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

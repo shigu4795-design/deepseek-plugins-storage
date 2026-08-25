@@ -1,0 +1,29 @@
+{
+  "id": "dashi-taskboard",
+  "name": "Dashi Taskboard",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 官方与社区开源扩展 (chuspeeism/dashi-taskboard)",
+  "descriptionEn": "Open-source DeepSeek Harness plugin from GitHub (chuspeeism/dashi-taskboard)",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dashi-taskboard",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "claude-code",
+    "cli",
+    "codex",
+    "codex-app",
+    "codex-desktop",
+    "codex-plugin",
+    "dsh",
+    "dsh-plugin",
+    "skills"
+  ],
+  "category": "models"
+}

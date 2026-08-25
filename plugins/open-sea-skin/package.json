@@ -1,0 +1,22 @@
+{
+  "name": "open-sea-skin",
+  "version": "1.0.0",
+  "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "chrome-extension",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "ocean-skin",
+    "theme",
+    "threejs",
+    "webgpu"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

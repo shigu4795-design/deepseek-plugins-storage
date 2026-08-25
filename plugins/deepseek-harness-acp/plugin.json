@@ -1,0 +1,27 @@
+{
+  "id": "deepseek-harness-acp",
+  "name": "Acp",
+  "version": "1.0.0",
+  "description": "ACP server implementation for DeepSeek harness. dsh-acp",
+  "descriptionEn": "ACP server implementation for DeepSeek harness. dsh-acp",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/deepseek-harness-acp",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "acp",
+    "agent-client-protocol",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "dsh-plugins"
+  ],
+  "category": "workflow"
+}

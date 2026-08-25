@@ -1,0 +1,40 @@
+{
+  "id": "anchorlaw",
+  "name": "Anchorlaw",
+  "version": "1.0.0",
+  "description": "Code verification protocol for vibe coding — every claim must have a verifiable practice anchor.",
+  "descriptionEn": "Code verification protocol for vibe coding — every claim must have a verifiable practice anchor.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/anchorlaw",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-assisted-development",
+    "code-quality",
+    "code-verification",
+    "cpp",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "defensive-programming",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "llm",
+    "protocol",
+    "python",
+    "static-analysis",
+    "testing",
+    "typescript",
+    "verification",
+    "vibe-coded",
+    "vibe-coding"
+  ],
+  "category": "models"
+}

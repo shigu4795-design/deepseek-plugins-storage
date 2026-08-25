@@ -1,0 +1,33 @@
+{
+  "id": "weshop-dsh-plugin",
+  "name": "Weshop Dsh Plugin",
+  "version": "1.0.0",
+  "description": "Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills.",
+  "descriptionEn": "Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/weshop-dsh-plugin",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "agent-skills",
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "canvas",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "dsh-skill",
+    "mcp",
+    "mcp-tools",
+    "skills"
+  ],
+  "category": "workflow"
+}

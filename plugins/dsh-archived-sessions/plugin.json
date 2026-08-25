@@ -1,0 +1,30 @@
+{
+  "id": "dsh-archived-sessions",
+  "name": "Archived Sessions",
+  "version": "1.0.0",
+  "description": "DSH Session Manager: manage conversations, archive/restore, delete safely, open record folders.",
+  "descriptionEn": "DSH Session Manager: manage conversations, archive/restore, delete safely, open record folders.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-archived-sessions",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugins",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins",
+    "plugin",
+    "plugins",
+    "session-manager"
+  ],
+  "category": "tools"
+}

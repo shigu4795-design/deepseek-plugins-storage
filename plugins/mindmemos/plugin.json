@@ -1,0 +1,31 @@
+{
+  "id": "mindmemos",
+  "name": "MindMemOS",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 官方与社区开源扩展 (mindscale-noah/MindMemOS)",
+  "descriptionEn": "Open-source DeepSeek Harness plugin from GitHub (mindscale-noah/MindMemOS)",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/mindmemos",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent",
+    "agent-memory",
+    "agent-skills",
+    "agentic",
+    "dsh-plugin",
+    "dsh-plugins",
+    "openclaw",
+    "openclaw-agent",
+    "openclaw-plugin",
+    "rag",
+    "skills"
+  ],
+  "category": "workflow"
+}

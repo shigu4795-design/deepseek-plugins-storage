@@ -1,25 +1,26 @@
 {
   "id": "dsh-better-sidebar",
-  "name": "DSH Better 侧边栏",
+  "name": "DSH Better Sidebar",
   "version": "1.0.0",
-  "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面",
-  "descriptionEn": "Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+  "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+  "descriptionEn": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
   "author": "MingLin",
-  "authorUrl": "https://github.com/Minglink",
+  "authorUrl": "https://deepseek.stream",
   "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-better-sidebar",
   "platform": "all",
   "harnessVersion": ">=1.0.0",
   "entry": "index.js",
   "permissions": [
-    "filesystem",
-    "terminal",
-    "webview"
+    "network",
+    "filesystem"
   ],
   "tags": [
-    "sidebar",
-    "tools",
-    "ui",
-    "dsh-better-sidebar"
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-better-sidebar",
+    "dsh-plugin",
+    "sidebar"
   ],
-  "category": "tools"
+  "category": "ui"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "dsh-image-gen",
+  "name": "Image Gen",
+  "version": "1.0.0",
+  "description": "Generate images directly in DeepSeek Harness chats",
+  "descriptionEn": "Generate images directly in DeepSeek Harness chats",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-image-gen",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agent",
+    "cordis",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "gemini",
+    "image-generation",
+    "openai",
+    "plugin",
+    "seedream"
+  ],
+  "category": "models"
+}

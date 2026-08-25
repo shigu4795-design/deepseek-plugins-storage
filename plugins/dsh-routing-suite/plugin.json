@@ -1,0 +1,25 @@
+{
+  "id": "dsh-routing-suite",
+  "name": "Routing Suite",
+  "version": "1.0.0",
+  "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+  "descriptionEn": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-routing-suite",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "ai-agents",
+    "cordis",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "category": "ui"
+}

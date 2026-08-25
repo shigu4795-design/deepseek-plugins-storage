@@ -1,0 +1,21 @@
+{
+  "name": "deepseekharnesseval",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 官方与社区开源扩展 (suyoumo/deepseekharnesseval)",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh",
+    "dsh-bundle",
+    "dsh-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

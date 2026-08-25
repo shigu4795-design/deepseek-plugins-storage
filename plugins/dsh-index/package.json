@@ -1,0 +1,20 @@
+{
+  "name": "dsh-index",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness Plugin and Agent Profile Package Index - Install dsh-plugin with just one command",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "deepseek",
+    "dsh",
+    "dsh-plugin",
+    "package-index",
+    "xlings",
+    "xpkg"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

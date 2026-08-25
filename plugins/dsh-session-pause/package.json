@@ -1,0 +1,15 @@
+{
+  "name": "dsh-session-pause",
+  "version": "1.0.0",
+  "description": "A Cordis plugin for DeepSeek Harness that suspends the entire conversation state and resumes it after restart.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent",
+    "dsh-plugin"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

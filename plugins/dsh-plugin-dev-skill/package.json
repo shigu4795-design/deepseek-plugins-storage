@@ -1,0 +1,23 @@
+{
+  "name": "dsh-plugin-dev-skill",
+  "version": "1.0.0",
+  "description": "A skill pack that enables any agent to develop DeepSeek Harness (DSH) plugins correctly, efficiently, and in accordance with the official conventions.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-skill",
+    "agent-skills",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "deepseek-harness-plugin-dev",
+    "dsh",
+    "dsh-plugin",
+    "plugin-development",
+    "skills"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

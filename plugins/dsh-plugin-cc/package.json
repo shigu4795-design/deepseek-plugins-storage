@@ -1,0 +1,25 @@
+{
+  "name": "dsh-plugin-cc",
+  "version": "1.0.0",
+  "description": "Bridge Deepseek-harness into Claude Code for review, critique, delegation, and session import.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "ai-agent",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-plugin",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
+    "slash-commands"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

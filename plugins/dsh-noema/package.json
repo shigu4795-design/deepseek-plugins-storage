@@ -1,0 +1,25 @@
+{
+  "name": "dsh-noema",
+  "version": "1.0.0",
+  "description": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "agent-memory",
+    "ai-agents",
+    "coding-agent",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "long-term-memory",
+    "mcp",
+    "memory",
+    "noema",
+    "plugin",
+    "typescript"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}

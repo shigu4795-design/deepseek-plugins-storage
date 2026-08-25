@@ -1,0 +1,23 @@
+{
+  "id": "coding-tools-mcp",
+  "name": "Coding Tools Mcp",
+  "version": "1.0.0",
+  "description": "Give any AI agent the ability to code",
+  "descriptionEn": "Give any AI agent the ability to code",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/coding-tools-mcp",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "dsh-plugin",
+    "mcp",
+    "mcp-server"
+  ],
+  "category": "workflow"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dsh-lark-bridge",
+  "name": "Lark Bridge",
+  "version": "1.0.0",
+  "description": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
+  "descriptionEn": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/dsh-lark-bridge",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "bot",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "feishu",
+    "lark"
+  ],
+  "category": "workflow"
+}

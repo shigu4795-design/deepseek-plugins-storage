@@ -1,0 +1,31 @@
+{
+  "id": "godot-bridge",
+  "name": "Godot Bridge",
+  "version": "1.0.0",
+  "description": "DSH (DeepSeek Harness) plugin that launches and drives a running Godot 4.x game through its in-game TCP interaction server — replaces the godot-mcp MCP server with native agent tools.",
+  "descriptionEn": "DSH (DeepSeek Harness) plugin that launches and drives a running Godot 4.x game through its in-game TCP interaction server — replaces the godot-mcp MCP server with native agent tools.",
+  "author": "MingLin",
+  "authorUrl": "https://deepseek.stream",
+  "homepage": "https://github.com/shigu4795-design/deepseek-plugins-storage/tree/main/plugins/godot-bridge",
+  "platform": "all",
+  "harnessVersion": ">=1.0.0",
+  "entry": "index.js",
+  "permissions": [
+    "network",
+    "filesystem"
+  ],
+  "tags": [
+    "agent-tools",
+    "ai-agent",
+    "automation",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "game-development",
+    "godot",
+    "godot-engine",
+    "godot-plugin",
+    "mcp"
+  ],
+  "category": "workflow"
+}

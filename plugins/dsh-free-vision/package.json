@@ -1,0 +1,19 @@
+{
+  "name": "dsh-free-vision",
+  "version": "1.0.0",
+  "description": "为DSH（DeepSeek Harness）量身打造的视觉插件，现已支持agent调用图片显示/Vision plugin for DSH(DeepSeek Harness),support Proactive Image Display.",
+  "main": "index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "free",
+    "image-understanding",
+    "vision"
+  ],
+  "author": "MingLin",
+  "license": "MIT"
+}
