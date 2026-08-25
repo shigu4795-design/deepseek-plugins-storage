@@ -2,7 +2,7 @@
   "id": "dsh-mcp-panel",
   "name": "Mcp Panel",
   "version": "1.0.0",
-  "description": "MCP management console for the official DeepSeek Harness MCP client: /mcp command with health diagnostics and pipeline trial calls, a Settings MCP tab with server CRUD (approval-gated writes, automatic backups) and a tool trial console over the official tool pipeline (Apache-2.0, dsh-plugin).",
+  "description": "【MCP 管理】 Model Context Protocol (MCP) 可视化管理中心：支持在设置页一键添加、启停、编辑与重连外部 MCP 工具服务器，实时监控连接状态。",
   "descriptionEn": "MCP management console for the official DeepSeek Harness MCP client: /mcp command with health diagnostics and pipeline trial calls, a Settings MCP tab with server CRUD (approval-gated writes, automatic backups) and a tool trial console over the official tool pipeline (Apache-2.0, dsh-plugin).",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,17 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "cordis",
-    "deepseek",
-    "deepseek-harness",
-    "dsh",
+    "MCP管理",
+    "工具扩展",
+    "插件底座",
+    "mcp-server",
     "dsh-plugin",
-    "management",
-    "mcp",
-    "mcp-client",
-    "mcp-console",
-    "observability",
-    "panel"
+    "tools"
   ],
   "category": "tools"
 }

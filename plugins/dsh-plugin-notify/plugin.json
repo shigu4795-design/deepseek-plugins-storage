@@ -2,7 +2,7 @@
   "id": "dsh-plugin-notify",
   "name": "Plugin Notify",
   "version": "1.0.0",
-  "description": "DeepSeek Harness 插件：通知出口——agent 通过桌面通知 / 中文语音播报 / 提示音主动联系用户（长任务完成、出错、呼叫用户回来）。Windows 本机零依赖。",
+  "description": "【通知提醒】 智能任务完成提醒信使：支持通过桌面弹窗、中文语音播报、提示音及多渠道 Webhook 主动通知用户，避免长时间盲目等待。",
   "descriptionEn": "DeepSeek Harness 插件：通知出口——agent 通过桌面通知 / 中文语音播报 / 提示音主动联系用户（长任务完成、出错、呼叫用户回来）。Windows 本机零依赖。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,13 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "agent",
-    "deepseek-harness",
-    "dsh",
-    "dsh-plugin",
+    "桌面弹窗",
+    "语音播报",
+    "任务提醒",
     "notification",
-    "tts",
-    "voice"
+    "dsh-plugin",
+    "workflow"
   ],
   "category": "workflow"
 }

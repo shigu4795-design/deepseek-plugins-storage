@@ -2,7 +2,7 @@
   "id": "dsh-advisor",
   "name": "Advisor",
   "version": "1.0.0",
-  "description": "Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。",
+  "description": "【实用工具】 Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。",
   "descriptionEn": "Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -19,7 +19,8 @@
     "deepseek-harness",
     "deepseek-harness-plugin",
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "models"
   ],
   "category": "models"
 }

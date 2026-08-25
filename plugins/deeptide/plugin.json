@@ -2,7 +2,7 @@
   "id": "deeptide",
   "name": "Deeptide",
   "version": "1.0.0",
-  "description": "Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent",
+  "description": "【实用工具】 Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent",
   "descriptionEn": "Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -21,7 +21,8 @@
     "deepseek-harness",
     "dsh-plugin",
     "macos",
-    "swift"
+    "swift",
+    "ui"
   ],
   "category": "ui"
 }

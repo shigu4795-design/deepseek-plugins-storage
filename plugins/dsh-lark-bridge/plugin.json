@@ -2,7 +2,7 @@
   "id": "dsh-lark-bridge",
   "name": "Lark Bridge",
   "version": "1.0.0",
-  "description": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
+  "description": "【实用工具】 A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
   "descriptionEn": "A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -21,7 +21,8 @@
     "deepseek-harness",
     "dsh-plugin",
     "feishu",
-    "lark"
+    "lark",
+    "workflow"
   ],
   "category": "workflow"
 }

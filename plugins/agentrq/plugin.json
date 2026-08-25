@@ -2,7 +2,7 @@
   "id": "agentrq",
   "name": "Agentrq",
   "version": "1.0.0",
-  "description": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness.",
+  "description": "【工作流引擎】 自动化 Agent 工作流编排系统：支持多步骤推理、代码质量重构、单元测试自动化生成与复杂任务链式调度。",
   "descriptionEn": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,25 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "acp-client",
-    "acp-gateway",
-    "agentic-ai",
-    "agentic-workflow",
-    "agents",
-    "claude-code",
-    "deepseek-harness",
-    "deepseek-harness-plugin",
+    "工作流",
+    "自动化重构",
+    "测试生成",
+    "workflow",
     "dsh-plugin",
-    "hermes-agent",
-    "mcp",
-    "mcp-server",
-    "openclaw",
-    "opencode",
-    "supervisor",
-    "task",
-    "task-manager",
-    "task-scheduler",
-    "todo"
+    "ui"
   ],
   "category": "ui"
 }

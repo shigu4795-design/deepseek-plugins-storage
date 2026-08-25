@@ -2,7 +2,7 @@
   "id": "dsh-playwright-browser",
   "name": "Playwright Browser",
   "version": "1.0.0",
-  "description": "Playwright browser automation for DeepSeek Harness｜面向 DeepSeek Harness 的 Playwright 浏览器自动化插件",
+  "description": "【实用工具】 Playwright browser automation for DeepSeek Harness｜面向 DeepSeek Harness 的 Playwright 浏览器自动化插件",
   "descriptionEn": "Playwright browser automation for DeepSeek Harness｜面向 DeepSeek Harness 的 Playwright 浏览器自动化插件",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -22,7 +22,8 @@
     "dsh",
     "dsh-plugin",
     "playwright",
-    "web-automation"
+    "web-automation",
+    "workflow"
   ],
   "category": "workflow"
 }

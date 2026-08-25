@@ -2,7 +2,7 @@
   "id": "dsh-cost-meter",
   "name": "Cost Meter",
   "version": "1.0.0",
-  "description": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
+  "description": "【Token 统计】 会话消耗与 Token 实时统计仪：在界面角落直观展示当前对话的 Token 使用量、API 预估成本与缓存命中率，开发成本一目了然。",
   "descriptionEn": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,17 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "cost-tracking",
-    "deepseek",
-    "deepseek-api",
-    "deepseek-harness",
-    "dsh",
+    "Token统计",
+    "成本预估",
+    "缓存监控",
+    "analytics",
     "dsh-plugin",
-    "dsh-plugins",
-    "harness",
-    "llm",
-    "plugins",
-    "token-usage"
+    "ui"
   ],
   "category": "ui"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-im-gateway",
   "name": "Im Gateway",
   "version": "1.0.0",
-  "description": "把 dsh agent 接入微信、飞书等 20+ 聊天平台的聚合网关插件 | Aggregate IM gateway for DeepSeek Harness (dsh): connect your agents to WeChat, Feishu, Telegram, Discord & 20+ chat platforms",
+  "description": "【实用工具】 把 dsh agent 接入微信、飞书等 20+ 聊天平台的聚合网关插件 | Aggregate IM gateway for DeepSeek Harness (dsh): connect your agents to WeChat, Feishu, Telegram, Discord & 20+ chat platforms",
   "descriptionEn": "把 dsh agent 接入微信、飞书等 20+ 聊天平台的聚合网关插件 | Aggregate IM gateway for DeepSeek Harness (dsh): connect your agents to WeChat, Feishu, Telegram, Discord & 20+ chat platforms",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -23,7 +23,8 @@
     "dsh-plugin-market",
     "dsh-plugins",
     "gateway",
-    "im-gateway"
+    "im-gateway",
+    "workflow"
   ],
   "category": "workflow"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-browser",
   "name": "Browser",
   "version": "1.0.0",
-  "description": "Browser capability for DeepSeek Harness: headed Edge/Playwright provider, SSRF-safe navigation, a11y-ref clicking, permission gate with auto-remember, gated evaluate",
+  "description": "【实用工具】 Browser capability for DeepSeek Harness: headed Edge/Playwright provider, SSRF-safe navigation, a11y-ref clicking, permission gate with auto-remember, gated evaluate",
   "descriptionEn": "Browser capability for DeepSeek Harness: headed Edge/Playwright provider, SSRF-safe navigation, a11y-ref clicking, permission gate with auto-remember, gated evaluate",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -21,7 +21,8 @@
     "dsh",
     "dsh-plugin",
     "playwright",
-    "plugin"
+    "plugin",
+    "workflow"
   ],
   "category": "workflow"
 }

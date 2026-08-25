@@ -2,7 +2,7 @@
   "id": "ppt-design-skill",
   "name": "PPT Design Skill",
   "version": "1.0.0",
-  "description": "Precision PPT design  skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect build-mode control, and AI image generation",
+  "description": "【实用工具】 Precision PPT design  skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect build-mode control, and AI image generation",
   "descriptionEn": "Precision PPT design  skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect build-mode control, and AI image generation",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -26,7 +26,8 @@
     "pptx",
     "pptx-generator",
     "presentation-design",
-    "skill"
+    "skill",
+    "ui"
   ],
   "category": "ui"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-session-cost",
   "name": "Session Cost",
   "version": "1.0.0",
-  "description": "DSH plugin: estimated DeepSeek API cost per session in the web GUI stats strip",
+  "description": "【长期记忆】 跨会话智能用户记忆库：持久化记录用户的编码偏好、技术栈规范与历史决策，无需在每个新对话中重复设定 Context。",
   "descriptionEn": "DSH plugin: estimated DeepSeek API cost per session in the web GUI stats strip",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,15 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "cost",
-    "cost-tracking",
-    "deepseek-harness",
-    "deepseek-harness-plugin",
-    "deepseek-harness-plugins",
-    "dsh",
+    "长期记忆",
+    "偏好同步",
+    "上下文保持",
+    "memory",
     "dsh-plugin",
-    "dsh-plugins",
-    "token"
+    "ui"
   ],
   "category": "ui"
 }

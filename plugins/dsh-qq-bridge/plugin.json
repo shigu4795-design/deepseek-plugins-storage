@@ -2,7 +2,7 @@
   "id": "dsh-qq-bridge",
   "name": "Qq Bridge",
   "version": "1.0.0",
-  "description": "将 QQ（私聊+群聊）接入 DeepSeek Harness 的双向桥插件：每个 QQ 对话一个隔离持久 Agent 会话，支持命令/审批/多媒体/出站文件",
+  "description": "【实用工具】 将 QQ（私聊+群聊）接入 DeepSeek Harness 的双向桥插件：每个 QQ 对话一个隔离持久 Agent 会话，支持命令/审批/多媒体/出站文件",
   "descriptionEn": "将 QQ（私聊+群聊）接入 DeepSeek Harness 的双向桥插件：每个 QQ 对话一个隔离持久 Agent 会话，支持命令/审批/多媒体/出站文件",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -22,7 +22,8 @@
     "dsh-plugin",
     "plugin",
     "qq-bot",
-    "qqbot"
+    "qqbot",
+    "workflow"
   ],
   "category": "workflow"
 }

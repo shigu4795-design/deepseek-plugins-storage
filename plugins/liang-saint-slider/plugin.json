@@ -2,7 +2,7 @@
   "id": "liang-saint-slider",
   "name": "Liang Saint Slider",
   "version": "1.0.0",
-  "description": "Liang Saint Slider as the DeepSeek Harness model + thinking-effort selector.",
+  "description": "【实用工具】 Liang Saint Slider as the DeepSeek Harness model + thinking-effort selector.",
   "descriptionEn": "Liang Saint Slider as the DeepSeek Harness model + thinking-effort selector.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,9 @@
   "tags": [
     "deepseek",
     "deepseek-harness",
-    "deepseek-harness-plugin"
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "models"
   ],
   "category": "models"
 }

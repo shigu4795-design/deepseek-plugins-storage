@@ -2,7 +2,7 @@
   "id": "zat-dsh-engine",
   "name": "Zat Dsh Engine",
   "version": "1.0.0",
-  "description": "Visual plugin marketplace for DeepSeek Harness — browse, search and install community plugins",
+  "description": "【实用工具】 Visual plugin marketplace for DeepSeek Harness — browse, search and install community plugins",
   "descriptionEn": "Visual plugin marketplace for DeepSeek Harness — browse, search and install community plugins",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,8 @@
   "tags": [
     "deepseek-harness",
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

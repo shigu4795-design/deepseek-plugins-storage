@@ -2,7 +2,7 @@
   "id": "awesome-deepseek-harness-plugins",
   "name": "Awesome DeepSeek Harness Plugins",
   "version": "1.0.0",
-  "description": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
+  "description": "【实用工具】 Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
   "descriptionEn": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -27,7 +27,8 @@
     "dsh-plugin",
     "extensions",
     "llm-tools",
-    "plugins"
+    "plugins",
+    "models"
   ],
   "category": "models"
 }

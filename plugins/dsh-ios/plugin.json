@@ -2,7 +2,7 @@
   "id": "dsh-ios",
   "name": "Ios",
   "version": "1.0.0",
-  "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+  "description": "【实用工具】 DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
   "descriptionEn": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -30,7 +30,8 @@
     "typescript",
     "ui-automation",
     "webdriveragent",
-    "xcode"
+    "xcode",
+    "ui"
   ],
   "category": "ui"
 }

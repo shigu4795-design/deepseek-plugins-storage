@@ -2,7 +2,7 @@
   "id": "dsh-whale-pet",
   "name": "Whale Pet",
   "version": "1.0.0",
-  "description": "🐋 DSH 桌宠:DeepSeek Harness 的 Windows 桌面宠物,一键启动/停止/监测服务,双击唤起 GUI,零依赖单文件 exe",
+  "description": "【主题美化】 DeepSeek 鲸鱼娘极光蓝专属主题皮肤：提供深海渐变背景、毛玻璃卡片质感与专属图标高光，让编程界面更具活力。",
   "descriptionEn": "🐋 DSH 桌宠:DeepSeek Harness 的 Windows 桌面宠物,一键启动/停止/监测服务,双击唤起 GUI,零依赖单文件 exe",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,13 +15,13 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek",
-    "deepseek-harness",
-    "deepseek-harness-plugin",
-    "desktop-pet",
-    "desktop-tools",
+    "主题皮肤",
+    "鲸鱼娘",
+    "毛玻璃",
+    "UI美化",
+    "theme",
     "dsh-plugin",
-    "dsh-plugin-pet"
+    "ui"
   ],
   "category": "ui"
 }

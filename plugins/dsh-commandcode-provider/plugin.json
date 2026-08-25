@@ -2,7 +2,7 @@
   "id": "dsh-commandcode-provider",
   "name": "Commandcode Provider",
   "version": "1.0.0",
-  "description": "Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -22,7 +22,8 @@
     "llm-provider",
     "plugin",
     "provider",
-    "typescript"
+    "typescript",
+    "models"
   ],
   "category": "models"
 }

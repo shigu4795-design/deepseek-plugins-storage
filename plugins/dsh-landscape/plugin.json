@@ -2,7 +2,7 @@
   "id": "dsh-landscape",
   "name": "Landscape",
   "version": "1.0.0",
-  "description": "Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate build-ready briefs.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate build-ready briefs.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -21,7 +21,8 @@
     "dsh-plugin",
     "ecosystem",
     "gap-analysis",
-    "plugin-discovery"
+    "plugin-discovery",
+    "ui"
   ],
   "category": "ui"
 }

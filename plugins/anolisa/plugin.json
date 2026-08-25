@@ -2,7 +2,7 @@
   "id": "anolisa",
   "name": "Anolisa",
   "version": "1.0.0",
-  "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+  "description": "【实用工具】 ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
   "descriptionEn": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -31,7 +31,8 @@
     "rust",
     "sandbox",
     "skill",
-    "token-optimization"
+    "token-optimization",
+    "workflow"
   ],
   "category": "workflow"
 }

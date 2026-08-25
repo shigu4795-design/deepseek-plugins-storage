@@ -2,7 +2,7 @@
   "id": "dsh-web-attention-badge",
   "name": "Web Attention Badge",
   "version": "1.0.0",
-  "description": "Attention reminders for the DeepSeek Harness Web UI: frame badge, (N) tab title and whale-favicon recolor for sessions waiting for input or finished unopened.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Attention reminders for the DeepSeek Harness Web UI: frame badge, (N) tab title and whale-favicon recolor for sessions waiting for input or finished unopened.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -23,7 +23,8 @@
     "dsh-plugin",
     "dsh-plugins",
     "notification",
-    "web"
+    "web",
+    "ui"
   ],
   "category": "ui"
 }

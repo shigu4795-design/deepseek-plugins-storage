@@ -2,7 +2,7 @@
   "id": "dsh-custom-brand",
   "name": "Custom Brand",
   "version": "1.0.0",
-  "description": "DeepSeek Harness（DSH）网页界面可自定义品牌区域——用您自己的本地图片替换鲸鱼标志和 DeepSeek 字标，并编辑 HARNESS 徽章文字。",
+  "description": "【实用工具】 DeepSeek Harness（DSH）网页界面可自定义品牌区域——用您自己的本地图片替换鲸鱼标志和 DeepSeek 字标，并编辑 HARNESS 徽章文字。",
   "descriptionEn": "DeepSeek Harness（DSH）网页界面可自定义品牌区域——用您自己的本地图片替换鲸鱼标志和 DeepSeek 字标，并编辑 HARNESS 徽章文字。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "deepseek-harness-plugins",
     "dsh-plugin",
     "logo",
-    "logo-design"
+    "logo-design",
+    "ui"
   ],
   "category": "ui"
 }

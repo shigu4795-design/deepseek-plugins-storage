@@ -2,7 +2,7 @@
   "id": "dsh-plugin-subscriptions",
   "name": "Plugin Subscriptions",
   "version": "1.0.0",
-  "description": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+  "description": "【实用工具】 Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
   "descriptionEn": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -24,7 +24,8 @@
     "grok",
     "llm",
     "oauth",
-    "typescript"
+    "typescript",
+    "ui"
   ],
   "category": "ui"
 }

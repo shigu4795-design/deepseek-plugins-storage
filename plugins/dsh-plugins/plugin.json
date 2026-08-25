@@ -2,7 +2,7 @@
   "id": "dsh-plugins",
   "name": "Plugins",
   "version": "1.0.0",
-  "description": "Make Deepseek Harness Great",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Make Deepseek Harness Great",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,8 @@
   "tags": [
     "dsh-plugin",
     "dsh-plugin-market",
-    "dsh-plugins"
+    "dsh-plugins",
+    "tools"
   ],
   "category": "tools"
 }

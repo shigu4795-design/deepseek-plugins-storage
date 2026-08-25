@@ -2,7 +2,7 @@
   "id": "dsh-desktop-hub",
   "name": "Desktop Hub",
   "version": "1.0.0",
-  "description": "DSH Desktop Hub — DeepSeek Harness 桌面管理控制台（Electron + TypeScript）。多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用。",
+  "description": "【实用工具】 DSH Desktop Hub — DeepSeek Harness 桌面管理控制台（Electron + TypeScript）。多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用。",
   "descriptionEn": "DSH Desktop Hub — DeepSeek Harness 桌面管理控制台（Electron + TypeScript）。多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -21,7 +21,8 @@
     "dsh-plugin",
     "dsh-plugins",
     "electron",
-    "typescript"
+    "typescript",
+    "tools"
   ],
   "category": "tools"
 }

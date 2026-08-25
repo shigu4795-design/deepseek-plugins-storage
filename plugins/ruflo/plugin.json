@@ -2,7 +2,7 @@
   "id": "ruflo",
   "name": "Ruflo",
   "version": "1.0.0",
-  "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "description": "【实用工具】 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
   "descriptionEn": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "skills",
     "swarm",
     "swarm-intelligence",
-    "typescript"
+    "typescript",
+    "ui"
   ],
   "category": "ui"
 }

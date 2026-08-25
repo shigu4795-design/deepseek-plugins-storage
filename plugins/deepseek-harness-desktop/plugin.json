@@ -2,7 +2,7 @@
   "id": "deepseek-harness-desktop",
   "name": "Desktop",
   "version": "1.0.0",
-  "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
+  "description": "【实用工具】 Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
   "descriptionEn": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -33,7 +33,8 @@
     "skills",
     "ssh-client",
     "windows",
-    "windows-desktop"
+    "windows-desktop",
+    "ui"
   ],
   "category": "ui"
 }

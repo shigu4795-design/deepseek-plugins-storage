@@ -2,7 +2,7 @@
   "id": "dsh-plugin-greet",
   "name": "Plugin Greet",
   "version": "1.0.0",
-  "description": "DeepSeek Harness is a plugin-based system for building AI agents. Everything, from tools and models to the web UI, can be added or replaced as a plugin.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "DeepSeek Harness is a plugin-based system for building AI agents. Everything, from tools and models to the web UI, can be added or replaced as a plugin.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -18,7 +18,8 @@
     "deepseek",
     "deepseek-harness",
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

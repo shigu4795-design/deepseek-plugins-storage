@@ -2,7 +2,7 @@
   "id": "dsh-vision-bridge",
   "name": "Vision Bridge",
   "version": "1.0.0",
-  "description": "DeepSeek Harness plugin that bridges session images to pluggable vision APIs while keeping DeepSeek as the primary model.",
+  "description": "【视觉多模态】 外挂视觉与图片解析桥接插件：为纯文本模型赋予识图能力，直接粘贴图片/截图即可秒级提取文字 (OCR)、表格数据与界面布局证据。",
   "descriptionEn": "DeepSeek Harness plugin that bridges session images to pluggable vision APIs while keeping DeepSeek as the primary model.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,26 +15,13 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek",
-    "deepseek-ai",
-    "deepseek-harness",
-    "deepseek-harness-desktop",
-    "deepseek-harness-plugin",
-    "deepseek-harness-plugin-dev",
-    "deepseek-harness-plugins",
-    "deepseek-v4",
-    "dsh-plugin",
-    "dsh-plugin-market",
-    "dsh-plugins",
-    "gemini",
-    "gemini-api",
+    "视觉识图",
+    "截图OCR",
+    "多模态",
+    "图片分析",
     "vision",
-    "vision-ai",
-    "vision-api",
-    "vision-language",
-    "vision-language-model",
-    "vision-language-models",
-    "visionos"
+    "dsh-plugin",
+    "models"
   ],
   "category": "models"
 }

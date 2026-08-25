@@ -2,7 +2,7 @@
   "id": "deepseek-harness-docker",
   "name": "Docker",
   "version": "1.0.0",
-  "description": "deepseek-harness docker部署",
+  "description": "【实用工具】 deepseek-harness docker部署",
   "descriptionEn": "deepseek-harness docker部署",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "deepseek-harness-plugin",
     "docker",
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

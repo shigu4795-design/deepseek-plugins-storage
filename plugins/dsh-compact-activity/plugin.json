@@ -2,7 +2,7 @@
   "id": "dsh-compact-activity",
   "name": "Compact Activity",
   "version": "1.0.0",
-  "description": "compact reasoning and tool activity groups for DeepSeek Harness Web and DeepSeek Harness Desktop.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "compact reasoning and tool activity groups for DeepSeek Harness Web and DeepSeek Harness Desktop.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -19,7 +19,8 @@
     "deepseek-harness",
     "deepseek-harness-plugin",
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

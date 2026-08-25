@@ -2,7 +2,7 @@
   "id": "dsh-find-plugins",
   "name": "Find Plugins",
   "version": "1.0.0",
-  "description": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
+  "description": "【实用工具】 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
   "descriptionEn": "帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -18,7 +18,8 @@
     "agent-skills",
     "deepseek-harness",
     "dsh-plugin",
-    "plugin-discovery"
+    "plugin-discovery",
+    "workflow"
   ],
   "category": "workflow"
 }

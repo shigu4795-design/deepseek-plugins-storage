@@ -2,7 +2,7 @@
   "id": "dsh-web-mobile",
   "name": "Web Mobile",
   "version": "1.0.0",
-  "description": "DSH Web UI 移动端适配：窄屏好用，宽屏适用",
+  "description": "【移动端协同】 手机端随身控制桥接插件：通过局域网反向代理，让你随时在 iPhone / iPad 上远程查看并对话控制电脑上的 DeepSeek Agent。",
   "descriptionEn": "DSH Web UI 移动端适配：窄屏好用，宽屏适用",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,14 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek-harness",
-    "dsh",
-    "dsh-plugin",
+    "移动端控制",
+    "iPad协同",
+    "远程访问",
     "mobile",
-    "mobile-ui",
-    "plugin",
-    "responsive",
-    "web-ui"
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

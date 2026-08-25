@@ -2,7 +2,7 @@
   "id": "dsh-session-pause",
   "name": "Session Pause",
   "version": "1.0.0",
-  "description": "A Cordis plugin for DeepSeek Harness that suspends the entire conversation state and resumes it after restart.",
+  "description": "【长期记忆】 跨会话智能用户记忆库：持久化记录用户的编码偏好、技术栈规范与历史决策，无需在每个新对话中重复设定 Context。",
   "descriptionEn": "A Cordis plugin for DeepSeek Harness that suspends the entire conversation state and resumes it after restart.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,8 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "agent",
-    "dsh-plugin"
+    "长期记忆",
+    "偏好同步",
+    "上下文保持",
+    "memory",
+    "dsh-plugin",
+    "workflow"
   ],
   "category": "workflow"
 }

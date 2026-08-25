@@ -2,7 +2,7 @@
   "id": "dsh-status-rotator",
   "name": "Status Rotator",
   "version": "1.0.0",
-  "description": "A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.",
+  "description": "【实用工具】 A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.",
   "descriptionEn": "A DeepSeek Harness (dsh) web plugin that replaces the \"Deep diving…\" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -16,7 +16,8 @@
   ],
   "tags": [
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

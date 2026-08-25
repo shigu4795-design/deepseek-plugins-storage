@@ -2,7 +2,7 @@
   "id": "cloudbase-ai-toolkit",
   "name": "CloudBase AI Toolkit",
   "version": "1.0.0",
-  "description": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+  "description": "【实用工具】 Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
   "descriptionEn": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -30,7 +30,8 @@
     "supabase",
     "tencent",
     "vibe-coding",
-    "web"
+    "web",
+    "models"
   ],
   "category": "models"
 }

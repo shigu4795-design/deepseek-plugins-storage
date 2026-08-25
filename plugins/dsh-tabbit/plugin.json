@@ -2,7 +2,7 @@
   "id": "dsh-tabbit",
   "name": "Tabbit",
   "version": "1.0.0",
-  "description": "Tabbit Browser plugins for Deepseek Harness",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Tabbit Browser plugins for Deepseek Harness",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -26,7 +26,8 @@
     "dsh-plugin-verify",
     "dsh-plugins",
     "playwright",
-    "tabbit"
+    "tabbit",
+    "tools"
   ],
   "category": "tools"
 }

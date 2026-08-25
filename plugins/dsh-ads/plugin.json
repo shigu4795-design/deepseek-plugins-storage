@@ -2,7 +2,7 @@
   "id": "dsh-ads",
   "name": "Ads",
   "version": "1.0.0",
-  "description": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+  "description": "【实用工具】 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
   "descriptionEn": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -18,7 +18,8 @@
     "deepseek-harness",
     "dsh-plugin",
     "trolling",
-    "web-ui"
+    "web-ui",
+    "ui"
   ],
   "category": "ui"
 }

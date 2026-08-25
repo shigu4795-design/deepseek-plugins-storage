@@ -2,7 +2,7 @@
   "id": "dsh-evolve-modes",
   "name": "Evolve Modes",
   "version": "1.0.0",
-  "description": "让 Agent 的工作方式可组合、可审查、��持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
+  "description": "【实用工具】 让 Agent 的工作方式可组合、可审查、��持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
   "descriptionEn": "让 Agent 的工作方式可组合、可审查、��持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -22,7 +22,8 @@
     "dsh",
     "dsh-plugin",
     "plan-mode",
-    "prompt-engineering"
+    "prompt-engineering",
+    "prompt"
   ],
   "category": "prompt"
 }

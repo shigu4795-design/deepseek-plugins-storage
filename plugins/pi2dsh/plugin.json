@@ -2,7 +2,7 @@
   "id": "pi2dsh",
   "name": "Pi2dsh",
   "version": "1.0.0",
-  "description": "Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。",
+  "description": "【实用工具】 Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。",
   "descriptionEn": "Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -23,7 +23,8 @@
     "migration",
     "pi",
     "pi-agent",
-    "plugin-migration"
+    "plugin-migration",
+    "workflow"
   ],
   "category": "workflow"
 }

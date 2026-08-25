@@ -2,7 +2,7 @@
   "id": "sandbase-harness",
   "name": "Sandbase Harness",
   "version": "1.0.0",
-  "description": "Local-first AI agent runtime with sandboxed sessions, MCP tools, memory, credentials, audit/replay, and a built-in console. Run OpenAI, Anthropic, MiniMax, DeepSeek V4, and OpenAI-compatible models on your infrastructure.",
+  "description": "【实用工具】 Local-first AI agent runtime with sandboxed sessions, MCP tools, memory, credentials, audit/replay, and a built-in console. Run OpenAI, Anthropic, MiniMax, DeepSeek V4, and OpenAI-compatible models on your infrastructure.",
   "descriptionEn": "Local-first AI agent runtime with sandboxed sessions, MCP tools, memory, credentials, audit/replay, and a built-in console. Run OpenAI, Anthropic, MiniMax, DeepSeek V4, and OpenAI-compatible models on your infrastructure.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "openai-compatible",
     "sandbox",
     "self-hosted",
-    "typescript"
+    "typescript",
+    "ui"
   ],
   "category": "ui"
 }

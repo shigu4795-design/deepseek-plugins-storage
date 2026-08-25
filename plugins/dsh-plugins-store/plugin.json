@@ -2,7 +2,7 @@
   "id": "dsh-plugins-store",
   "name": "Plugins Store",
   "version": "1.0.0",
-  "description": "自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace.",
+  "description": "【实用工具】 自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace.",
   "descriptionEn": "自动分类、收录和验证 DeepSeek-Harness 社区插件的市场。 Automatically categorize, curate, and validate the DeepSeek-Harness community plugin marketplace.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "community-project",
     "deepseek-harness",
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "workflow"
   ],
   "category": "workflow"
 }

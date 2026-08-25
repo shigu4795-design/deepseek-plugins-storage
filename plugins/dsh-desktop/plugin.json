@@ -2,7 +2,7 @@
   "id": "dsh-desktop",
   "name": "Desktop",
   "version": "1.0.0",
-  "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -29,7 +29,8 @@
     "model-context-protocol",
     "office-automation",
     "react",
-    "typescript"
+    "typescript",
+    "models"
   ],
   "category": "models"
 }

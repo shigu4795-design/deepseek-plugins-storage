@@ -2,7 +2,7 @@
   "id": "reactive-resume",
   "name": "Reactive Resume",
   "version": "1.0.0",
-  "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -24,7 +24,8 @@
     "react",
     "resume-builder",
     "self-hosted",
-    "typescript"
+    "typescript",
+    "ui"
   ],
   "category": "ui"
 }

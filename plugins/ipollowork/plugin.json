@@ -2,7 +2,7 @@
   "id": "ipollowork",
   "name": "IPolloWork",
   "version": "1.0.0",
-  "description": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -32,7 +32,8 @@
     "opencode",
     "opencode-plugin",
     "self-evolving-ai",
-    "visual-editor"
+    "visual-editor",
+    "ui"
   ],
   "category": "ui"
 }

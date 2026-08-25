@@ -2,7 +2,7 @@
   "id": "memos",
   "name": "MemOS",
   "version": "1.0.0",
-  "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+  "description": "【实用工具】 Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
   "descriptionEn": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "self-evolving",
     "self-hosted",
     "skills",
-    "token-savings"
+    "token-savings",
+    "models"
   ],
   "category": "models"
 }

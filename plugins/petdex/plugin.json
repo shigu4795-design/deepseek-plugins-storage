@@ -2,7 +2,7 @@
   "id": "petdex",
   "name": "Petdex",
   "version": "1.0.0",
-  "description": "A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.",
+  "description": "【趣味桌宠】 互动式伴侣桌面宠物插件：随 Agent 思考、报错、编码成功等状态自动切换可爱动作与音效，让编程不再枯燥。",
   "descriptionEn": "A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,22 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "claude-code",
-    "clerk",
-    "cli",
-    "codex",
-    "developer-tools",
-    "drizzle-orm",
+    "桌面宠物",
+    "趣味互动",
+    "状态反馈",
+    "pet",
     "dsh-plugin",
-    "mascot",
-    "neon",
-    "nextjs",
-    "pixel-art",
-    "postgres",
-    "react",
-    "sprites",
-    "tailwindcss",
-    "vercel"
+    "ui"
   ],
   "category": "ui"
 }

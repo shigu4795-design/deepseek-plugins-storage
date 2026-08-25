@@ -2,7 +2,7 @@
   "id": "dsh-plugin-development",
   "name": "Plugin Development",
   "version": "1.0.0",
-  "description": "Portable Agent Skill for developing and auditing DeepSeek Harness plugins, with an optional profile-installable DSH bundle adapter.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Portable Agent Skill for developing and auditing DeepSeek Harness plugins, with an optional profile-installable DSH bundle adapter.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "deepseek",
     "deepseek-harness",
     "dsh-plugin",
-    "plugin-development"
+    "plugin-development",
+    "workflow"
   ],
   "category": "workflow"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-vscode",
   "name": "Vscode",
   "version": "1.0.0",
-  "description": "DeepSeek Harness for VS Code: right-side chat agent that reads, edits, and runs your project — like Claude Code / Codex / Copilot.",
+  "description": "【实用工具】 DeepSeek Harness for VS Code: right-side chat agent that reads, edits, and runs your project — like Claude Code / Codex / Copilot.",
   "descriptionEn": "DeepSeek Harness for VS Code: right-side chat agent that reads, edits, and runs your project — like Claude Code / Codex / Copilot.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -19,7 +19,8 @@
     "deepseek-harness-plugin",
     "dsh",
     "dsh-plugin",
-    "vscode"
+    "vscode",
+    "models"
   ],
   "category": "models"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-mobile",
   "name": "Mobile",
   "version": "1.0.0",
-  "description": "Use DeepSeek Harness from your iPhone / iPad: LAN reverse proxy, iOS PWA (add-to-home-screen) chrome, and touch/mobile CSS for the web GUI",
+  "description": "【移动端协同】 手机端随身控制桥接插件：通过局域网反向代理，让你随时在 iPhone / iPad 上远程查看并对话控制电脑上的 DeepSeek Agent。",
   "descriptionEn": "Use DeepSeek Harness from your iPhone / iPad: LAN reverse proxy, iOS PWA (add-to-home-screen) chrome, and touch/mobile CSS for the web GUI",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,21 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek-harness",
-    "deepseek-harness-plugin",
-    "deepseek-harness-plugins",
-    "dsh",
-    "dsh-plugin",
-    "ios",
-    "ipad",
-    "iphone",
-    "langchain",
+    "移动端控制",
+    "iPad协同",
+    "远程访问",
     "mobile",
-    "plugin",
-    "pwa",
-    "reverse-proxy",
-    "touch",
-    "web-ui"
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

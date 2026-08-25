@@ -2,7 +2,7 @@
   "id": "mindmemos",
   "name": "MindMemOS",
   "version": "1.0.0",
-  "description": "DeepSeek Harness 官方与社区开源扩展 (mindscale-noah/MindMemOS)",
+  "description": "【实用工具】 DeepSeek Harness 官方与社区开源扩展 (mindscale-noah/MindMemOS)",
   "descriptionEn": "Open-source DeepSeek Harness plugin from GitHub (mindscale-noah/MindMemOS)",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -25,7 +25,8 @@
     "openclaw-agent",
     "openclaw-plugin",
     "rag",
-    "skills"
+    "skills",
+    "workflow"
   ],
   "category": "workflow"
 }

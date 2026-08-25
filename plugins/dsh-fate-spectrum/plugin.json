@@ -2,7 +2,7 @@
   "id": "dsh-fate-spectrum",
   "name": "Fate Spectrum",
   "version": "1.0.0",
-  "description": "DeepSeek Harness plugin for Bazi & Zi Wei Dou Shu — deterministic, offline fate-chart calculation for AI agents.",
+  "description": "【实用工具】 DeepSeek Harness plugin for Bazi & Zi Wei Dou Shu — deterministic, offline fate-chart calculation for AI agents.",
   "descriptionEn": "DeepSeek Harness plugin for Bazi & Zi Wei Dou Shu — deterministic, offline fate-chart calculation for AI agents.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -22,7 +22,8 @@
     "deepseek-harness",
     "dsh",
     "dsh-plugin",
-    "ziwei-doushu"
+    "ziwei-doushu",
+    "workflow"
   ],
   "category": "workflow"
 }

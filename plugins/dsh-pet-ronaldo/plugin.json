@@ -2,7 +2,7 @@
   "id": "dsh-pet-ronaldo",
   "name": "Pet Ronaldo",
   "version": "1.0.0",
-  "description": "C罗桌宠 · DeepSeek Harness 桌面宠物插件：葡萄牙 7 号 chibi 吉祥物，随 Agent 状态切换动画，对话完成 SIU 庆祝 + 提示音，支持导入自定义 spritesheet 统一管理",
+  "description": "【趣味桌宠】 互动式伴侣桌面宠物插件：随 Agent 思考、报错、编码成功等状态自动切换可爱动作与音效，让编程不再枯燥。",
   "descriptionEn": "C罗桌宠 · DeepSeek Harness 桌面宠物插件：葡萄牙 7 号 chibi 吉祥物，随 Agent 状态切换动画，对话完成 SIU 庆祝 + 提示音，支持导入自定义 spritesheet 统一管理",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,12 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "cordis",
-    "desktop-pet",
-    "dsh",
-    "plugin",
-    "ronaldo",
-    "spritesheet"
+    "桌面宠物",
+    "趣味互动",
+    "状态反馈",
+    "pet",
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

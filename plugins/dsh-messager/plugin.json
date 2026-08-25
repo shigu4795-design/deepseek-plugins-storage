@@ -2,7 +2,7 @@
   "id": "dsh-messager",
   "name": "Messager",
   "version": "1.0.0",
-  "description": "适用于Deepseek Harness的消息提醒信使，可使用飞书、企业微信、钉钉、Telegram、Discord进行���知推送",
+  "description": "【通知提醒】 智能任务完成提醒信使：支持通过桌面弹窗、中文语音播报、提示音及多渠道 Webhook 主动通知用户，避免长时间盲目等待。",
   "descriptionEn": "适用于Deepseek Harness的消息提醒信使，可使用飞书、企业微信、钉钉、Telegram、Discord进行���知推送",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,14 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek-harness-plugin",
-    "deepseek-harness-plugins",
-    "dsh-plugin",
-    "dsh-plugins",
+    "桌面弹窗",
+    "语音播报",
+    "任务提醒",
     "notification",
-    "notifications",
-    "plugin",
-    "plugins"
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

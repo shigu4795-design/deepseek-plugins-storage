@@ -2,7 +2,7 @@
   "id": "dsh-sandbox-escalation-fix",
   "name": "Sandbox Escalation Fix",
   "version": "1.0.0",
-  "description": "Session-aware sandbox escalation compatibility plugin for DeepSeek Harness/DSH第三方模型会话沙箱升级兼容插件",
+  "description": "【实用工具】 Session-aware sandbox escalation compatibility plugin for DeepSeek Harness/DSH第三方模型会话沙箱升级兼容插件",
   "descriptionEn": "Session-aware sandbox escalation compatibility plugin for DeepSeek Harness/DSH第三方模型会话沙箱升级兼容插件",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "deepseek-harness-plugins",
     "dsh-plugin",
     "dsh-plugins",
-    "sandbox-escalation"
+    "sandbox-escalation",
+    "tools"
   ],
   "category": "tools"
 }

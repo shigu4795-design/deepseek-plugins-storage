@@ -2,7 +2,7 @@
   "id": "hol-guard",
   "name": "Hol Guard",
   "version": "1.0.0",
-  "description": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers, plugins, and skills at runtime.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "runtime-security",
     "secrets-detection",
     "security",
-    "supply-chain-security"
+    "supply-chain-security",
+    "models"
   ],
   "category": "models"
 }

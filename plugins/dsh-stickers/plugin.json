@@ -2,7 +2,7 @@
   "id": "dsh-stickers",
   "name": "Stickers",
   "version": "1.0.0",
-  "description": "DSH WebUI sticker plugin for bidirectional user and agent reactions",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "DSH WebUI sticker plugin for bidirectional user and agent reactions",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -16,7 +16,8 @@
   ],
   "tags": [
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

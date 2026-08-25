@@ -2,7 +2,7 @@
   "id": "picgo",
   "name": "PicGo",
   "version": "1.0.0",
-  "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+  "description": "【实用工具】 :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
   "descriptionEn": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -32,7 +32,8 @@
     "tencent-cos",
     "upyun",
     "vue",
-    "weibo"
+    "weibo",
+    "dev"
   ],
   "category": "dev"
 }

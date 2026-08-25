@@ -2,7 +2,7 @@
   "id": "dsh-headroom",
   "name": "Headroom",
   "version": "1.0.0",
-  "description": "deepSeek harness上下文压缩工具",
+  "description": "【实用工具】 deepSeek harness上下文压缩工具",
   "descriptionEn": "deepSeek harness上下文压缩工具",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,8 @@
   "tags": [
     "deepseek-harness-plugin",
     "dsh-plugin",
-    "dsh-plugins"
+    "dsh-plugins",
+    "tools"
   ],
   "category": "tools"
 }

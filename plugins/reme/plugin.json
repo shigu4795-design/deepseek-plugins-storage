@@ -2,7 +2,7 @@
   "id": "reme",
   "name": "ReMe",
   "version": "1.0.0",
-  "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -21,7 +21,8 @@
     "memory",
     "memoryscope",
     "rag",
-    "reme"
+    "reme",
+    "workflow"
   ],
   "category": "workflow"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-file-upload",
   "name": "File Upload",
   "version": "1.0.0",
-  "description": "DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents.",
+  "description": "【实用工具】 DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents.",
   "descriptionEn": "DeepSeek Harness (dsh) file-message plugin: Claude-style drag-and-drop / paperclip upload, content sniffing, document-to-Markdown via Microsoft MarkItDown (with built-in JS fallback), text inlining, read_document tool for agents.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,7 +15,8 @@
     "filesystem"
   ],
   "tags": [
-    "dsh-plugin"
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

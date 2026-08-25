@@ -2,7 +2,7 @@
   "id": "dsh-tool-turbo",
   "name": "Tool Turbo",
   "version": "1.0.0",
-  "description": "Per-round reasoning_effort optimizer for DeepSeek Harness (dsh): auto-downgrades tool-call reasoning for simple tool chains, lifting back for heavy work. Cuts thinking time between tool calls.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Per-round reasoning_effort optimizer for DeepSeek Harness (dsh): auto-downgrades tool-call reasoning for simple tool chains, lifting back for heavy work. Cuts thinking time between tool calls.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -24,7 +24,8 @@
     "performance",
     "plugin",
     "reasoning",
-    "speed"
+    "speed",
+    "workflow"
   ],
   "category": "workflow"
 }

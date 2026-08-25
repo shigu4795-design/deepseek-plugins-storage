@@ -2,7 +2,7 @@
   "id": "dsh-enter-lock",
   "name": "Enter Lock",
   "version": "1.0.0",
-  "description": "DeepSeek Harness plugin that locks the web chat composer Enter-send. Toggle with a lock button or Ctrl+Shift+K to prevent accidental sends while typing or editing long prompts; unlock to send. IME-safe and per-session.",
+  "description": "【实用工具】 DeepSeek Harness plugin that locks the web chat composer Enter-send. Toggle with a lock button or Ctrl+Shift+K to prevent accidental sends while typing or editing long prompts; unlock to send. IME-safe and per-session.",
   "descriptionEn": "DeepSeek Harness plugin that locks the web chat composer Enter-send. Toggle with a lock button or Ctrl+Shift+K to prevent accidental sends while typing or editing long prompts; unlock to send. IME-safe and per-session.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -23,7 +23,8 @@
     "enter-lock",
     "keyboard-shortcuts",
     "plugin",
-    "web-plugin"
+    "web-plugin",
+    "prompt"
   ],
   "category": "prompt"
 }

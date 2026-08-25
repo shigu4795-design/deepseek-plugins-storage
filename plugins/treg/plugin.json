@@ -2,7 +2,7 @@
   "id": "treg",
   "name": "Treg",
   "version": "1.0.0",
-  "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+  "description": "【实用工具】 OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
   "descriptionEn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -25,7 +25,8 @@
     "proxy",
     "python",
     "registry",
-    "secrets"
+    "secrets",
+    "workflow"
   ],
   "category": "workflow"
 }

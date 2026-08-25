@@ -2,7 +2,7 @@
   "id": "distilly",
   "name": "Distilly",
   "version": "1.0.0",
-  "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+  "description": "【实用工具】 Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
   "descriptionEn": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -33,7 +33,8 @@
     "llm-agent",
     "meta-skill",
     "openclaw",
-    "opencode"
+    "opencode",
+    "models"
   ],
   "category": "models"
 }

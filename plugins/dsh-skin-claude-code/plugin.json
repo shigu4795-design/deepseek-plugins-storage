@@ -2,7 +2,7 @@
   "id": "dsh-skin-claude-code",
   "name": "Skin Claude Code",
   "version": "1.0.0",
-  "description": "Claude Code-inspired skin for the DeepSeek Harness web GUI",
+  "description": "【主题美化】 Claude Code 极简极客暗黑主题：为 DeepSeek 带来媲美 Claude 终端风格的清爽高对比度配色与排版体验。",
   "descriptionEn": "Claude Code-inspired skin for the DeepSeek Harness web GUI",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,10 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek-harness",
-    "deepseek-harness-plugin",
-    "deepseek-harness-plugin-dev",
-    "deepseek-harness-plugins"
+    "Claude风格",
+    "暗黑主题",
+    "极简极客",
+    "theme",
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

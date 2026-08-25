@@ -2,7 +2,7 @@
   "id": "mem9",
   "name": "Mem9",
   "version": "1.0.0",
-  "description": "Unlimited memory for OpenClaw",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Unlimited memory for OpenClaw",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,7 +15,8 @@
     "filesystem"
   ],
   "tags": [
-    "dsh-plugin"
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

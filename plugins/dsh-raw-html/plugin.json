@@ -2,7 +2,7 @@
   "id": "dsh-raw-html",
   "name": "Raw Html",
   "version": "1.0.0",
-  "description": "VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment",
+  "description": "【实用工具】 VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment",
   "descriptionEn": "VCP visual-synesthesia protocol plugin for DeepSeek Harness: render agent HTML output as real UI (cards / KaTeX math / Mermaid diagrams / built-in calligraphy fonts / zero-JS interactions), plug-and-play on any DSH environment",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

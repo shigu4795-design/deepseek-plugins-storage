@@ -2,7 +2,7 @@
   "id": "dsh-find-plugin",
   "name": "Find Plugin",
   "version": "1.0.0",
-  "description": "Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件",
+  "description": "【实用工具】 Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件",
   "descriptionEn": "Find DSH plugins inside the agent — live GitHub dsh-plugin topic search, star-ranked / 会话内搜索发现 DSH 插件",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,8 @@
   "tags": [
     "deepseek-harness",
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "workflow"
   ],
   "category": "workflow"
 }

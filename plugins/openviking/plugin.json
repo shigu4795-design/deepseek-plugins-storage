@@ -2,7 +2,7 @@
   "id": "openviking",
   "name": "OpenViking",
   "version": "1.0.0",
-  "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "agentic-rag",
     "context-database",
     "dsh-plugin",
-    "self-evolving"
+    "self-evolving",
+    "workflow"
   ],
   "category": "workflow"
 }

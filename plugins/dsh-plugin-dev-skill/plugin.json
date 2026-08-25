@@ -2,7 +2,7 @@
   "id": "dsh-plugin-dev-skill",
   "name": "Plugin Dev Skill",
   "version": "1.0.0",
-  "description": "A skill pack that enables any agent to develop DeepSeek Harness (DSH) plugins correctly, efficiently, and in accordance with the official conventions.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "A skill pack that enables any agent to develop DeepSeek Harness (DSH) plugins correctly, efficiently, and in accordance with the official conventions.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -24,7 +24,8 @@
     "dsh",
     "dsh-plugin",
     "plugin-development",
-    "skills"
+    "skills",
+    "workflow"
   ],
   "category": "workflow"
 }

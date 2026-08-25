@@ -2,7 +2,7 @@
   "id": "anime-find",
   "name": "Anime Find",
   "version": "1.0.0",
-  "description": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+  "description": "【实用工具】 DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
   "descriptionEn": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -26,7 +26,8 @@
     "mikan",
     "plugin",
     "torrent",
-    "typescript"
+    "typescript",
+    "tools"
   ],
   "category": "tools"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-web-search-pro",
   "name": "Web Search Pro",
   "version": "1.0.0",
-  "description": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
+  "description": "【实用工具】 Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
   "descriptionEn": "Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -19,7 +19,8 @@
     "dsh",
     "dsh-plugin",
     "plugin",
-    "web-search"
+    "web-search",
+    "tools"
   ],
   "category": "tools"
 }

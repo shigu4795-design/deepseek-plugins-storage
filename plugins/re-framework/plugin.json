@@ -2,7 +2,7 @@
   "id": "re-framework",
   "name": "RE Framework",
   "version": "1.0.0",
-  "description": "Modular engineering methodology framework for AI agents — reverse engineering & software development (core + re-binary / re-code / swe modules).",
+  "description": "【实用工具】 Modular engineering methodology framework for AI agents — reverse engineering & software development (core + re-binary / re-code / swe modules).",
   "descriptionEn": "Modular engineering methodology framework for AI agents — reverse engineering & software development (core + re-binary / re-code / swe modules).",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -32,7 +32,8 @@
     "multi-agent",
     "re-engineering",
     "reverse-engineering",
-    "subagents"
+    "subagents",
+    "workflow"
   ],
   "category": "workflow"
 }

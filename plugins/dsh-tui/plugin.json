@@ -2,7 +2,7 @@
   "id": "dsh-tui",
   "name": "Tui",
   "version": "1.0.0",
-  "description": "An open-source terminal front door for DeepSeek Harness (dsh).",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "An open-source terminal front door for DeepSeek Harness (dsh).",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -18,7 +18,8 @@
     "deepseek-harness",
     "deepseek-harness-plugin",
     "dsh-plugin",
-    "tui"
+    "tui",
+    "ui"
   ],
   "category": "ui"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-github-connector",
   "name": "Github Connector",
   "version": "1.0.0",
-  "description": "DeepSeek Harness (dsh) 的 GitHub 连接器：一键授权，对话内创建/AI 审查/合并 PR | GitHub connector for dsh: one-click connect, create/review/merge PRs from the conversation",
+  "description": "【Git 增强】 独立 Git Worktree 隔离工作区插件：允许 AI 在独立分支沙箱中安全编写和验证代码，不污染当前正在开发的主分支。",
   "descriptionEn": "DeepSeek Harness (dsh) 的 GitHub 连接器：一键授权，对话内创建/AI 审查/合并 PR | GitHub connector for dsh: one-click connect, create/review/merge PRs from the conversation",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,14 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "agent",
-    "connector",
-    "deepseek",
-    "dsh",
+    "Git沙箱",
+    "Worktree",
+    "多分支开发",
+    "git",
     "dsh-plugin",
-    "dsh-plugins",
-    "github",
-    "plugin"
+    "workflow"
   ],
   "category": "workflow"
 }

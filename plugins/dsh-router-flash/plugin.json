@@ -2,7 +2,7 @@
   "id": "dsh-router-flash",
   "name": "Router Flash",
   "version": "1.0.0",
-  "description": "DSH bundle 插件：V4 Flash 神模式（opencode-go）agent preset 分发包，dsh plugin add 安装后自动同步 router-flash preset。DSH agent preset bundle for DeepSeek V4 Flash godmode.",
+  "description": "【实用工具】 DSH bundle 插件：V4 Flash 神模式（opencode-go）agent preset 分发包，dsh plugin add 安装后自动同步 router-flash preset。DSH agent preset bundle for DeepSeek V4 Flash godmode.",
   "descriptionEn": "DSH bundle 插件：V4 Flash 神模式（opencode-go）agent preset 分发包，dsh plugin add 安装后自动同步 router-flash preset。DSH agent preset bundle for DeepSeek V4 Flash godmode.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,8 @@
   "tags": [
     "cordis",
     "deepseek-harness",
-    "dsh-plugin"
+    "dsh-plugin",
+    "workflow"
   ],
   "category": "workflow"
 }

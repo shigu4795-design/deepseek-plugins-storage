@@ -2,7 +2,7 @@
   "id": "dsh-agent-teams",
   "name": "Agent Teams",
   "version": "1.0.0",
-  "description": "AgentTeams plugin for DeepSeek Harness",
+  "description": "【工作流引擎】 自动化 Agent 工作流编排系统：支持多步骤推理、代码质量重构、单元测试自动化生成与复杂任务链式调度。",
   "descriptionEn": "AgentTeams plugin for DeepSeek Harness",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,10 +15,10 @@
     "filesystem"
   ],
   "tags": [
-    "agentteams",
-    "deepseekharness",
-    "dsh",
-    "dsh-agent-teams",
+    "工作流",
+    "自动化重构",
+    "测试生成",
+    "workflow",
     "dsh-plugin"
   ],
   "category": "workflow"

@@ -2,7 +2,7 @@
   "id": "agent-qa",
   "name": "Agent Qa",
   "version": "1.0.0",
-  "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+  "description": "【工作流引擎】 自动化 Agent 工作流编排系统：支持多步骤推理、代码质量重构、单元测试自动化生成与复杂任务链式调度。",
   "descriptionEn": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,26 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "ai-agents",
-    "ai-testing",
-    "anthropic",
-    "autonomous-agents",
-    "browser-automation",
-    "chatgpt",
-    "claude-code",
-    "clawdbot",
-    "codex",
-    "developer-tools",
+    "工作流",
+    "自动化重构",
+    "测试生成",
+    "workflow",
     "dsh-plugin",
-    "end-to-end-testing",
-    "frontend",
-    "mcp",
-    "mcp-server",
-    "mcp-tools",
-    "model-context-protocol",
-    "openai",
-    "playwright",
-    "qa-automation"
+    "ui"
   ],
   "category": "ui"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-reverse-skill",
   "name": "Reverse Skill",
   "version": "1.0.0",
-  "description": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
+  "description": "【实用工具】 Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
   "descriptionEn": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "dsh-plugin",
     "pentest",
     "reverse-engineering",
-    "security"
+    "security",
+    "tools"
   ],
   "category": "tools"
 }

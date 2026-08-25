@@ -2,7 +2,7 @@
   "id": "hello-dsh",
   "name": "Hello Dsh",
   "version": "1.0.0",
-  "description": "从零开始，看懂 DeepSeek Harness 的「万物皆可插件」— 零基础插件开发教程（含 22 个中文技能实例）| Zero-to-plugin tutorial for DeepSeek Harness",
+  "description": "【实用工具】 从零开始，看懂 DeepSeek Harness 的「万物皆可插件」— 零基础插件开发教程（含 22 个中文技能实例）| Zero-to-plugin tutorial for DeepSeek Harness",
   "descriptionEn": "从零开始，看懂 DeepSeek Harness 的「万物皆可插件」— 零基础插件开发教程（含 22 个中文技能实例）| Zero-to-plugin tutorial for DeepSeek Harness",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -22,7 +22,8 @@
     "deepseek-harness",
     "dsh",
     "dsh-plugin",
-    "tutorial"
+    "tutorial",
+    "workflow"
   ],
   "category": "workflow"
 }

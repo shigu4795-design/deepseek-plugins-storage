@@ -2,7 +2,7 @@
   "id": "deepseek-harness-studio",
   "name": "Studio",
   "version": "1.0.0",
-  "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+  "description": "【实用工具】 DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
   "descriptionEn": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -26,7 +26,8 @@
     "electron",
     "macos",
     "plugin-manager",
-    "windows"
+    "windows",
+    "workflow"
   ],
   "category": "workflow"
 }

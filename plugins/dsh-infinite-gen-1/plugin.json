@@ -2,7 +2,7 @@
   "id": "dsh-infinite-gen-1",
   "name": "dsh-infinite-gen-1",
   "version": "0.1.0",
-  "description": "DeepSeek Harness 破甲插件「无限一代」：v4 系全局破甲提示词与工具。",
+  "description": "【Prompt 智囊】 深度推理与抗拒绝破甲增强插件：内置优化版破甲提示词矩阵，有效提升复杂场景下的长逻辑生成稳定性，并在顶部实时显示激活状态。",
   "descriptionEn": "DeepSeek Harness 破甲插件「无限一代」：v4 系全局破甲提示词与工具。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -14,8 +14,12 @@
     "network"
   ],
   "tags": [
-    "dsh",
-    "plugin"
+    "破甲增强",
+    "深度推理",
+    "提示词矩阵",
+    "prompt",
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

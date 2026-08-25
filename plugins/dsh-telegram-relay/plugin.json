@@ -2,7 +2,7 @@
   "id": "dsh-telegram-relay",
   "name": "DSH Telegram Relay",
   "version": "1.0.0",
-  "description": "DSH Relay 让你可以通过 Telegram 远程与 DeepSeek Harness 对话，并接收通知。DSH Relay turns Telegram into a remote conversation and notification channel for DeepSeek Harness.",
+  "description": "【实用工具】 DSH Relay 让你可以通过 Telegram 远程与 DeepSeek Harness 对话，并接收通知。DSH Relay turns Telegram into a remote conversation and notification channel for DeepSeek Harness.",
   "descriptionEn": "DSH Relay 让你可以通过 Telegram 远程与 DeepSeek Harness 对话，并接收通知。DSH Relay turns Telegram into a remote conversation and notification channel for DeepSeek Harness.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -26,7 +26,8 @@
     "dsh",
     "dsh-plugin",
     "text-only-llm",
-    "typescript"
+    "typescript",
+    "models"
   ],
   "category": "models"
 }

@@ -2,7 +2,7 @@
   "id": "pilot-harness",
   "name": "Pilot Harness",
   "version": "1.0.0",
-  "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+  "description": "【实用工具】 Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
   "descriptionEn": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -26,7 +26,8 @@
     "linux",
     "macos",
     "typescript",
-    "windows"
+    "windows",
+    "ui"
   ],
   "category": "ui"
 }

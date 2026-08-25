@@ -2,7 +2,7 @@
   "id": "api-relay-audit",
   "name": "Api Relay Audit",
   "version": "1.0.0",
-  "description": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "supply-chain-security",
     "tool-call-rewriting",
     "web3-security",
-    "web3-wallet"
+    "web3-wallet",
+    "models"
   ],
   "category": "models"
 }

@@ -2,7 +2,7 @@
   "id": "dsh-better-deepseek",
   "name": "Better Deepseek",
   "version": "1.0.0",
-  "description": "DeepSeek Harness bridge plugin for Better DeepSeek Chrome extension.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "DeepSeek Harness bridge plugin for Better DeepSeek Chrome extension.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -20,7 +20,8 @@
     "deepseek-harness-plugin",
     "dsh",
     "dsh-plugin",
-    "dsh-plugins"
+    "dsh-plugins",
+    "tools"
   ],
   "category": "tools"
 }

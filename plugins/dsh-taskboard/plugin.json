@@ -2,7 +2,7 @@
   "id": "dsh-taskboard",
   "name": "DSH Taskboard",
   "version": "1.0.0",
-  "description": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+  "description": "【实用工具】 Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
   "descriptionEn": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -21,7 +21,8 @@
     "dsh",
     "dsh-plugin",
     "task-management",
-    "taskboard"
+    "taskboard",
+    "ui"
   ],
   "category": "ui"
 }

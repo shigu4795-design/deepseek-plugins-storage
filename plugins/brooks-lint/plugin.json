@@ -2,7 +2,7 @@
   "id": "brooks-lint",
   "name": "Brooks Lint",
   "version": "1.0.0",
-  "description": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
+  "description": "【实用工具】 AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
   "descriptionEn": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "refactoring",
     "static-analysis",
     "tech-debt",
-    "test-quality"
+    "test-quality",
+    "models"
   ],
   "category": "models"
 }

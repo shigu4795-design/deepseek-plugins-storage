@@ -2,7 +2,7 @@
   "id": "awesome-gpt-image-2",
   "name": "Awesome Gpt Image 2",
   "version": "1.0.0",
-  "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+  "description": "【视觉多模态】 外挂视觉与图片解析桥接插件：为纯文本模型赋予识图能力，直接粘贴图片/截图即可秒级提取文字 (OCR)、表格数据与界面布局证据。",
   "descriptionEn": "Prompt as Code | GPT-Image2 工业级提示���引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,16 +15,13 @@
     "filesystem"
   ],
   "tags": [
-    "agents",
-    "ai-image-generation",
-    "chatgpt",
+    "视觉识图",
+    "截图OCR",
+    "多模态",
+    "图片分析",
+    "vision",
     "dsh-plugin",
-    "gpt-image-2",
-    "image-prompts",
-    "prompt-as-code",
-    "prompt-engineering",
-    "skills",
-    "workflow-automation"
+    "prompt"
   ],
   "category": "prompt"
 }

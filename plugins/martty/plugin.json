@@ -2,7 +2,7 @@
   "id": "martty",
   "name": "Martty",
   "version": "1.0.0",
-  "description": "deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin.  Martty is a ACP client.",
+  "description": "【实用工具】 deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin.  Martty is a ACP client.",
   "descriptionEn": "deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin.  Martty is a ACP client.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -27,7 +27,8 @@
     "dsh-plugin",
     "dsh-plugins",
     "tui",
-    "tui-rs"
+    "tui-rs",
+    "ui"
   ],
   "category": "ui"
 }

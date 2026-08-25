@@ -2,7 +2,7 @@
   "id": "anchorlaw",
   "name": "Anchorlaw",
   "version": "1.0.0",
-  "description": "Code verification protocol for vibe coding — every claim must have a verifiable practice anchor.",
+  "description": "【实用工具】 Code verification protocol for vibe coding — every claim must have a verifiable practice anchor.",
   "descriptionEn": "Code verification protocol for vibe coding — every claim must have a verifiable practice anchor.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "typescript",
     "verification",
     "vibe-coded",
-    "vibe-coding"
+    "vibe-coding",
+    "models"
   ],
   "category": "models"
 }

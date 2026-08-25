@@ -2,7 +2,7 @@
   "id": "dsh-science-workbench",
   "name": "Science Workbench",
   "version": "1.0.0",
-  "description": "A reproducible science workbench plugin for the DeepSeek Harness: agent-driven cells, inline figures with feedback/rerun, manifest provenance, and environment snapshots. 9 bio_* tools + workbench UI + publication-grade figure skills.",
+  "description": "【实用工具】 A reproducible science workbench plugin for the DeepSeek Harness: agent-driven cells, inline figures with feedback/rerun, manifest provenance, and environment snapshots. 9 bio_* tools + workbench UI + publication-grade figure skills.",
   "descriptionEn": "A reproducible science workbench plugin for the DeepSeek Harness: agent-driven cells, inline figures with feedback/rerun, manifest provenance, and environment snapshots. 9 bio_* tools + workbench UI + publication-grade figure skills.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -22,7 +22,8 @@
     "jupyter",
     "reproducibility",
     "reproducible-research",
-    "workbench"
+    "workbench",
+    "ui"
   ],
   "category": "ui"
 }

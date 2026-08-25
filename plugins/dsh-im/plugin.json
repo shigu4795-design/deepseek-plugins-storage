@@ -2,7 +2,7 @@
   "id": "dsh-im",
   "name": "Im",
   "version": "1.0.0",
-  "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+  "description": "【实用工具】 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
   "descriptionEn": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -29,7 +29,8 @@
     "slack-bot",
     "telegram-bot",
     "wechat-bot",
-    "whatsapp-bot"
+    "whatsapp-bot",
+    "workflow"
   ],
   "category": "workflow"
 }

@@ -2,7 +2,7 @@
   "id": "agent_extensions",
   "name": "Agent Extensions",
   "version": "1.0.0",
-  "description": "Agent Skills & DeepSeek Harness (DSH) 扩展库：通用智能体技能（General_skills）+ DSH 标准插件（dsh-plugin），开箱即用的 AI Agent 能力增强集合。",
+  "description": "【工作流引擎】 自动化 Agent 工作流编排系统：支持多步骤推理、代码质量重构、单元测试自动化生成与复杂任务链式调度。",
   "descriptionEn": "Agent Skills & DeepSeek Harness (DSH) 扩展库：通用智能体技能（General_skills）+ DSH 标准插件（dsh-plugin），开箱即用的 AI Agent 能力增强集合。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,14 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "agent-skills",
-    "ai-agent",
-    "deepseek-harness",
+    "工作流",
+    "自动化重构",
+    "测试生成",
+    "workflow",
     "dsh-plugin",
-    "prompt-engineering",
-    "python",
-    "skills",
-    "translation"
+    "prompt"
   ],
   "category": "prompt"
 }

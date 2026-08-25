@@ -2,7 +2,7 @@
   "id": "dsh-at-file",
   "name": "At File",
   "version": "1.0.0",
-  "description": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
+  "description": "【实用工具】 Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
   "descriptionEn": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -16,7 +16,8 @@
   ],
   "tags": [
     "dsh",
-    "dsh-plugin"
+    "dsh-plugin",
+    "prompt"
   ],
   "category": "prompt"
 }

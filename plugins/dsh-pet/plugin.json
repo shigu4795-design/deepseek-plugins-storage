@@ -2,7 +2,7 @@
   "id": "dsh-pet",
   "name": "Pet",
   "version": "1.0.0",
-  "description": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+  "description": "【趣味桌宠】 互动式伴侣桌面宠物插件：随 Agent 思考、报错、编码成功等状态自动切换可爱动作与音效，让编程不再枯燥。",
   "descriptionEn": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视��自造专属宠物",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,10 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek-harness",
-    "desktop-pet",
-    "dsh",
-    "dsh-plugin"
+    "桌面宠物",
+    "趣味互动",
+    "状态反馈",
+    "pet",
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

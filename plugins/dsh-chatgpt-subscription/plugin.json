@@ -2,7 +2,7 @@
   "id": "dsh-chatgpt-subscription",
   "name": "Chatgpt Subscription",
   "version": "1.0.0",
-  "description": "DeepSeek Harness 官方与社区开源扩展 (Aa728848/dsh-chatgpt-subscription)",
+  "description": "【实用工具】 DeepSeek Harness 官方与社区开源扩展 (Aa728848/dsh-chatgpt-subscription)",
   "descriptionEn": "Open-source DeepSeek Harness plugin from GitHub (Aa728848/dsh-chatgpt-subscription)",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,8 @@
   "tags": [
     "deepseek-harness",
     "deepseek-harness-plugin",
-    "dsh-plugin"
+    "dsh-plugin",
+    "tools"
   ],
   "category": "tools"
 }

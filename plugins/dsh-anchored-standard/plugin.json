@@ -2,7 +2,7 @@
   "id": "dsh-anchored-standard",
   "name": "Anchored Standard",
   "version": "1.0.0",
-  "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+  "description": "【实用工具】 Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
   "descriptionEn": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -18,7 +18,8 @@
     "deepseek",
     "deepseek-harness",
     "dsh-plugin",
-    "llm-agent"
+    "llm-agent",
+    "models"
   ],
   "category": "models"
 }

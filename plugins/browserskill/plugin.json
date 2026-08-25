@@ -2,7 +2,7 @@
   "id": "browserskill",
   "name": "BrowserSkill",
   "version": "1.0.0",
-  "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+  "description": "【实用工具】 Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
   "descriptionEn": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -17,7 +17,8 @@
   "tags": [
     "agent",
     "browser-use",
-    "dsh-plugin"
+    "dsh-plugin",
+    "workflow"
   ],
   "category": "workflow"
 }

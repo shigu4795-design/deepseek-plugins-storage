@@ -2,7 +2,7 @@
   "id": "archify",
   "name": "Archify",
   "version": "1.0.0",
-  "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+  "description": "【实用工具】 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
   "descriptionEn": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -34,7 +34,8 @@
     "sequence-diagram",
     "software-architecture",
     "system-design",
-    "text-to-diagram"
+    "text-to-diagram",
+    "ui"
   ],
   "category": "ui"
 }

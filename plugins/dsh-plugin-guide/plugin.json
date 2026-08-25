@@ -2,7 +2,7 @@
   "id": "dsh-plugin-guide",
   "name": "Plugin Guide",
   "version": "1.0.0",
-  "description": "Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.",
+  "description": "【实用工具】 Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.",
   "descriptionEn": "Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -25,7 +25,8 @@
     "dsh-plugin",
     "knowledge-base",
     "plugin-development",
-    "scaffold"
+    "scaffold",
+    "ui"
   ],
   "category": "ui"
 }

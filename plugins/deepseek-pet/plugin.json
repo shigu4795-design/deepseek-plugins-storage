@@ -2,7 +2,7 @@
   "id": "deepseek-pet",
   "name": "Pet",
   "version": "1.0.0",
-  "description": "在你的deepseek-harness上养一只吃白饭的大蓝鲸",
+  "description": "【趣味桌宠】 互动式伴侣桌面宠物插件：随 Agent 思考、报错、编码成功等状态自动切换可爱动作与音效，让编程不再枯燥。",
   "descriptionEn": "在你的deepseek-harness上养一只吃白饭的大蓝鲸",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,9 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek-harness",
-    "deepseek-harness-plugin",
-    "dsh-plugin"
+    "桌面宠物",
+    "趣味互动",
+    "状态反馈",
+    "pet",
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

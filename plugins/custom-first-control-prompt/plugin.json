@@ -2,7 +2,7 @@
   "id": "custom-first-control-prompt",
   "name": "Custom First Control Prompt",
   "version": "1.0.0",
-  "description": "DeepSeek Harness plugin for insert custom prompt",
+  "description": "【Prompt 智囊】 深度推理与抗拒绝破甲增强插件：内置优化版破甲提示词矩阵，有效提升复杂场景下的长逻辑生成稳定性，并在顶部实时显示激活状态。",
   "descriptionEn": "DeepSeek Harness plugin for insert custom prompt",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,11 +15,11 @@
     "filesystem"
   ],
   "tags": [
-    "deepseek-harness-plugin",
-    "deepseek-harness-plugins",
-    "dsh-plugin",
-    "dsh-plugin-market",
-    "dsh-plugins"
+    "破甲增强",
+    "深度推理",
+    "提示词矩阵",
+    "prompt",
+    "dsh-plugin"
   ],
   "category": "prompt"
 }

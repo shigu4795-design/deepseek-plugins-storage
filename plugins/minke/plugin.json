@@ -2,7 +2,7 @@
   "id": "minke",
   "name": "Minke",
   "version": "1.0.0",
-  "description": "🐳 DeepSeek Harness Desktop",
+  "description": "【实用工具】 🐳 DeepSeek Harness Desktop",
   "descriptionEn": "🐳 DeepSeek Harness Desktop",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -27,7 +27,8 @@
     "linux",
     "macos",
     "skills",
-    "windows"
+    "windows",
+    "workflow"
   ],
   "category": "workflow"
 }

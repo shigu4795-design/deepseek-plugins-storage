@@ -2,7 +2,7 @@
   "id": "everos",
   "name": "EverOS",
   "version": "1.0.0",
-  "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
+  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -31,7 +31,8 @@
     "memory-management",
     "python3",
     "rag",
-    "skills"
+    "skills",
+    "models"
   ],
   "category": "models"
 }

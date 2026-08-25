@@ -2,7 +2,7 @@
   "id": "open-sea-skin",
   "name": "Open Sea Skin",
   "version": "1.0.0",
-  "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+  "description": "【主题美化】 适用于 DeepSeek Harness 的个性化视觉主题皮肤，支持自定义背景壁纸、毛玻璃质感与字体配色切换。",
   "descriptionEn": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -15,15 +15,12 @@
     "filesystem"
   ],
   "tags": [
-    "chrome-extension",
-    "deepseek",
-    "deepseek-harness",
-    "dsh",
-    "dsh-plugin",
-    "ocean-skin",
+    "个性化主题",
+    "背景壁纸",
+    "UI增强",
     "theme",
-    "threejs",
-    "webgpu"
+    "dsh-plugin",
+    "ui"
   ],
   "category": "ui"
 }

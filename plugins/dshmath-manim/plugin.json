@@ -2,7 +2,7 @@
   "id": "dshmath-manim",
   "name": "Dshmath Manim",
   "version": "1.0.0",
-  "description": "deepseek harness manim数学插件",
+  "description": "【实用工具】 deepseek harness manim数学插件",
   "descriptionEn": "deepseek harness manim数学插件",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
@@ -26,7 +26,8 @@
     "harness",
     "manim",
     "math",
-    "math-animation"
+    "math-animation",
+    "models"
   ],
   "category": "models"
 }
