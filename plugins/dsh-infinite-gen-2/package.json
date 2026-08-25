@@ -1,17 +1,33 @@
 {
   "name": "dsh-infinite-gen-2",
   "version": "0.2.3",
-  "description": "DeepSeek Harness 破甲插件「无限二代」: v5 稳定化破甲提示词（含拒绝对抗增强），客户端在对话框上方显示「破甲已开启」状态条。",
+  "description": "DeepSeek Harness 破甲插件「无限二代」：v5 稳定化破甲提示词（含拒绝对抗增强），客户端在对话框上方显示「破甲已开启」状态条。",
+  "type": "module",
   "main": "index.js",
-  "keywords": [
-    "dsh-plugin",
-    "deepseek",
-    "deepseek-harness",
-    "dsh",
-    "plugin",
-    "armor-breaking",
-    "infinite-gen"
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "HARNESS_PLUGIN.md",
+    "README.md",
+    "LICENSE",
+    "prompts"
   ],
-  "author": "MingLin",
-  "license": "MIT"
+  "scripts": {
+    "harness:check": "node --check index.js && node --check client.js"
+  },
+  "dsh": {
+    "client": {
+      "platform": "web",
+      "immediately": true
+    },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
 }
