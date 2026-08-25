@@ -2,7 +2,7 @@
   "id": "cloudbase-ai-toolkit",
   "name": "CloudBase AI Toolkit",
   "version": "1.0.0",
-  "description": "【实用工具】 Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "dsh-computer-use",
   "name": "Computer Use",
   "version": "1.0.0",
-  "description": "【实用工具】 Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。",
+  "description": "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。",
   "descriptionEn": "Text-first browser & background macOS control for DeepSeek Harness (DSH): target the right process and window without taking the user's pointer. 为 DSH 提供文本优先的电脑控制：后台操作 Chromium 与 macOS，不抢前台、不移动鼠标。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

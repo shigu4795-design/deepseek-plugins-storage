@@ -2,7 +2,7 @@
   "id": "deepseek-reasonix",
   "name": "DeepSeek Reasonix",
   "version": "1.0.0",
-  "description": "【实用工具】 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

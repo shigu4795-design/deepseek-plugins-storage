@@ -2,7 +2,7 @@
   "id": "dsh-attachment-formats",
   "name": "Attachment Formats",
   "version": "1.0.0",
-  "description": "【实用工具】 Codex-style attachment formats for the DeepSeek Harness Web GUI: PDF text-layer extraction, Office text extraction, scanned-PDF OCR, long-document spill + index cards, image-to-PNG.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "Codex-style attachment formats for the DeepSeek Harness Web GUI: PDF text-layer extraction, Office text extraction, scanned-PDF OCR, long-document spill + index cards, image-to-PNG.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

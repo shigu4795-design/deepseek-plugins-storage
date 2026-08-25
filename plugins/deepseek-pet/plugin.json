@@ -2,7 +2,7 @@
   "id": "deepseek-pet",
   "name": "Pet",
   "version": "1.0.0",
-  "description": "【趣味桌宠】 互动式伴侣桌面宠物插件：随 Agent 思考、报错、编码成功等状态自动切换可爱动作与音效，让编程不再枯燥。",
+  "description": "互动式桌面陪伴宠物插件，随 Agent 思考与编码状态自动切换可爱动作与反馈音效。",
   "descriptionEn": "在你的deepseek-harness上养一只吃白饭的大蓝鲸",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

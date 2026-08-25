@@ -2,7 +2,7 @@
   "id": "harness-ai-kit",
   "name": "Harness Ai Kit",
   "version": "1.0.0",
-  "description": "【实用工具】 Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (MySQL/PG/Redis/Kafka/Mongo/Oracle/NL2SQL), K8s/Docker diagnostics, infra ops (Dify/Nexus/Harbor/SonarQube) & docs/patent. Runtimes: Codex, Claude Code, Cursor, Kiro, DSH.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (MySQL/PG/Redis/Kafka/Mongo/Oracle/NL2SQL), K8s/Docker diagnostics, infra ops (Dify/Nexus/Harbor/SonarQube) & docs/patent. Runtimes: Codex, Claude Code, Cursor, Kiro, DSH.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

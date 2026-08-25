@@ -2,7 +2,7 @@
   "id": "dsh-advisor",
   "name": "Advisor",
   "version": "1.0.0",
-  "description": "【实用工具】 Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。",
+  "description": "双模型协同审查副驾驶，在每轮对话中引入辅助模型被动审查代码质量并提供优化建议。",
   "descriptionEn": "Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "deepseek-desktop",
   "name": "Desktop",
   "version": "1.0.0",
-  "description": "【实用工具】 DeepSeek Desktop application with Chat and Harness modes;deepseek-harness桌面端应用，集成网页端chat能力，可手动切换。",
+  "description": "DeepSeek Desktop application with Chat and Harness modes;deepseek-harness桌面端应用，集成网页端chat能力，可手动切换。",
   "descriptionEn": "DeepSeek Desktop application with Chat and Harness modes;deepseek-harness桌面端应用，集成网页端chat能力，可手动切换。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

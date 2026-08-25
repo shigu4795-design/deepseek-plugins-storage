@@ -2,7 +2,7 @@
   "id": "dsh-think-any-lang",
   "name": "Think Any Lang",
   "version": "1.0.0",
-  "description": "【实用工具】 DeepSeek Harness (DSH) plugin: a \"Thinking Language\" selector under Settings → General that tells the model which language to reason in (chain of thought) via a system-prompt section. Zero extra calls, zero latency, 12 languages.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "DeepSeek Harness (DSH) plugin: a \"Thinking Language\" selector under Settings → General that tells the model which language to reason in (chain of thought) via a system-prompt section. Zero extra calls, zero latency, 12 languages.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

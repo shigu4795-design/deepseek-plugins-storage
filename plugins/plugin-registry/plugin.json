@@ -2,7 +2,7 @@
   "id": "plugin-registry",
   "name": "Plugin Registry",
   "version": "1.0.0",
-  "description": "【实用工具】 DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导",
+  "description": "DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导",
   "descriptionEn": "DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

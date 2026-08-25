@@ -2,7 +2,7 @@
   "id": "dsh-eval-harness",
   "name": "Eval Harness",
   "version": "1.0.0",
-  "description": "【实用工具】 DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
+  "description": "DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
   "descriptionEn": "DSH 插件评测工具：YAML 用例驱动真实 agent 回归评测 + baseline 对比 PASS/WARN/FAIL 门禁｜Regression eval harness for DeepSeek Harness plugins",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

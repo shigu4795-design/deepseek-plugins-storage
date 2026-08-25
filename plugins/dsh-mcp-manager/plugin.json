@@ -2,7 +2,7 @@
   "id": "dsh-mcp-manager",
   "name": "Mcp Manager",
   "version": "1.0.0",
-  "description": "【MCP 管理】 Model Context Protocol (MCP) 可视化管理中心：支持在设置页一键添加、启停、编辑与重连外部 MCP 工具服务器，实时监控连接状态。",
+  "description": "MCP 可视化管理面板，支持在设置页一键添加、启停、编辑与重连外部 MCP 工具服务器。",
   "descriptionEn": "在 DeepSeek Harness 设置页管理 MCP 服务器：运行时添加/编辑/启停/重连/删除，实时状态、自动重连，中英双��界面。MCP server manager for DeepSeek Harness — add, edit, enable/disable, reconnect & delete MCP servers from the web settings page, with live status and auto-reconnect.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

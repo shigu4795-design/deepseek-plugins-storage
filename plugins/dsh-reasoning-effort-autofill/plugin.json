@@ -2,7 +2,7 @@
   "id": "dsh-reasoning-effort-autofill",
   "name": "Reasoning Effort Autofill",
   "version": "1.0.0",
-  "description": "【实用工具】 DSH插件：添加自定义第三方模型时自动补齐推理等级（reasoning_effort），让模型选择器开箱即可选推理强度。",
+  "description": "DSH插件：添加自定义第三方模型时自动补齐推理等级（reasoning_effort），让模型选择器开箱即可选推理强度。",
   "descriptionEn": "DSH插件：添加自定义第三方模型时自动补齐推理等级（reasoning_effort），让模型选择器开箱即可选推理强度。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

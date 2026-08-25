@@ -2,7 +2,7 @@
   "id": "dsh-devices",
   "name": "Devices",
   "version": "1.0.0",
-  "description": "【实用工具】 Turn your devices into a fleet — dph plugin for decentralized multi-device collaboration: mDNS discovery, key pairing, SSH direct exec. Tools auto-register for dph agents.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "Turn your devices into a fleet — dph plugin for decentralized multi-device collaboration: mDNS discovery, key pairing, SSH direct exec. Tools auto-register for dph agents.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

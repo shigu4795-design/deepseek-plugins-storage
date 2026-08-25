@@ -2,7 +2,7 @@
   "id": "dsh-session-manager",
   "name": "Session Manager",
   "version": "1.0.0",
-  "description": "【MCP 管理】 Model Context Protocol (MCP) 可视化管理中心：支持在设置页一键添加、启停、编辑与重连外部 MCP 工具服务器，实时监控连接状态。",
+  "description": "Model Context Protocol (MCP) 可视化管理中心：支持在设置页一键添加、启停、编辑与重连外部 MCP 工具服务器，实时监控连接状态。",
   "descriptionEn": "DSH 会话管理插件：删除（回收站恢复/彻底清除）、统计、继续/暂停、打开日志目录、对话顶部抽屉、工作区分组与排序、上下文压缩阈值设置。DSH session manager: delete with trash/restore/purge, stats, continue/pause, log folder, header drawer, workspace grouping, context compaction threshold.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

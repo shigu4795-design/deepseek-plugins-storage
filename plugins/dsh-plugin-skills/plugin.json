@@ -2,7 +2,7 @@
   "id": "dsh-plugin-skills",
   "name": "Plugin Skills",
   "version": "1.0.0",
-  "description": "【实用工具】 Agent skills for building and testing DeepSeek Harness plugins — from scaffolding a new plugin package to choosing the right test tiers, entirely inside an agent session.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "Agent skills for building and testing DeepSeek Harness plugins — from scaffolding a new plugin package to choosing the right test tiers, entirely inside an agent session.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "dsh-undo-savepoint",
   "name": "Undo Savepoint",
   "version": "1.0.0",
-  "description": "【实用工具】 DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

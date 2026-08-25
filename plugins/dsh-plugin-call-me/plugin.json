@@ -2,7 +2,7 @@
   "id": "dsh-plugin-call-me",
   "name": "Plugin Call Me",
   "version": "1.0.0",
-  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Your DeepSeek Harness agent rings your actual phone: it asks out loud, you answer out loud, and what you said steers the run.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

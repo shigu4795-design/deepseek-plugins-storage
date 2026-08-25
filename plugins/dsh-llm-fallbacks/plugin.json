@@ -2,7 +2,7 @@
   "id": "dsh-llm-fallbacks",
   "name": "Llm Fallbacks",
   "version": "1.0.0",
-  "description": "【实用工具】 An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件",
+  "description": "An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件",
   "descriptionEn": "An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

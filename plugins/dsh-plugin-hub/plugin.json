@@ -2,7 +2,7 @@
   "id": "dsh-plugin-hub",
   "name": "Plugin Hub",
   "version": "1.0.0",
-  "description": "【实用工具】 DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
+  "description": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装",
   "descriptionEn": "DeepSeek Harness (DSH) 插件管理面板：一键启用/停用插件 + GitHub dsh-plugin 插件市场，带插件详情与一键安装 | Plugin manager & marketplace for DeepSeek Harness",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

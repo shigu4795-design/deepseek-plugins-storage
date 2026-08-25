@@ -2,7 +2,7 @@
   "id": "dsh-worktree",
   "name": "Worktree",
   "version": "1.0.0",
-  "description": "【Git 增强】 独立 Git Worktree 隔离工作区插件：允许 AI 在独立分支沙箱中安全编写和验证代码，不污染当前正在开发的主分支。",
+  "description": "Git Worktree 隔离开发工作区，允许 AI 在独立分支沙箱中安全验证代码，不影响当前分支。",
   "descriptionEn": "Codex-style permanent git worktrees for DeepSeek Harness: worktree_create/list/remove agent tools, a /worktree chat command, and durable per-repo manifests.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

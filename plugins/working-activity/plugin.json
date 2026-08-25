@@ -2,7 +2,7 @@
   "id": "working-activity",
   "name": "Working Activity",
   "version": "1.0.0",
-  "description": "【效率扩展】 适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
   "descriptionEn": "Lively Working-line extension for pi CLI and DSH",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

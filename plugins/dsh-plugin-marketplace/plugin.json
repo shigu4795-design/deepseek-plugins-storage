@@ -2,7 +2,7 @@
   "id": "dsh-plugin-marketplace",
   "name": "Plugin Marketplace",
   "version": "1.0.0",
-  "description": "【实用工具】 Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

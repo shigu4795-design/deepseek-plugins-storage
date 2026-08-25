@@ -2,7 +2,7 @@
   "id": "dsh-plugin-pet",
   "name": "Plugin Pet",
   "version": "1.0.0",
-  "description": "【趣味桌宠】 互动式伴侣桌面宠物插件：随 Agent 思考、报错、编码成功等状态自动切换可爱动作与音效，让编程不再枯燥。",
+  "description": "互动式桌面陪伴宠物插件，随 Agent 思考与编码状态自动切换可爱动作与反馈音效。",
   "descriptionEn": "DeepSeek Harness 桌面电子宠物插件：跟随 agent 状态变换心情的内置/自定义/Codex 精灵图伙伴。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

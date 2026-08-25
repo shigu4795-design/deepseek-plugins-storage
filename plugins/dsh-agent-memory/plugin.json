@@ -2,7 +2,7 @@
   "id": "dsh-agent-memory",
   "name": "Agent Memory",
   "version": "1.0.0",
-  "description": "【长期记忆】 跨会话智能用户记忆库：持久化记录用户的编码偏好、技术栈规范与历史决策，无需在每个新对话中重复设定 Context。",
+  "description": "跨会话智能长期记忆库，持久化记录你的开发偏好与技术栈规范，无需重复设定 Context。",
   "descriptionEn": "Cross-session long-term memory plugin for DeepSeek Harness (DSH)",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

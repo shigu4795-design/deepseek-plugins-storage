@@ -2,7 +2,7 @@
   "id": "dsh-voice",
   "name": "Voice",
   "version": "1.0.0",
-  "description": "【语音交互】 语音输入与实时语音朗读插件：支持麦克风一键语音输入转文字，并可流畅朗读 AI 生成的代码解析与回复。",
+  "description": "语音输入与实时语音朗读插件，支持麦克风语音转文字，并流畅朗读代码与解析。",
   "descriptionEn": "Voice for DeepSeek Harness（dsh） —  speech-to-text input +  read-aloud TTS for text-only DeepSeek, zero API key.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

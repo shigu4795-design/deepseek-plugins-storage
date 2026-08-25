@@ -2,7 +2,7 @@
   "id": "dsh-infinite-gen-2",
   "name": "dsh-infinite-gen-2",
   "version": "0.2.3",
-  "description": "【Prompt 智囊】 深度推理与抗拒绝破甲增强插件：内置优化版破甲提示词矩阵，有效提升复杂场景下的长逻辑生成稳定性，并在顶部实时显示激活状态。",
+  "description": "深度推理与破甲增强插件，内置稳定化破甲提示词矩阵，并在顶部实时显示激活状态。",
   "descriptionEn": "DeepSeek Harness Armor-Breaking Plugin (Infinite Generation Two) with v5 stabilized prompt and status indicator.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

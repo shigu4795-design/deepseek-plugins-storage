@@ -2,7 +2,7 @@
   "id": "dsh-telegram-channel",
   "name": "Telegram Channel",
   "version": "1.0.0",
-  "description": "【实用工具】 DeepSeek Harness Telegram mobile remote: bind live Web sessions (Codex-style). Install: dsh plugin add github:hi-wenw/dsh-telegram-channel",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "DeepSeek Harness Telegram mobile remote: bind live Web sessions (Codex-style). Install: dsh plugin add github:hi-wenw/dsh-telegram-channel",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "dsh-plugin-diraud",
   "name": "Plugin Diraud",
   "version": "1.0.0",
-  "description": "【实用工具】 将DeepSeek Harness插件列表按来源分组展示——官方插件与自行安装插件，一目了���。",
+  "description": "将DeepSeek Harness插件列表按来源分组展示——官方插件与自行安装插件，一目了���。",
   "descriptionEn": "将DeepSeek Harness插件列表按来源分组展示——官方插件与自行安装插件，一目了���。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

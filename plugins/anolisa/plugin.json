@@ -2,7 +2,7 @@
   "id": "anolisa",
   "name": "Anolisa",
   "version": "1.0.0",
-  "description": "【实用工具】 ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
   "descriptionEn": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
