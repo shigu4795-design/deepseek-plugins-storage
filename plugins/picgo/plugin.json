@@ -2,7 +2,7 @@
   "id": "picgo",
   "name": "PicGo",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
+  "description": "外挂视觉图片解析插件，直接粘贴截图即可秒级提取 OCR 文本、表格与界面布局。",
   "descriptionEn": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "dsh-vision-bridge",
   "name": "Vision Bridge",
   "version": "1.0.0",
-  "description": "外挂视觉多模态桥接插件，直接在对话框粘贴截图即可秒级提取 OCR 文本、表格与界面布局。",
+  "description": "外挂视觉图片解析插件，直接粘贴截图即可秒级提取 OCR 文本、表格与界面布局。",
   "descriptionEn": "DeepSeek Harness plugin that bridges session images to pluggable vision APIs while keeping DeepSeek as the primary model.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "dsh-reverse-skill",
   "name": "Reverse Skill",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
+  "description": "专为 DeepSeek Harness 打造的功能扩展插件，提供免配置一键安装与高效开发辅助。",
   "descriptionEn": "Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

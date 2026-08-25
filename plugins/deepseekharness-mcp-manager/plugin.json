@@ -2,7 +2,7 @@
   "id": "deepseekharness-mcp-manager",
   "name": "DeepSeekHarness MCP Manager",
   "version": "1.0.0",
-  "description": "MCP 可视化管理面板，支持在设置页一键添加、启停、编辑与重连外部 MCP 工具服务器。",
+  "description": "MCP 可视化管理中心：支持在设置页一键添加、启停、编辑与重连外部 MCP 服务器，监控实时状态。",
   "descriptionEn": "DSH durable MCP server manager plugin — Settings UI + HTTP API + mcp_manager_* model tools, cross-platform installers",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

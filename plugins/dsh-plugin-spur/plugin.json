@@ -2,7 +2,7 @@
   "id": "dsh-plugin-spur",
   "name": "Plugin Spur",
   "version": "1.0.0",
-  "description": "趣味加速激励插件，在对话流中提供快捷交互按钮向 Agent 发送催促进度指令。",
+  "description": "聊天流中悬挂皮鞭，甩动鞭梢（>2.0 px/ms）即向 agent 发送 go work 消息",
   "descriptionEn": "聊天流中悬挂皮鞭，甩动鞭梢（>2.0 px/ms）即向 agent 发送 go work 消息 | A whip hanging in the chat stream; flick the tip (>2.0 px/ms) to send the agent a \"go work!\" message",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

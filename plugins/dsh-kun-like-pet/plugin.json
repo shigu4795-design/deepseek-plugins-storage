@@ -2,7 +2,7 @@
   "id": "dsh-kun-like-pet",
   "name": "Kun Like Pet",
   "version": "1.0.0",
-  "description": "互动式桌面陪伴宠物插件，随 Agent 思考与编码状态自动切换可爱动作与反馈音效。",
+  "description": "Kun Like 桌宠 —— DeepSeek Harness 桌面宠物插件：右下角小坤宠随 Agent 工作状态切换 9 种动作，任务完成播放「你干嘛~哎哟」",
   "descriptionEn": "Kun Like 桌宠 —— DeepSeek Harness 桌面宠物插件：右下角小坤宠随 Agent 工作状态切换 9 种动作，任务完成播放「你干嘛~哎哟」",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

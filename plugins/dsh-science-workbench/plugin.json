@@ -2,7 +2,7 @@
   "id": "dsh-science-workbench",
   "name": "Science Workbench",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
+  "description": "可复现科研工作台：支持交互式数据分析单元格、内嵌图表实时重跑、环境快照与论文级图表导出。",
   "descriptionEn": "A reproducible science workbench plugin for the DeepSeek Harness: agent-driven cells, inline figures with feedback/rerun, manifest provenance, and environment snapshots. 9 bio_* tools + workbench UI + publication-grade figure skills.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

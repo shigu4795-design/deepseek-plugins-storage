@@ -2,7 +2,7 @@
   "id": "dsh-mobile",
   "name": "Mobile",
   "version": "1.0.0",
-  "description": "手机端随身控制桥接插件，通过局域网代理让你在 iPhone / iPad 上远程控制电脑上的 Agent。",
+  "description": "手机随身控制插件：通过局域网反向代理，让你在 iPhone / iPad 上以 iOS PWA 体验远程控制电脑上的 Agent。",
   "descriptionEn": "Use DeepSeek Harness from your iPhone / iPad: LAN reverse proxy, iOS PWA (add-to-home-screen) chrome, and touch/mobile CSS for the web GUI",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

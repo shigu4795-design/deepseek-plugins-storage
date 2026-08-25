@@ -2,7 +2,7 @@
   "id": "dsh-plugin-doctor",
   "name": "Plugin Doctor",
   "version": "1.0.0",
-  "description": "插件冲突诊断与健康医生，自动检测多插件之间的版本依赖与潜在环境冲突并提供修复方案。",
+  "description": "致力于解决各插件之间也与版本之间可能存在的冲突问题并提供解决方案",
   "descriptionEn": "致力于解决各插件之间也与版本之间可能存在的冲突问题并提供解决方案",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

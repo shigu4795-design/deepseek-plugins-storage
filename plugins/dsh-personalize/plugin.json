@@ -2,7 +2,7 @@
   "id": "dsh-personalize",
   "name": "Personalize",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
+  "description": "跨会话智能用户记忆库：持久化记住你的技术栈偏好与规范，新开对话无需重复提供 Context。",
   "descriptionEn": "Per-host personalization for DSH: custom instructions, local long-term memory, and reply-tone presets.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

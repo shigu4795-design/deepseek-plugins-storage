@@ -2,7 +2,7 @@
   "id": "dsh-plugin-notify",
   "name": "Plugin Notify",
   "version": "1.0.0",
-  "description": "智能任务完成提醒信使，支持通过桌面弹窗、中文语音播报与提示音主动通知用户。",
+  "description": "任务完成智能提醒信使：支持通过桌面弹窗、中文语音播报与 Webhook 推送，避免长时间盲目等待。",
   "descriptionEn": "DeepSeek Harness 插件：通知出口——agent 通过桌面通知 / 中文语音播报 / 提示音主动联系用户（长任务完成、出错、呼叫用户回来）。Windows 本机零依赖。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

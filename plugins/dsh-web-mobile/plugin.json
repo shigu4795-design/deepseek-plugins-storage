@@ -2,7 +2,7 @@
   "id": "dsh-web-mobile",
   "name": "Web Mobile",
   "version": "1.0.0",
-  "description": "手机端随身控制桥接插件，通过局域网代理让你在 iPhone / iPad 上远程控制电脑上的 Agent。",
+  "description": "DSH Web UI 移动端适配：窄屏好用，宽屏适用",
   "descriptionEn": "DSH Web UI 移动端适配：窄屏好用，宽屏适用",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "dsh-live2d-pets",
   "name": "Live2d Pets",
   "version": "1.0.0",
-  "description": "互动式桌面陪伴宠物插件，随 Agent 思考与编码状态自动切换可爱动作与反馈音效。",
+  "description": "Live2D 桌宠插件 for DeepSeek Harness：Agent 状态镜像 + 互动陪伴，内置宽松许可预设模型 / Live2D pet plugin: agent state mirror + interactive companion with curated permissive-license presets",
   "descriptionEn": "Live2D 桌宠插件 for DeepSeek Harness：Agent 状态镜像 + 互动陪伴，内置宽松许可预设模型 / Live2D pet plugin: agent state mirror + interactive companion with curated permissive-license presets",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "deepseekharnesseval",
   "name": "Deepseekharnesseval",
   "version": "1.0.0",
-  "description": "DeepSeek Harness 官方与社区开源扩展 (suyoumo/deepseekharnesseval)",
+  "description": "Git 隔离开发工作区插件，允许 AI 在独立分支沙箱中安全验证代码。",
   "descriptionEn": "Open-source DeepSeek Harness plugin from GitHub (suyoumo/deepseekharnesseval)",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

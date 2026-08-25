@@ -2,7 +2,7 @@
   "id": "petdex",
   "name": "Petdex",
   "version": "1.0.0",
-  "description": "互动式桌面陪伴宠物插件，随 Agent 思考与编码状态自动切换可爱动作与反馈音效。",
+  "description": "专为 DeepSeek Harness 打造的功能扩展插件，提供免配置一键安装与高效开发辅助。",
   "descriptionEn": "A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

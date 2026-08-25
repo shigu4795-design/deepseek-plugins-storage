@@ -2,7 +2,7 @@
   "id": "dsh-noema",
   "name": "Noema",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
+  "description": "智能长期记忆插件，持久化同步用户的技术栈规范与编码偏好设定。",
   "descriptionEn": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

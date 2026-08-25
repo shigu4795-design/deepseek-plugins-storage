@@ -2,7 +2,7 @@
   "id": "dsh-whale-pet",
   "name": "Whale Pet",
   "version": "1.0.0",
-  "description": "互动式桌面陪伴宠物插件，随 Agent 思考与编码状态自动切换可爱动作与反馈音效。",
+  "description": "🐋 DSH 桌宠:DeepSeek Harness 的 Windows 桌面宠物,一键启动/停止/监测服务,双击唤起 GUI,零依赖单文件 exe",
   "descriptionEn": "🐋 DSH 桌宠:DeepSeek Harness 的 Windows 桌面宠物,一键启动/停止/监测服务,双击唤起 GUI,零依赖单文件 exe",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

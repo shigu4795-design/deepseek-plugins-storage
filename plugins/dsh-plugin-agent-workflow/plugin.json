@@ -2,7 +2,7 @@
   "id": "dsh-plugin-agent-workflow",
   "name": "Plugin Agent Workflow",
   "version": "1.0.0",
-  "description": "自动化工作流编排引擎，支持多步骤推理、代码质量重构与自动化测试生成。",
+  "description": "自动化工作流编排引擎，支持多步骤链式推理、智能代码重构与自动化单元测试生成。",
   "descriptionEn": "DeepSeek Harness Agent Workflow",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

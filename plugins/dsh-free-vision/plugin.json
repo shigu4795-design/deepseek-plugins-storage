@@ -2,7 +2,7 @@
   "id": "dsh-free-vision",
   "name": "Free Vision",
   "version": "1.0.0",
-  "description": "外挂视觉多模态桥接插件，直接在对话框粘贴截图即可秒级提取 OCR 文本、表格与界面布局。",
+  "description": "为DSH（DeepSeek Harness）量身打造的视觉插件，现已支持agent调用图片显示/Vision plugin for DSH(DeepSeek Harness),support Proactive Image Display.",
   "descriptionEn": "为DSH（DeepSeek Harness）量身打造的视觉插件，现已支持agent调用图片显示/Vision plugin for DSH(DeepSeek Harness),support Proactive Image Display.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

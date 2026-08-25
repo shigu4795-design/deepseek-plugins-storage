@@ -2,7 +2,7 @@
   "id": "dsh-prompt-enhancer",
   "name": "Prompt Enhancer",
   "version": "1.0.0",
-  "description": "深度推理与抗拒绝破甲增强插件：内置优化版破甲提示词矩阵，有效提升复杂场景下的长逻辑生成稳定性，并在顶部实时显示激活状态。",
+  "description": "DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音识别（说完自动停",
   "descriptionEn": "DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音识别（说完自动停·云端/本地双引擎）· 附 🔁 服务异常一键重启",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

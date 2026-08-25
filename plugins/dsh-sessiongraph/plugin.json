@@ -2,7 +2,7 @@
   "id": "dsh-sessiongraph",
   "name": "DSH SessionGraph",
   "version": "1.0.0",
-  "description": "对话可视化脑图生成器，一键将多轮长对话转化为可编辑的思维导图与流程节点。",
+  "description": "会话思维导图生成器：一键将长对话转化为可视化脑图，支持导出 Markdown、Mermaid 与 XMind。",
   "descriptionEn": "A DSH Web plugin that turns chat sessions into editable mind maps, with Markdown, Mermaid, PlantUML, XMind text, and TODO exports.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

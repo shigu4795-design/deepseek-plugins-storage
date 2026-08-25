@@ -2,7 +2,7 @@
   "id": "dsh-index",
   "name": "Index",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
+  "description": "自动化工作流编排引擎，支持多步骤推理、代码质量重构与自动化测试生成。",
   "descriptionEn": "DeepSeek Harness Plugin and Agent Profile Package Index - Install dsh-plugin with just one command",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

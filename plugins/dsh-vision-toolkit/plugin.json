@@ -2,7 +2,7 @@
   "id": "dsh-vision-toolkit",
   "name": "Vision Toolkit",
   "version": "1.0.0",
-  "description": "外挂视觉与图片解析桥接插件：为纯文本模型赋予识图能力，直接粘贴图片/截图即可秒级提取文字 (OCR)、表格数据与界面布局证据。",
+  "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
   "descriptionEn": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

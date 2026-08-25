@@ -2,7 +2,7 @@
   "id": "dsh-mobile-gate",
   "name": "Mobile Gate",
   "version": "1.0.0",
-  "description": "手机端随身控制桥接插件，通过局域网代理让你在 iPhone / iPad 上远程控制电脑上的 Agent。",
+  "description": "LAN mobile gateway for DeepSeek Harness (DSH): first-visit approval, per-device tokens, rate limiting, mobile layout injection. 局域网手机安全访问 DSH 的即插即用网关：本机审批、设备令牌、限流、手机端适配。",
   "descriptionEn": "LAN mobile gateway for DeepSeek Harness (DSH): first-visit approval, per-device tokens, rate limiting, mobile layout injection. 局域网手机安全访问 DSH 的即插即用网关：本机审批、设备令牌、限流、手机端适配。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

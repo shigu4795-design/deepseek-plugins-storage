@@ -2,7 +2,7 @@
   "id": "dsh-session-cost",
   "name": "Session Cost",
   "version": "1.0.0",
-  "description": "Token 消耗与成本实时统计仪，在界面角落直观展示当前对话的 Token 使用量与预估成本。",
+  "description": "Token 消耗与成本实时统计仪：在界面角落直观监控当前会话的 Token 用量与预估 API 费用。",
   "descriptionEn": "DSH plugin: estimated DeepSeek API cost per session in the web GUI stats strip",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

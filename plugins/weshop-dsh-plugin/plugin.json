@@ -2,7 +2,7 @@
   "id": "weshop-dsh-plugin",
   "name": "Weshop Dsh Plugin",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供深度集成、免配置一键安装与高效自动化辅助支持。",
+  "description": "WeShop 原生创意插件：为 DeepSeek Harness 提供无限创动画布与多模态创意设计技能。",
   "descriptionEn": "Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

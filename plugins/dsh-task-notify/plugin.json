@@ -2,7 +2,7 @@
   "id": "dsh-task-notify",
   "name": "Task Notify",
   "version": "1.0.0",
-  "description": "智能任务完成提醒信使，支持通过桌面弹窗、中文语音播报与提示音主动通知用户。",
+  "description": "任务完成智能提醒信使：支持通过桌面弹窗、中文语音播报与 Webhook 推送，避免长时间盲目等待。",
   "descriptionEn": "Lifecycle notification layer for AI coding agents — DeepSeek Harness plugin for turn, job, review & failure notifications",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

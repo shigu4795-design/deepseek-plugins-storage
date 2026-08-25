@@ -2,7 +2,7 @@
   "id": "garmin-connect-plugin-for-dsh",
   "name": "Garmin Connect Plugin For Dsh",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
+  "description": "专为 DeepSeek Harness 打造的功能扩展插件，提供免配置一键安装与高效开发辅助。",
   "descriptionEn": "DeepSeek Harness plugin for Garmin Connect — AI-powered fitness data access",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

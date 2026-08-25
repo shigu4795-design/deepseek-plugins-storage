@@ -2,7 +2,7 @@
   "id": "dsh-wordbox",
   "name": "Wordbox",
   "version": "1.0.0",
-  "description": "常用词快速输入盒，方便将项目常用提示词、固定代码片段一键快速粘贴到对话框中。",
+  "description": "常用词快速输入盒：方便将项目常用提示词、固定代码模板集中保存并一键粘贴到对话框中。",
   "descriptionEn": "DSH Web GUI常用词箱子，方便项目常用词的存储和粘贴 | DSH Web GUI Common Words Box – for storing and pasting frequently used project terms.\"",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

@@ -2,7 +2,7 @@
   "id": "dsh-tool-user-memory",
   "name": "Tool User Memory",
   "version": "1.0.0",
-  "description": "跨会话智能长期记忆库，持久化记录你的开发偏好与技术栈规范，无需重复设定 Context。",
+  "description": "跨会话智能用户记忆库：持久化记住你的技术栈偏好与规范，新开对话无需重复提供 Context。",
   "descriptionEn": "DeepSeek Harness 用户记忆插件",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

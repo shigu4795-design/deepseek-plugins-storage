@@ -2,7 +2,7 @@
   "id": "dsh-archived-sessions",
   "name": "Archived Sessions",
   "version": "1.0.0",
-  "description": "跨会话智能用户记忆库：持久化记录用户的编码偏好、技术栈规范与历史决策，无需在每个新对话中重复设定 Context。",
+  "description": "专为 DeepSeek Harness 打造的功能扩展插件，提供免配置一键安装与高效开发辅助。",
   "descriptionEn": "DSH Session Manager: manage conversations, archive/restore, delete safely, open record folders.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

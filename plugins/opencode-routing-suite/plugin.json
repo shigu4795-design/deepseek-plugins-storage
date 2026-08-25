@@ -2,7 +2,7 @@
   "id": "opencode-routing-suite",
   "name": "Opencode Routing Suite",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
+  "description": "自动化工作流编排引擎，支持多步骤推理、代码质量重构与自动化测试生成。",
   "descriptionEn": "Task-aware reasoning-mode routing for opencode: spec/react/weak three-band agent routing, ported from yjh051108/dsh-routing-suite",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

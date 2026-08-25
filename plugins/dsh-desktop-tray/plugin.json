@@ -2,7 +2,7 @@
   "id": "dsh-desktop-tray",
   "name": "Desktop Tray",
   "version": "1.0.0",
-  "description": "EN: DSH Tray Assistant — a WPF tray companion for DeepSeek Harness: one-click Node.js/npm/dsh environment setup and Web UI lifecycle management.  CN: DSH 托盘助手 — DeepSeek Harness 的 WPF 托盘扩展：一键配置 Node.js/npm/dsh 环境，托盘启停 Web UI。",
+  "description": "Windows 任务栏托盘助手：一键自动化配置 Node.js/dsh 环境，支持在托盘区秒级启停 Web UI。",
   "descriptionEn": "EN: DSH Tray Assistant — a WPF tray companion for DeepSeek Harness: one-click Node.js/npm/dsh environment setup and Web UI lifecycle management.  CN: DSH 托盘助手 — DeepSeek Harness 的 WPF 托盘扩展：一键配置 Node.js/npm/dsh 环境，托盘启停 Web UI。",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

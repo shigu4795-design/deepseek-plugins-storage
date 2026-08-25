@@ -2,7 +2,7 @@
   "id": "dsh-acp-plugin",
   "name": "Acp Plugin",
   "version": "1.0.0",
-  "description": "自动化工作流编排引擎，支持多步骤推理、代码质量重构与自动化测试生成。",
+  "description": "Agent 客户端协议服务 (ACP)：支持从外部编辑器 (如 Zed) 或 Web UI 远程驱动与调度 DeepSeek Agent。",
   "descriptionEn": "Agentic Control Plane for DeepSeek Harness — policy-check every tool call before it runs",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

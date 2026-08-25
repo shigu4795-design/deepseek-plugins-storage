@@ -2,7 +2,7 @@
   "id": "dsh-plugin",
   "name": "Plugin",
   "version": "1.0.0",
-  "description": "适用于 DeepSeek Harness 的专业能力扩展插件，提供免配置一键安装与高效辅助支持。",
+  "description": "自动化工作流编排引擎，支持多步骤推理、代码质量重构与自动化测试生成。",
   "descriptionEn": "OpenTelemetry tracing for DeepSeek Harness (dsh): turns each agent turn into a GenAI span tree — steps, LLM calls with TTFT, tool executions, token usage — exported over standard OTLP to Jaeger, Grafana Tempo, SigNoz, Langfuse, or any compatible backend.",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

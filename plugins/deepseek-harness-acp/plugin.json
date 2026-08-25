@@ -2,7 +2,7 @@
   "id": "deepseek-harness-acp",
   "name": "Acp",
   "version": "1.0.0",
-  "description": "自动化工作流编排引擎，支持多步骤推理、代码质量重构与自动化测试生成。",
+  "description": "专为 DeepSeek Harness 打造的功能扩展插件，提供免配置一键安装与高效开发辅助。",
   "descriptionEn": "ACP server implementation for DeepSeek harness. dsh-acp",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",

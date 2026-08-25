@@ -2,7 +2,7 @@
   "id": "dsh-mobile-gui-agent",
   "name": "Mobile Gui Agent",
   "version": "1.0.0",
-  "description": "手机端随身控制桥接插件，通过局域网代理让你在 iPhone / iPad 上远程控制电脑上的 Agent。",
+  "description": "自动化工作流编排引擎，支持多步骤推理、代码质量重构与自动化测试生成。",
   "descriptionEn": "Android Mobile GUI Agent plugin for DeepSeek Harness with ADB control, iterative verification, approvals, and a Web mobile view",
   "author": "MingLin",
   "authorUrl": "https://deepseek.stream",
