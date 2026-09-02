@@ -1,0 +1,9 @@
+# dsh-grok-bot composition layer: inserts the bot runtime row.
+# Row specifier must equal package.json `name`; client half declared via
+# dsh.client manifest (platform: web).
+# config: {} — 空配置即可通过导出 Config 的规范校验（所有字段带默认值）。
+- insert:
+    - id: dsh-grok-bot
+      name: 'dsh-grok-bot'
+      config:
+        intervalSeconds: 900

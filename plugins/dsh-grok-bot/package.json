@@ -1,0 +1,51 @@
+{
+  "name": "dsh-grok-bot",
+  "version": "0.2.0",
+  "description": "Grok Bot 风格的常驻自主 Agent 插件：cron 后台例程调度、审批卡、预算实时拦截、运行轨迹详情与 📋 结果汇报，会话头「例程」面板全程可视。",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE",
+    "src",
+    "tsdown.config.ts",
+    "tsconfig.json"
+  ],
+  "scripts": {
+    "harness:check": "node --check index.js",
+    "build": "tsdown"
+  },
+  "keywords": [
+    "dsh-plugin",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-grok-bot",
+    "agent",
+    "automation",
+    "routines"
+  ],
+  "author": "shigu4795-design",
+  "license": "MIT",
+  "dsh": {
+    "client": {
+      "inject": [
+        "@deepseek-ai/dsh-client-locale",
+        "@deepseek-ai/dsh-client-ui-conversation",
+        "@deepseek-ai/dsh-client-ui-theme"
+      ],
+      "platform": "web"
+    },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
