@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Marketplace-deepseek.stream-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepseek.stream)
 [![Topic dsh-plugin](https://img.shields.io/badge/Topic-dsh--plugin-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/topics/dsh-plugin)
-[![Total Plugins](https://img.shields.io/badge/Verified_Plugins-331-emerald?style=for-the-badge)](https://deepseek.stream)
+[![Total Plugins](https://img.shields.io/badge/Verified_Plugins-332-emerald?style=for-the-badge)](https://deepseek.stream)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 <br />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🗂️ 官方精选托管插件总览 (已完成标准化认证与转制: 331 款)
+## 🗂️ 官方精选托管插件总览 (已完成标准化认证与转制: 332 款)
 
 | 插件名称 | 插件目录 (Path) | 版本 | 分类 | 说明与特性 |
 | :--- | :--- | :---: | :---: | :--- |
@@ -121,8 +121,9 @@
 | **Prompt Enhancer** | [`plugins/dsh-prompt-enhancer`](plugins/dsh-prompt-enhancer) | `1.0.0` | prompt | DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 💬 语音识别（说完自动停... |
 | **Awesome Dsh Plugin** | [`plugins/awesome-dsh-plugin`](plugins/awesome-dsh-plugin) | `1.0.0` | dev | 精选与收录全网优质 DeepSeek Harness 官方与社区插件合集导航，帮助快速发现前沿扩展。... |
 | **Recall Unread** | [`plugins/dsh-recall-unread`](plugins/dsh-recall-unread) | `1.0.0` | models | DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepS... |
+| **dsh-grok-bot** | [`plugins/dsh-grok-bot`](plugins/dsh-grok-bot) | `0.2.0` | tools | Grok Bot 风格的常驻自主 Agent：cron 后台例程调度、审批卡、预算实时拦截、运行轨迹详情与 📋 结果汇报，会话头「例程」面板全程可视。... |
 
-*... 以及其余 231 款插件均已在 `plugins/` 目录下完成就绪，欢迎在 [deepseek.stream](https://deepseek.stream) 搜索体验。*
+*... 以及其余 232 款插件均已在 `plugins/` 目录下完成就绪，欢迎在 [deepseek.stream](https://deepseek.stream) 搜索体验。*
 
 ---
 
