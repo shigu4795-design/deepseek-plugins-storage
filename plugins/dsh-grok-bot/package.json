@@ -1,6 +1,6 @@
 {
   "name": "dsh-grok-bot",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Grok Bot 风格的常驻自主 Agent 插件：cron 后台例程调度、审批卡、预算实时拦截、运行轨迹详情与 📋 结果汇报，会话头「例程」面板全程可视。",
   "type": "module",
   "main": "index.js",

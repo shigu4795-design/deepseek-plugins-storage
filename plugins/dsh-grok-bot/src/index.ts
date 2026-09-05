@@ -22,6 +22,15 @@ import { createAssistantMessage, createUserMessage } from '@deepseek-ai/dsh-llm'
 import { SessionId, type SessionEvent } from '@deepseek-ai/dsh-session'
 import { defineTool } from '@deepseek-ai/dsh-tools'
 
+/** 跨 0.1.1/0.1.2 的会话事件快照读取：0.1.2 移除 events getter，改用 snapshotEvents()。 */
+const sessionEvents = (s: { events?: readonly SessionEvent[]; snapshotEvents?: () => readonly SessionEvent[] }): readonly SessionEvent[] =>
+  typeof s.snapshotEvents === 'function' ? s.snapshotEvents() : (s.events ?? [])
+
+/** 跨代 settings 写守卫：rc.1 的 update() 是 async，try/catch 捕不到 promise 拒绝；统一吞掉，下轮心跳重试。 */
+const guardedUpdate = (scope: { update(patch: unknown): unknown }, patch: unknown): void => {
+  try { void Promise.resolve(scope.update(patch)).catch(() => { /* best effort */ }) } catch { /* best effort */ }
+}
+
 export const name = 'dsh-grok-bot'
 export const inject = ['timer', 'agents', 'settings', 'sessions', 'tools'] as const
 
@@ -299,7 +308,7 @@ export function apply(ctx: Context): void {
   const approvalsScope = ctx.settings.register('grok-approvals', ApprovalsSchema)
   const activeScope = ctx.settings.register('grok-active', ActiveRunsSchema)
   const readSection = (): BotSection => (sectionScope.get() as BotSection | null) ?? { intervalSeconds: 60, routines: [] }
-  const saveRoutines = (routines: Routine[]): void => { sectionScope.update({ routines }) }
+  const saveRoutines = (routines: Routine[]): void => { guardedUpdate(sectionScope, { routines }) }
   const writeRoutines = saveRoutines
   // 每例程一把锁（同名 run 不并发）；另有全局并发闸门，见 dispatchRoutine。
   const lock = new Set<string>()
@@ -307,9 +316,7 @@ export function apply(ctx: Context): void {
   const activeRuns = new Map<string, ActiveRunSnapshot>()
 
   /** 把整个 activeRuns 注册表刷盘（供 client 面板订阅）。始终以 Map 为主，全量覆盖。 */
-  const syncActive = (): void => {
-    try { activeScope.update({ runs: Array.from(activeRuns.values()) }) } catch { /* best effort */ }
-  }
+  const syncActive = (): void => { guardedUpdate(activeScope, { runs: Array.from(activeRuns.values()) }) }
   /** 新增/更新一个在跑 run 的快照并全量刷盘。 */
   const upsertActive = (snap: ActiveRunSnapshot): void => {
     activeRuns.set(snap.runId, snap)
@@ -323,7 +330,7 @@ export function apply(ctx: Context): void {
   let settingsWritable = false
   const probeSettingsWritable = (): boolean => {
     if (settingsWritable) return true
-    try { activeScope.update({ runs: Array.from(activeRuns.values()) }); settingsWritable = true } catch { return false }
+    guardedUpdate(activeScope, { runs: Array.from(activeRuns.values()) }); settingsWritable = true
     return true
   }
 
@@ -335,7 +342,7 @@ export function apply(ctx: Context): void {
   }
   const runSectionUpdate = (entry: RunEntry): void => {
     const current = runsScope.get() as unknown as { runs: RunEntry[] }
-    runsScope.update({ runs: [entry, ...(current?.runs ?? [])].slice(0, LAST_RUNS_CAP) })
+    guardedUpdate(runsScope, { runs: [entry, ...(current?.runs ?? [])].slice(0, LAST_RUNS_CAP) })
   }
 
   // ---- 每例程一个常驻 agent（隔离上下文；重启恢复） ----
@@ -376,7 +383,7 @@ export function apply(ctx: Context): void {
   const readApprovals = (): ApprovalRequest[] =>
     (approvalsScope.get() as unknown as { requests?: ApprovalRequest[] } | undefined)?.requests ?? []
   const writeApprovals = (requests: ApprovalRequest[]): void => {
-    approvalsScope.update({ requests: requests.slice(0, 50) })
+    guardedUpdate(approvalsScope, { requests: requests.slice(0, 50) })
   }
   const addApproval = (routine: Routine, runId: string): ApprovalRequest => {
     const request: ApprovalRequest = {
@@ -428,7 +435,7 @@ export function apply(ctx: Context): void {
       content: [{ type: 'text', text: `📋 例程「${routine.name}」${entry.status === 'done' ? '完毕' : entry.status}\n${entry.result.slice(0, 800)}${entry.reason ? `\n原因：${entry.reason}` : ''}` }],
       source: { provider: routine.provider ?? 'wechat-miniprogram', model: routine.model ?? 'Deepseek-v4-flash' },
     })
-    const lastTurn = target.events.reduce((max, e) => {
+    const lastTurn = sessionEvents(target).reduce((max, e) => {
       if ((e.type === 'assistant/message' || e.type === 'user/message' || e.type === 'tool/result') && e.data && typeof (e.data as { turn?: unknown }).turn === 'number') {
         return Math.max(max, (e.data as { turn: number }).turn)
       }
@@ -491,7 +498,7 @@ export function apply(ctx: Context): void {
       // M4 预算实时拦截：运行中持续读累计进度，超限立即 cancel，而非事后标记。
       let over = ''
       const monitor = setInterval(() => {
-        const cur = summarize(agent.session.events, fromSeq)
+        const cur = summarize(sessionEvents(agent.session), fromSeq)
         onProgress({ turns: cur.turns, tokens: cur.tokens, elapsedMs: Date.now() - startedAt })
         if (!over && budget) {
           const o = overBy(cur)
@@ -512,8 +519,8 @@ export function apply(ctx: Context): void {
           try { await Promise.race([agent.whenIdle(), new Promise((r) => setTimeout(r, 5_000))]) } catch { /* best effort */ }
         }
         // finally 统一 clearInterval；这里不再重复，避免多余的微任务等待
-        const out = summarize(agent.session.events, fromSeq)
-        const detail = collectDetail(agent.session.events, fromSeq)
+        const out = summarize(sessionEvents(agent.session), fromSeq)
+        const detail = collectDetail(sessionEvents(agent.session), fromSeq)
         try { await ctx.sessions.flush(agent.session) } catch { /* best effort */ }
         const failed = out.reason?.kind === 'error'
         const reason = reasonMessage(out.reason)
@@ -885,7 +892,7 @@ export function apply(ctx: Context): void {
   // ---------- 启动 ----------
   const tick = Math.max(10, readSection().intervalSeconds || 60)
   // 清空上次进程遗留的 grok-active 快照（内存注册表重启即空，磁盘副本不再有意义）。
-  try { activeScope.update({ runs: [] }) } catch { /* best effort */ }
+  guardedUpdate(activeScope, { runs: [] })
   const timer = ctx.interval(heartbeat, tick * 1000)
   ctx.on('dispose', () => { timer.dispose() })
   logger.info(`dsh-grok-bot loaded (routines + live status, tick ${tick}s, max concurrent ${MAX_RUNS_CONCURRENT})`)

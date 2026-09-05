@@ -16,6 +16,14 @@ import { defineTool } from "@deepseek-ai/dsh-tools";
 *
 * 约束：只导出命名符号；inject 列出用到的每个服务；settings 段用 schemastery。
 */
+/** 跨 0.1.1/0.1.2 的会话事件快照读取：0.1.2 移除 events getter，改用 snapshotEvents()。 */
+const sessionEvents = (s) => typeof s.snapshotEvents === "function" ? s.snapshotEvents() : s.events ?? [];
+/** 跨代 settings 写守卫：rc.1 的 update() 是 async，try/catch 捕不到 promise 拒绝；统一吞掉，下轮心跳重试。 */
+const guardedUpdate = (scope, patch) => {
+	try {
+		Promise.resolve(scope.update(patch)).catch(() => {});
+	} catch {}
+};
 const name = "dsh-grok-bot";
 const inject = [
 	"timer",
@@ -213,16 +221,14 @@ function apply(ctx) {
 		routines: []
 	};
 	const saveRoutines = (routines) => {
-		sectionScope.update({ routines });
+		guardedUpdate(sectionScope, { routines });
 	};
 	const writeRoutines = saveRoutines;
 	const lock = /* @__PURE__ */ new Set();
 	const activeRuns = /* @__PURE__ */ new Map();
 	/** 把整个 activeRuns 注册表刷盘（供 client 面板订阅）。始终以 Map 为主，全量覆盖。 */
 	const syncActive = () => {
-		try {
-			activeScope.update({ runs: Array.from(activeRuns.values()) });
-		} catch {}
+		guardedUpdate(activeScope, { runs: Array.from(activeRuns.values()) });
 	};
 	/** 新增/更新一个在跑 run 的快照并全量刷盘。 */
 	const upsertActive = (snap) => {
@@ -237,12 +243,8 @@ function apply(ctx) {
 	let settingsWritable = false;
 	const probeSettingsWritable = () => {
 		if (settingsWritable) return true;
-		try {
-			activeScope.update({ runs: Array.from(activeRuns.values()) });
-			settingsWritable = true;
-		} catch {
-			return false;
-		}
+		guardedUpdate(activeScope, { runs: Array.from(activeRuns.values()) });
+		settingsWritable = true;
 		return true;
 	};
 	const logPath = resolve(dirname(fileURLToPath(import.meta.url)), "../.grok-bot-runs.jsonl");
@@ -256,7 +258,7 @@ function apply(ctx) {
 	};
 	const runSectionUpdate = (entry) => {
 		const current = runsScope.get();
-		runsScope.update({ runs: [entry, ...current?.runs ?? []].slice(0, LAST_RUNS_CAP) });
+		guardedUpdate(runsScope, { runs: [entry, ...current?.runs ?? []].slice(0, LAST_RUNS_CAP) });
 	};
 	const fleet = /* @__PURE__ */ new Map();
 	const sessionIdFor = (id) => SessionId("routine-" + id.toLowerCase().replace(/[^a-z0-9-]/g, "-"));
@@ -295,7 +297,7 @@ function apply(ctx) {
 	}
 	const readApprovals = () => approvalsScope.get()?.requests ?? [];
 	const writeApprovals = (requests) => {
-		approvalsScope.update({ requests: requests.slice(0, 50) });
+		guardedUpdate(approvalsScope, { requests: requests.slice(0, 50) });
 	};
 	const addApproval = (routine, runId) => {
 		const request = {
@@ -354,7 +356,7 @@ function apply(ctx) {
 				model: routine.model ?? "Deepseek-v4-flash"
 			}
 		});
-		const lastTurn = target.events.reduce((max, e) => {
+		const lastTurn = sessionEvents(target).reduce((max, e) => {
 			if ((e.type === "assistant/message" || e.type === "user/message" || e.type === "tool/result") && e.data && typeof e.data.turn === "number") return Math.max(max, e.data.turn);
 			return max;
 		}, -1);
@@ -423,7 +425,7 @@ function apply(ctx) {
 			}));
 			let over = "";
 			const monitor = setInterval(() => {
-				const cur = summarize(agent.session.events, fromSeq);
+				const cur = summarize(sessionEvents(agent.session), fromSeq);
 				onProgress({
 					turns: cur.turns,
 					tokens: cur.tokens,
@@ -449,8 +451,8 @@ function apply(ctx) {
 						await Promise.race([agent.whenIdle(), new Promise((r) => setTimeout(r, 5e3))]);
 					} catch {}
 				}
-				const out = summarize(agent.session.events, fromSeq);
-				const detail = collectDetail(agent.session.events, fromSeq);
+				const out = summarize(sessionEvents(agent.session), fromSeq);
+				const detail = collectDetail(sessionEvents(agent.session), fromSeq);
 				try {
 					await ctx.sessions.flush(agent.session);
 				} catch {}
@@ -1084,9 +1086,7 @@ function apply(ctx) {
 		}
 	}));
 	const tick = Math.max(10, readSection().intervalSeconds || 60);
-	try {
-		activeScope.update({ runs: [] });
-	} catch {}
+	guardedUpdate(activeScope, { runs: [] });
 	const timer = ctx.interval(heartbeat, tick * 1e3);
 	ctx.on("dispose", () => {
 		timer.dispose();
